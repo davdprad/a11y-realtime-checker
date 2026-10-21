@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1"
+    />
+    <title>Regressão: DOM intacto</title>
+    <style>
+      body {
+        font:
+          16px/1.5 system-ui,
+          sans-serif;
+        margin: 16px;
+        background: #fff;
+      }
+      .claro {
+        color: #bbb;
+      }
+      .mini {
+        width: 12px;
+        height: 12px;
+        padding: 0;
+        border: 1px solid #333;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Página com várias violações</h1>
+    <p class="claro">Texto com contraste insuficiente.</p>
+    <img src="data:image/gif;base64,R0lGODlhAQABAAAAACw=" width="40" height="40" />
+    <a href="#x"></a>
+    <button></button>
+    <div role="buton">papel inválido</div>
+    <div role="checkbox">sem aria-checked</div>
+    <input type="text" />
+    <h4>Salto de nível</h4>
+    <div>
+      <button class="mini" aria-label="a"></button
+      ><button class="mini" aria-label="b"></button>
+    </div>
+    <div id="host"></div>
+    <iframe
+      id="frame"
+      title="Quadro de mesma origem"
+      src="regression-frame.html"
+      width="300"
+      height="120"
+    ></iframe>
+    <script>
+      const shadow = document.getElementById('host').attachShadow({ mode: 'open' });
+      shadow.innerHTML = '<button></button><p style="color:#ccc">texto no shadow</p>';
+    </script>
+  </body>
+</html>

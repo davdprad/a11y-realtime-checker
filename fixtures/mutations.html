@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Mutações frequentes</title>
+    <style>
+      body {
+        font:
+          16px/1.5 system-ui,
+          sans-serif;
+        margin: 16px;
+        color: #1b1b1b;
+        background: #fff;
+      }
+      li {
+        margin: 4px 0;
+      }
+      button {
+        min-height: 32px;
+        padding: 4px 12px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Mutações frequentes</h1>
+    <p>Contador: <output id="contador">0</output></p>
+    <ul id="lista"></ul>
+    <script>
+      // Contador que atualiza o texto a cada 100 ms e lista que cresce a cada 250 ms
+      // (com uma violação a cada 10 itens: imagem sem alt).
+      (function () {
+        let n = 0;
+        let i = 0;
+        const out = document.getElementById('contador');
+        const list = document.getElementById('lista');
+        window.a11yRtMutations = {
+          timers: [],
+          start() {
+            this.timers.push(
+              setInterval(() => {
+                out.textContent = String(++n);
+              }, 100),
+            );
+            this.timers.push(
+              setInterval(() => {
+                i++;
+                const li = document.createElement('li');
+                li.innerHTML =
+                  i % 10 === 0
+                    ? '<img src="data:image/gif;base64,R0lGODlhAQABAAAAACw=" width="20" height="20"> Item ' +
+                      i
+                    : '<a href="#i' +
+                      i +
+                      '">Item ' +
+                      i +
+                      '</a> <button type="button">Remover</button>';
+                list.append(li);
+              }, 250),
+            );
+          },
+          stop() {
+            this.timers.forEach(clearInterval);
+            this.timers = [];
+          },
+          count() {
+            return i;
+          },
+        };
+      })();
+    </script>
+  </body>
+</html>

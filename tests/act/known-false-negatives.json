@@ -1,0 +1,12 @@
+[
+  {
+    "testcaseId": "41afaa9b33287aba9c608c3466e2b164f57a02ed",
+    "ruleId": "afw4f7",
+    "reason": "Texto sobre imagem de fundo (url()). As cores da imagem não são lidas (não há acesso determinístico aos pixels sem canvas/captura de tela); o resultado é 'incomplete' por projeto, para proteger a precisão."
+  },
+  {
+    "testcaseId": "8c33a0af471cc3c1abbb9f709afa6629b13daf3a",
+    "ruleId": "afw4f7",
+    "reason": "text-shadow que envolve os glifos (4 sombras #aaa). O contraste texto/fundo (#666 sobre #fff = 5,7:1) passa; a ACT considera a sombra como o fundo efetivo. A extensão só decide quando nem o fundo nem a sombra atingem o mínimo; nos demais casos devolve 'incomplete'."
+  }
+]

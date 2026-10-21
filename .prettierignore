@@ -1,0 +1,16 @@
+.output
+.wxt
+coverage
+node_modules
+playwright-report
+test-results
+reports
+pnpm-lock.yaml
+tests/act/www
+src/lib/*.generated.ts
+initial_prompt.md
+fixtures/large-dom-*.html
+tests/act/testcases.json
+tests/act/known-false-negatives.json
+public/_locales
+__screenshots__
