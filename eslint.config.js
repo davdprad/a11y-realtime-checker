@@ -15,6 +15,7 @@ export default tseslint.config(
       'reports/**',
       'tests/act/www/**',
       'fixtures/**',
+      'comparative-study/**',
       'src/lib/*.generated.ts',
     ],
   },

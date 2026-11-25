@@ -1,0 +1,537 @@
+{
+ "id": "mercadolivre",
+ "grupo": "sites",
+ "url": "https://www.mercadolivre.com.br/",
+ "meta": {
+  "descricao": "Comércio eletrônico",
+  "origem": "brasileiro"
+ },
+ "coletadoEm": "2026-11-24T03:48:33.185Z",
+ "versoes": {
+  "chromium": "156.0.8078.4",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+  "axeCore": "4.14.1",
+  "wave": "3.3.4.0",
+  "extensao": "0.1.0"
+ },
+ "urlFinal": "https://www.mercadolivre.com.br/",
+ "extensao": {
+  "ativa": true,
+  "esperaMs": 691,
+  "varreduraInicial": {
+   "startedAt": 4336.699999999255,
+   "wallMs": 6.700000001117587,
+   "activeMs": 4.600000001490116,
+   "nodesEvaluated": 18,
+   "slices": 1,
+   "maxSliceMs": 4.600000001490116
+  },
+  "lotes": 1,
+  "ocorrencias": [
+   {
+    "wcag": "3.1.1",
+    "outcome": "violation",
+    "regras": [
+     "html-lang:violation"
+    ],
+    "dados": [
+     null
+    ],
+    "seletor": "html",
+    "path": "document",
+    "frameId": 0,
+    "snippet": "<html>"
+   },
+   {
+    "wcag": "2.4.2",
+    "outcome": "violation",
+    "regras": [
+     "document-title:violation"
+    ],
+    "dados": [
+     null
+    ],
+    "seletor": "html",
+    "path": "document",
+    "frameId": 0,
+    "snippet": "<html>"
+   }
+  ]
+ },
+ "arvoreAcessibilidade": {
+  "html>a11y-rt-overlay:2>#shadow>div:2>button:1": {
+   "role": "button",
+   "name": "Problemas da página inteira: critério 2.4.2, 3.1.1. Abrir detalhes",
+   "ignored": false,
+   "ignoredReasons": [],
+   "tag": "button",
+   "alt": null,
+   "roleAttr": null
+  },
+  "html>body:2>header:1>div:1>a:1": {
+   "role": "link",
+   "name": "Mercado Libre - Donde comprar y vender de todo",
+   "ignored": false,
+   "ignoredReasons": [],
+   "tag": "a",
+   "alt": null,
+   "roleAttr": null
+  },
+  "html>body:2>main:2>div:1>div:1>div:1>div:2>a:1": {
+   "role": "link",
+   "name": "Ir a la página principal",
+   "ignored": false,
+   "ignoredReasons": [],
+   "tag": "a",
+   "alt": null,
+   "roleAttr": null
+  }
+ },
+ "pagina": {
+  "lang": null,
+  "xmlLang": null,
+  "title": "",
+  "viewport": [],
+  "nos": 19
+ },
+ "axe": {
+  "violacoes": [
+   {
+    "id": "document-title",
+    "impact": "serious",
+    "tags": [
+     "wcag242"
+    ],
+    "nos": [
+     {
+      "alvo": [
+       "html"
+      ],
+      "path": "html",
+      "html": "<html>",
+      "resumo": "Fix any of the following:\n  Document does not have a non-empty <title> element",
+      "dados": null
+     }
+    ]
+   },
+   {
+    "id": "html-has-lang",
+    "impact": "serious",
+    "tags": [
+     "wcag311"
+    ],
+    "nos": [
+     {
+      "alvo": [
+       "html"
+      ],
+      "path": "html",
+      "html": "<html>",
+      "resumo": "Fix any of the following:\n  The <html> element does not have a lang attribute",
+      "dados": {
+       "messageKey": "noLang"
+      }
+     }
+    ]
+   }
+  ],
+  "incompletas": [],
+  "testEngine": {
+   "name": "axe-core",
+   "version": "4.14.1"
+  }
+ },
+ "alvos258": {},
+ "wave": {
+  "stats": {
+   "allitemcount": 8,
+   "totalelements": 27,
+   "pagetitle": "",
+   "aim": 7,
+   "error": 3,
+   "contrast": 0,
+   "alert": 2,
+   "feature": 0,
+   "structure": 3,
+   "aria": 0
+  },
+  "icons": [
+   {
+    "type": "label_missing",
+    "pageWide": false,
+    "path": "html>body:2>header:1>div:1>input:2",
+    "tag": "input"
+   },
+   {
+    "type": "title_invalid",
+    "pageWide": true,
+    "path": "html>body:2>div:2",
+    "tag": "div"
+   },
+   {
+    "type": "language_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:2",
+    "tag": "div"
+   },
+   {
+    "type": "h1_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:2",
+    "tag": "div"
+   },
+   {
+    "type": "tabindex",
+    "pageWide": false,
+    "path": "html>body:2>header:1>div:1>a:1",
+    "tag": "a"
+   },
+   {
+    "type": "h4",
+    "pageWide": false,
+    "path": "html>body:2>main:2>div:1>div:1>div:1>h4:1",
+    "tag": "h4"
+   },
+   {
+    "type": "header",
+    "pageWide": false,
+    "path": "html>body:2>header:1",
+    "tag": "header"
+   },
+   {
+    "type": "main",
+    "pageWide": false,
+    "path": "html>body:2>main:2",
+    "tag": "main"
+   }
+  ]
+ },
+ "contraste": {},
+ "arvoreComplementar": {
+  "html": {
+   "role": "none",
+   "name": "",
+   "ignored": true,
+   "ignoredReasons": [
+    "uninteresting"
+   ],
+   "tag": "html",
+   "alt": null,
+   "roleAttr": null
+  },
+  "html>body:2>header:1": {
+   "role": "banner",
+   "name": "",
+   "ignored": false,
+   "ignoredReasons": [],
+   "tag": "header",
+   "alt": null,
+   "roleAttr": "banner"
+  },
+  "html>body:2>main:2": {
+   "role": "main",
+   "name": "",
+   "ignored": false,
+   "ignoredReasons": [],
+   "tag": "main",
+   "alt": null,
+   "roleAttr": "main"
+  },
+  "html>body:2>main:2>div:1>div:1>div:1>h4:1": {
+   "role": "heading",
+   "name": "Hubo un error accediendo a esta pagina...",
+   "ignored": false,
+   "ignoredReasons": [],
+   "tag": "h4",
+   "alt": null,
+   "roleAttr": null
+  }
+ },
+ "infoElementos": {
+  "html>body:2>header:1>div:1>input:2": {
+   "tag": "input",
+   "snippet": "<input type=\"checkbox\" id=\"nav-header-menu-switch\">",
+   "text": "",
+   "ownText": "",
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "pageRect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "visible": false,
+   "color": "rgb(0, 0, 0)",
+   "fontSize": "13.3333px",
+   "fontWeight": "400",
+   "textShadow": "none",
+   "display": "none",
+   "bgChain": [
+    {
+     "tag": "input",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "div",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "header",
+     "bg": "rgb(255, 240, 89)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    }
+   ]
+  },
+  "html>body:2>div:2": null,
+  "html>body:2>main:2>div:1>div:1>div:1>h4:1": {
+   "tag": "h4",
+   "snippet": "<h4 class=\"ui-empty-state__title\" data-reactid=\"25\">Hubo un error accediendo a esta pagina...</h4>",
+   "text": "Hubo un error accediendo a esta pagina...",
+   "ownText": "Hubo un error accediendo a esta pagina...",
+   "rect": [
+    849.06,
+    461,
+    427.88,
+    20
+   ],
+   "pageRect": [
+    849,
+    461,
+    428,
+    20
+   ],
+   "visible": true,
+   "color": "rgb(51, 51, 51)",
+   "fontSize": "20px",
+   "fontWeight": "700",
+   "textShadow": "none",
+   "display": "block",
+   "bgChain": [
+    {
+     "tag": "h4",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "div",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "div",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "div",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "main",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "body",
+     "bg": "rgb(255, 255, 255)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    }
+   ]
+  },
+  "html>body:2>header:1": {
+   "tag": "header",
+   "snippet": "<header role=\"banner\" class=\"nav-header nav-header-lite\">\n    <div class=\"nav-bounds\">\n      <a class=\"nav-logo\" href=\"https://www.mercadolibre.com/\" tabindex=\"1\">Mercado Libre - Donde comprar y vender de todo</a>\n      <input type=\"checkbox\" id=\"nav-header-menu-switch\">\n      <div class=\"nav-header",
+   "text": "Mercado Libre - Donde comprar y vender de todo",
+   "ownText": "",
+   "rect": [
+    380,
+    0,
+    1366,
+    54.5
+   ],
+   "pageRect": [
+    380,
+    0,
+    1366,
+    55
+   ],
+   "visible": true,
+   "color": "rgb(51, 51, 51)",
+   "fontSize": "13px",
+   "fontWeight": "400",
+   "textShadow": "none",
+   "display": "table-row",
+   "bgChain": [
+    {
+     "tag": "header",
+     "bg": "rgb(255, 240, 89)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    }
+   ]
+  },
+  "html>body:2>main:2": {
+   "tag": "main",
+   "snippet": "<main role=\"main\" id=\"root-app\">\n    <div data-reactroot=\"\" data-reactid=\"1\" data-react-checksum=\"-1021459414\">\n      <div class=\"ui-empty-state not-found-page\" data-reactid=\"5\">\n        <div class=\"ui-empty-state__container\" data-reactid=\"6\">\n          <h4 class=\"ui-empty-state__title\" data-reactid",
+   "text": "Hubo un error accediendo a esta pagina... Ir a la página principal",
+   "ownText": "",
+   "rect": [
+    380,
+    54.5,
+    1366,
+    845.5
+   ],
+   "pageRect": [
+    380,
+    55,
+    1366,
+    846
+   ],
+   "visible": true,
+   "color": "rgb(0, 0, 0)",
+   "fontSize": "13px",
+   "fontWeight": "400",
+   "textShadow": "none",
+   "display": "table-row",
+   "bgChain": [
+    {
+     "tag": "main",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "body",
+     "bg": "rgb(255, 255, 255)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    }
+   ]
+  },
+  "html": {
+   "tag": "html",
+   "snippet": "<html style=\"margin-left: 380px; transition: margin-left 0.2s;\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"https://http2.mlstatic.com/ui/navigation/2.3.5/mercadolibre/navigation.css\">\n  <style>\n    .ui-empty-state {\n    ",
+   "text": ".ui-empty-state { position: relative; min-height: 25em } .ui-empty-state__container { position: absolute; top: 50%; left: 50%; -webkit-transform: translate(-50%, -50%); -ms-transform: translate(-50%, ",
+   "ownText": "",
+   "rect": [
+    380,
+    0,
+    1366,
+    900
+   ],
+   "pageRect": [
+    380,
+    0,
+    1366,
+    900
+   ],
+   "visible": true,
+   "color": "rgb(0, 0, 0)",
+   "fontSize": "13px",
+   "fontWeight": "400",
+   "textShadow": "none",
+   "display": "block",
+   "bgChain": [
+    {
+     "tag": "html",
+     "bg": "rgb(255, 255, 255)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    }
+   ]
+  },
+  "html>body:2>header:1>div:1>a:1": {
+   "tag": "a",
+   "snippet": "<a class=\"nav-logo\" href=\"https://www.mercadolibre.com/\" tabindex=\"1\">Mercado Libre - Donde comprar y vender de todo</a>",
+   "text": "Mercado Libre - Donde comprar y vender de todo",
+   "ownText": "Mercado Libre - Donde comprar y vender de todo",
+   "rect": [
+    463,
+    7,
+    159,
+    40
+   ],
+   "pageRect": [
+    463,
+    7,
+    159,
+    40
+   ],
+   "visible": true,
+   "color": "rgb(0, 0, 238)",
+   "fontSize": "13px",
+   "fontWeight": "400",
+   "textShadow": "none",
+   "display": "block",
+   "bgChain": [
+    {
+     "tag": "a",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": true,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "div",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "header",
+     "bg": "rgb(255, 240, 89)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    }
+   ]
+  }
+ }
+}

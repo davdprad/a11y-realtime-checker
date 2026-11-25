@@ -98,3 +98,4 @@ com p50/p95/máximo, CSV do Apêndice B) e a cobertura em `coverage/`.
 - [`docs/LIMITATIONS.md`](docs/LIMITATIONS.md) — limitações conhecidas
 - [`docs/RESULTS.md`](docs/RESULTS.md) — resultados da validação (ACT, dinâmico, desempenho)
 - [`docs/a11y-manual-check.md`](docs/a11y-manual-check.md) — roteiro com leitor de tela
+- [`comparative-study/`](comparative-study/README.md) — estudo comparativo com axe-core e WAVE (dados e scripts)

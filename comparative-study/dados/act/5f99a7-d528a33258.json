@@ -1,0 +1,77 @@
+{
+ "id": "5f99a7-d528a33258",
+ "grupo": "act",
+ "url": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/5f99a7/d528a33258103014c0a03cf1e418ee0620f7b4f6.html",
+ "meta": {
+  "regra": "5f99a7",
+  "nomeRegra": "ARIA attribute is defined in WAI-ARIA",
+  "caso": "Inapplicable Example 1",
+  "esperado": "inapplicable",
+  "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/5f99a7/d528a33258103014c0a03cf1e418ee0620f7b4f6.html"
+ },
+ "coletadoEm": "2026-11-24T03:35:56.494Z",
+ "versoes": {
+  "chromium": "156.0.8078.4",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+  "axeCore": "4.14.1",
+  "wave": "3.3.4.0",
+  "extensao": "0.1.0"
+ },
+ "urlFinal": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/5f99a7/d528a33258103014c0a03cf1e418ee0620f7b4f6.html",
+ "extensao": {
+  "ativa": true,
+  "esperaMs": 637,
+  "varreduraInicial": {
+   "startedAt": 32.40000000037253,
+   "wallMs": 2.300000000745058,
+   "activeMs": 2.200000001117587,
+   "nodesEvaluated": 5,
+   "slices": 1,
+   "maxSliceMs": 2.200000001117587
+  },
+  "lotes": 1,
+  "ocorrencias": []
+ },
+ "axe": {
+  "violacoes": [],
+  "incompletas": [],
+  "testEngine": {
+   "name": "axe-core",
+   "version": "4.14.1"
+  }
+ },
+ "wave": {
+  "stats": {
+   "allitemcount": 3,
+   "totalelements": 13,
+   "pagetitle": "Inapplicable Example 1",
+   "aim": 10,
+   "error": 0,
+   "contrast": 0,
+   "alert": 2,
+   "feature": 1,
+   "structure": 0,
+   "aria": 0
+  },
+  "icons": [
+   {
+    "type": "heading_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "region_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "lang",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   }
+  ]
+ }
+}

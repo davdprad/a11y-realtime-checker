@@ -1,0 +1,121 @@
+{
+ "id": "7d6734-2847ca922f",
+ "grupo": "act",
+ "url": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/7d6734/2847ca922fa3564341094245c34ef3120167bc0b.html",
+ "meta": {
+  "regra": "7d6734",
+  "nomeRegra": "SVG element with explicit role has non-empty accessible name",
+  "caso": "Failed Example 1",
+  "esperado": "failed",
+  "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/7d6734/2847ca922fa3564341094245c34ef3120167bc0b.html"
+ },
+ "coletadoEm": "2026-11-24T03:40:05.982Z",
+ "versoes": {
+  "chromium": "156.0.8078.4",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+  "axeCore": "4.14.1",
+  "wave": "3.3.4.0",
+  "extensao": "0.1.0"
+ },
+ "urlFinal": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/7d6734/2847ca922fa3564341094245c34ef3120167bc0b.html",
+ "extensao": {
+  "ativa": true,
+  "esperaMs": 652,
+  "varreduraInicial": {
+   "startedAt": 31.799999998882413,
+   "wallMs": 10.700000001117587,
+   "activeMs": 5.200000001117587,
+   "nodesEvaluated": 7,
+   "slices": 1,
+   "maxSliceMs": 5.200000001117587
+  },
+  "lotes": 1,
+  "ocorrencias": [
+   {
+    "wcag": "1.1.1",
+    "outcome": "violation",
+    "regras": [
+     "svg-img-name:violation"
+    ],
+    "dados": [
+     {
+      "role": "img"
+     }
+    ],
+    "seletor": "[role=\"img\"]",
+    "path": "html>body:2>svg:2",
+    "frameId": 0,
+    "snippet": "<svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\">"
+   }
+  ]
+ },
+ "axe": {
+  "violacoes": [
+   {
+    "id": "svg-img-alt",
+    "impact": "serious",
+    "tags": [
+     "wcag111"
+    ],
+    "nos": [
+     {
+      "alvo": [
+       "svg"
+      ],
+      "path": "html>body:2>svg:2",
+      "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\">\n\t\t<circle cx=\"50\" cy=\"50\" r=\"40\" stroke=\"green\" stroke-width=\"4\" fill=\"yellow\"></circle>\n\t</svg>",
+      "resumo": "Fix any of the following:\n  Element has no child that is a title\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute",
+      "dados": {
+       "messageKey": "noTitle"
+      }
+     }
+    ]
+   }
+  ],
+  "incompletas": [],
+  "testEngine": {
+   "name": "axe-core",
+   "version": "4.14.1"
+  }
+ },
+ "wave": {
+  "stats": {
+   "allitemcount": 4,
+   "totalelements": 16,
+   "pagetitle": "Failed Example 1",
+   "aim": 10,
+   "error": 0,
+   "contrast": 0,
+   "alert": 2,
+   "feature": 1,
+   "structure": 0,
+   "aria": 1
+  },
+  "icons": [
+   {
+    "type": "heading_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:2",
+    "tag": "div"
+   },
+   {
+    "type": "region_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:2",
+    "tag": "div"
+   },
+   {
+    "type": "lang",
+    "pageWide": true,
+    "path": "html>body:2>div:2",
+    "tag": "div"
+   },
+   {
+    "type": "aria",
+    "pageWide": false,
+    "path": "html>body:2>svg:2",
+    "tag": "svg"
+   }
+  ]
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "id": "bf051a-1b73557d29",
+ "grupo": "act",
+ "url": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/bf051a/1b73557d29073ecd327790ca1a6e343b4395b2ab.svg",
+ "meta": {
+  "regra": "bf051a",
+  "nomeRegra": "HTML page `lang` attribute has valid language tag",
+  "caso": "Inapplicable Example 1",
+  "esperado": "inapplicable",
+  "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/bf051a/1b73557d29073ecd327790ca1a6e343b4395b2ab.svg"
+ },
+ "coletadoEm": "2026-11-24T03:37:13.540Z",
+ "versoes": {
+  "chromium": "156.0.8078.4",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+  "axeCore": "4.14.1",
+  "wave": "3.3.4.0",
+  "extensao": "0.1.0"
+ },
+ "urlFinal": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/bf051a/1b73557d29073ecd327790ca1a6e343b4395b2ab.svg",
+ "extensao": {
+  "ativa": false,
+  "esperaMs": 648,
+  "varreduraInicial": null,
+  "lotes": 0,
+  "ocorrencias": []
+ },
+ "axe": {
+  "violacoes": [],
+  "incompletas": [],
+  "testEngine": {
+   "name": "axe-core",
+   "version": "4.14.1"
+  }
+ },
+ "wave": {
+  "stats": null,
+  "icons": [],
+  "erro": "Error: tempo esgotado: WAVE"
+ }
+}

@@ -1,0 +1,12 @@
+[1/10] discourse ext=32 axe=32 wave=464
+[2/10] openlibrary ext=30 axe=33 wave=327
+[3/10] mastodon ext=12 axe=12 wave=177
+[4/10] wikipedia ext=27 axe=31 wave=284
+[5/10] govbr ext=19 axe=13 wave=499
+[6/10] ibge ext=0 axe=1 wave=11
+[7/10] ufam ext=53 axe=67 wave=210
+[8/10] camara ext=0 axe=0 wave=243
+[9/10] g1 ext=16 axe=18 wave=289
+[10/10] mercadolivre ext=2 axe=2 wave=8
+[1/2] bcb ext=6 axe=19 wave=904
+[2/2] americanas ext=8 axe=1 wave=997

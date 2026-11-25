@@ -1,0 +1,30 @@
+﻿ferramenta;tipo;criterio;VP;FP;FN;VN;precisao;revocacao
+extensao;todos;todos;377;3;13;0;0.9921;0.9667
+axe;todos;todos;367;3;23;0;0.9919;0.941
+wave;todos;todos;254;115;33;0;0.6883;0.885
+extensao;todos (bad);todos;180;0;0;0;1.0;1.0
+axe;todos (bad);todos;179;0;1;0;1.0;0.9944
+wave;todos (bad);todos;167;0;5;0;1.0;0.9709
+extensao;todos (sites);todos;197;3;13;0;0.985;0.9381
+axe;todos (sites);todos;188;3;22;0;0.9843;0.8952
+wave;todos (sites);todos;87;115;28;0;0.4307;0.7565
+extensao;imagem-sem-nome;1.1.1;126;0;0;0;1.0;1.0
+axe;imagem-sem-nome;1.1.1;126;0;0;0;1.0;1.0
+wave;imagem-sem-nome;1.1.1;126;34;0;0;0.7875;1.0
+extensao;campo-sem-nome;1.3.1;17;0;0;0;1.0;1.0
+axe;campo-sem-nome;1.3.1;16;0;1;0;1.0;0.9412
+wave;campo-sem-nome;1.3.1;11;10;6;0;0.5238;0.6471
+extensao;contraste;1.4.3;70;0;4;0;1.0;0.9459
+axe;contraste;1.4.3;66;0;8;0;1.0;0.8919
+wave;contraste;1.4.3;74;54;0;0;0.5781;1.0
+extensao;link-sem-nome;2.4.4;58;2;4;0;0.9667;0.9355
+axe;link-sem-nome;2.4.4;62;0;0;0;1.0;1.0
+wave;link-sem-nome;2.4.4;37;14;25;0;0.7255;0.5968
+extensao;tamanho-alvo;2.5.8;100;1;3;0;0.9901;0.9709
+axe;tamanho-alvo;2.5.8;90;3;13;0;0.9677;0.8738
+extensao;idioma;3.1.1;4;0;0;0;1.0;1.0
+axe;idioma;3.1.1;4;0;0;0;1.0;1.0
+wave;idioma;3.1.1;4;0;0;0;1.0;1.0
+extensao;botao-sem-nome;4.1.2;2;0;2;0;1.0;0.5
+axe;botao-sem-nome;4.1.2;3;0;1;0;1.0;0.75
+wave;botao-sem-nome;4.1.2;2;3;2;0;0.4;0.5

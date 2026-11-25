@@ -1,0 +1,145 @@
+{
+ "id": "59796f-0bbd55ba8e",
+ "grupo": "act",
+ "url": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/59796f/0bbd55ba8e418361f99f717418206a37d57fd978.html",
+ "meta": {
+  "regra": "59796f",
+  "nomeRegra": "Image button has non-empty accessible name",
+  "caso": "Failed Example 3",
+  "esperado": "failed",
+  "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/59796f/0bbd55ba8e418361f99f717418206a37d57fd978.html"
+ },
+ "coletadoEm": "2026-11-24T03:38:28.396Z",
+ "versoes": {
+  "chromium": "156.0.8078.4",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+  "axeCore": "4.14.1",
+  "wave": "3.3.4.0",
+  "extensao": "0.1.0"
+ },
+ "urlFinal": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/59796f/0bbd55ba8e418361f99f717418206a37d57fd978.html",
+ "extensao": {
+  "ativa": true,
+  "esperaMs": 653,
+  "varreduraInicial": {
+   "startedAt": 33.69999999925494,
+   "wallMs": 6.099999999627471,
+   "activeMs": 3.900000000372529,
+   "nodesEvaluated": 5,
+   "slices": 1,
+   "maxSliceMs": 3.900000000372529
+  },
+  "lotes": 1,
+  "ocorrencias": [
+   {
+    "wcag": "1.1.1",
+    "outcome": "violation",
+    "regras": [
+     "image-button-name:violation"
+    ],
+    "dados": [
+     null
+    ],
+    "seletor": "[type=\"image\"]",
+    "path": "html>body:2>input:1",
+    "frameId": 0,
+    "snippet": "<input type=\"image\" src=\"/WAI/content-assets/wcag-act-rules/test-assets/shared/search-icon.svg\" aria-labelledby=\"non-existing\">"
+   }
+  ]
+ },
+ "axe": {
+  "violacoes": [
+   {
+    "id": "input-image-alt",
+    "impact": "critical",
+    "tags": [
+     "wcag111",
+     "wcag412"
+    ],
+    "nos": [
+     {
+      "alvo": [
+       "input"
+      ],
+      "path": "html>body:2>input:1",
+      "html": "<input type=\"image\" src=\"/WAI/content-assets/wcag-act-rules/test-assets/shared/search-icon.svg\" aria-labelledby=\"non-existing\">",
+      "resumo": "Fix any of the following:\n  Element has no alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element does not have an implicit (wra",
+      "dados": {
+       "messageKey": "noAttr"
+      }
+     }
+    ]
+   }
+  ],
+  "incompletas": [
+   {
+    "id": "aria-valid-attr-value",
+    "impact": "critical",
+    "tags": [
+     "wcag412"
+    ],
+    "nos": [
+     {
+      "alvo": [
+       "input"
+      ],
+      "path": "html>body:2>input:1",
+      "html": "<input type=\"image\" src=\"/WAI/content-assets/wcag-act-rules/test-assets/shared/search-icon.svg\" aria-labelledby=\"non-existing\">",
+      "resumo": "Fix all of the following:\n  ARIA attribute element ID does not exist on the page or is a descendant of a different shadow DOM tree: aria-labelledby=\"non-existing\"",
+      "dados": null
+     }
+    ]
+   }
+  ],
+  "testEngine": {
+   "name": "axe-core",
+   "version": "4.14.1"
+  }
+ },
+ "wave": {
+  "stats": {
+   "allitemcount": 5,
+   "totalelements": 14,
+   "pagetitle": "Failed Example 3",
+   "aim": 7.3,
+   "error": 2,
+   "contrast": 0,
+   "alert": 2,
+   "feature": 1,
+   "structure": 0,
+   "aria": 0
+  },
+  "icons": [
+   {
+    "type": "alt_input_missing",
+    "pageWide": false,
+    "path": "html>body:2>input:1",
+    "tag": "input"
+   },
+   {
+    "type": "aria_reference_broken",
+    "pageWide": false,
+    "path": "html>body:2>input:1",
+    "tag": "input"
+   },
+   {
+    "type": "heading_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "region_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "lang",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   }
+  ]
+ }
+}

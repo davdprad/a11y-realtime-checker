@@ -1,0 +1,83 @@
+{
+ "id": "afw4f7-aed692e9f0",
+ "grupo": "act",
+ "url": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/afw4f7/aed692e9f0a1be5c87ef1de56afa8e23e14cc3ba.html",
+ "meta": {
+  "regra": "afw4f7",
+  "nomeRegra": "Text has minimum contrast",
+  "caso": "Passed Example 6",
+  "esperado": "passed",
+  "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/aed692e9f0a1be5c87ef1de56afa8e23e14cc3ba.html"
+ },
+ "coletadoEm": "2026-11-24T03:41:48.345Z",
+ "versoes": {
+  "chromium": "156.0.8078.4",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+  "axeCore": "4.14.1",
+  "wave": "3.3.4.0",
+  "extensao": "0.1.0"
+ },
+ "urlFinal": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/afw4f7/aed692e9f0a1be5c87ef1de56afa8e23e14cc3ba.html",
+ "extensao": {
+  "ativa": true,
+  "esperaMs": 660,
+  "varreduraInicial": {
+   "startedAt": 32,
+   "wallMs": 3.5,
+   "activeMs": 3.5,
+   "nodesEvaluated": 5,
+   "slices": 1,
+   "maxSliceMs": 3.5
+  },
+  "lotes": 1,
+  "ocorrencias": []
+ },
+ "axe": {
+  "violacoes": [],
+  "incompletas": [],
+  "testEngine": {
+   "name": "axe-core",
+   "version": "4.14.1"
+  }
+ },
+ "wave": {
+  "stats": {
+   "allitemcount": 4,
+   "totalelements": 13,
+   "pagetitle": "Passed Example 6",
+   "aim": 10,
+   "error": 0,
+   "contrast": 0,
+   "alert": 3,
+   "feature": 1,
+   "structure": 0,
+   "aria": 0
+  },
+  "icons": [
+   {
+    "type": "heading_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "region_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "heading_possible",
+    "pageWide": false,
+    "path": "html>body:2>p:1",
+    "tag": "p"
+   },
+   {
+    "type": "lang",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   }
+  ]
+ }
+}

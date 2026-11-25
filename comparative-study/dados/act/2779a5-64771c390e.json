@@ -1,0 +1,139 @@
+{
+ "id": "2779a5-64771c390e",
+ "grupo": "act",
+ "url": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/2779a5/64771c390e57375a822a7223362ea7bb859c0a96.html",
+ "meta": {
+  "regra": "2779a5",
+  "nomeRegra": "HTML page has non-empty title",
+  "caso": "Passed Example 2",
+  "esperado": "passed",
+  "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/2779a5/64771c390e57375a822a7223362ea7bb859c0a96.html"
+ },
+ "coletadoEm": "2026-11-24T03:37:37.436Z",
+ "versoes": {
+  "chromium": "156.0.8078.4",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+  "axeCore": "4.14.1",
+  "wave": "3.3.4.0",
+  "extensao": "0.1.0"
+ },
+ "urlFinal": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/2779a5/64771c390e57375a822a7223362ea7bb859c0a96.html",
+ "extensao": {
+  "ativa": true,
+  "esperaMs": 661,
+  "varreduraInicial": {
+   "startedAt": 44.600000001490116,
+   "wallMs": 2.599999999627471,
+   "activeMs": 0.599999999627471,
+   "nodesEvaluated": 5,
+   "slices": 1,
+   "maxSliceMs": 0.599999999627471
+  },
+  "lotes": 1,
+  "ocorrencias": [
+   {
+    "wcag": "3.1.1",
+    "outcome": "violation",
+    "regras": [
+     "html-lang:violation"
+    ],
+    "dados": [
+     null
+    ],
+    "seletor": "html",
+    "path": "document",
+    "frameId": 0,
+    "snippet": "<html>"
+   }
+  ]
+ },
+ "axe": {
+  "violacoes": [
+   {
+    "id": "frame-title",
+    "impact": "serious",
+    "tags": [
+     "wcag412"
+    ],
+    "nos": [
+     {
+      "alvo": [
+       "iframe"
+      ],
+      "path": "html>body:2>iframe:1",
+      "html": "<iframe src=\"/WAI/content-assets/wcag-act-rules/test-assets/sc2-4-2-title-page-without-title.html\"></iframe>",
+      "resumo": "Fix any of the following:\n  Element has no title attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element's default semantics were not overridden with role=\"none\" or r",
+      "dados": {
+       "messageKey": "noAttr"
+      }
+     }
+    ]
+   },
+   {
+    "id": "html-has-lang",
+    "impact": "serious",
+    "tags": [
+     "wcag311"
+    ],
+    "nos": [
+     {
+      "alvo": [
+       "html"
+      ],
+      "path": "html",
+      "html": "<html>",
+      "resumo": "Fix any of the following:\n  The <html> element does not have a lang attribute",
+      "dados": {
+       "messageKey": "noLang"
+      }
+     }
+    ]
+   }
+  ],
+  "incompletas": [],
+  "testEngine": {
+   "name": "axe-core",
+   "version": "4.14.1"
+  }
+ },
+ "wave": {
+  "stats": {
+   "allitemcount": 4,
+   "totalelements": 14,
+   "pagetitle": "This page gives a title to an iframe",
+   "aim": 7.9,
+   "error": 1,
+   "contrast": 0,
+   "alert": 2,
+   "feature": 0,
+   "structure": 1,
+   "aria": 0
+  },
+  "icons": [
+   {
+    "type": "language_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "heading_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "region_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "iframe",
+    "pageWide": false,
+    "path": "html>body:2>iframe:1",
+    "tag": "iframe"
+   }
+  ]
+ }
+}

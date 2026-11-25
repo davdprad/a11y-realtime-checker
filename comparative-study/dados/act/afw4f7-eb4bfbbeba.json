@@ -1,0 +1,151 @@
+{
+ "id": "afw4f7-eb4bfbbeba",
+ "grupo": "act",
+ "url": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/afw4f7/eb4bfbbeba4e803fef10ebad17427f32e306ae82.html",
+ "meta": {
+  "regra": "afw4f7",
+  "nomeRegra": "Text has minimum contrast",
+  "caso": "Passed Example 7",
+  "esperado": "passed",
+  "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/eb4bfbbeba4e803fef10ebad17427f32e306ae82.html"
+ },
+ "coletadoEm": "2026-11-24T03:43:34.140Z",
+ "versoes": {
+  "chromium": "156.0.8078.4",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+  "axeCore": "4.14.1",
+  "wave": "3.3.4.0",
+  "extensao": "0.1.0"
+ },
+ "urlFinal": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/afw4f7/eb4bfbbeba4e803fef10ebad17427f32e306ae82.html",
+ "extensao": {
+  "ativa": true,
+  "esperaMs": 1039,
+  "varreduraInicial": {
+   "startedAt": 34.19999999925494,
+   "wallMs": 4.699999999254942,
+   "activeMs": 4.5,
+   "nodesEvaluated": 5,
+   "slices": 1,
+   "maxSliceMs": 4.5
+  },
+  "lotes": 1,
+  "ocorrencias": [
+   {
+    "wcag": "1.4.3",
+    "outcome": "incomplete",
+    "regras": [
+     "text-contrast:incomplete"
+    ],
+    "dados": [
+     {
+      "reason": "icon-glyph"
+     }
+    ],
+    "seletor": "[aria-label=\"Close\"]",
+    "path": "html>body:2>button:1",
+    "frameId": 0,
+    "snippet": "<button style=\"color: #666; background-color: #000\" aria-label=\"Close\">"
+   }
+  ]
+ },
+ "axe": {
+  "violacoes": [],
+  "incompletas": [
+   {
+    "id": "color-contrast",
+    "impact": "serious",
+    "tags": [
+     "wcag143"
+    ],
+    "nos": [
+     {
+      "alvo": [
+       "button"
+      ],
+      "path": "html>body:2>button:1",
+      "html": "<button style=\"color: #666; background-color: #000\" aria-label=\"Close\">X</button>",
+      "resumo": "Fix any of the following:\n  Element content is too short to determine if it is actual text content",
+      "dados": {
+       "fgColor": "#666666",
+       "bgColor": "#000000",
+       "contrastRatio": 3.65,
+       "fontSize": "10.0pt (13.3333px)",
+       "fontWeight": "normal",
+       "messageKey": "shortTextContent",
+       "expectedContrastRatio": "4.5:1"
+      }
+     }
+    ]
+   },
+   {
+    "id": "label-content-name-mismatch",
+    "impact": "serious",
+    "tags": [
+     "wcag253"
+    ],
+    "nos": [
+     {
+      "alvo": [
+       "button"
+      ],
+      "path": "html>body:2>button:1",
+      "html": "<button style=\"color: #666; background-color: #000\" aria-label=\"Close\">X</button>",
+      "resumo": "Fix any of the following:\n  Unable to determine if the visible text is part of the accessible name",
+      "dados": null
+     }
+    ]
+   }
+  ],
+  "testEngine": {
+   "name": "axe-core",
+   "version": "4.14.1"
+  }
+ },
+ "wave": {
+  "stats": {
+   "allitemcount": 5,
+   "totalelements": 13,
+   "pagetitle": "Passed Example 7",
+   "aim": 7.6,
+   "error": 0,
+   "contrast": 1,
+   "alert": 2,
+   "feature": 1,
+   "structure": 0,
+   "aria": 1
+  },
+  "icons": [
+   {
+    "type": "contrast",
+    "pageWide": false,
+    "path": "html>body:2>button:1",
+    "tag": "button"
+   },
+   {
+    "type": "heading_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "region_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "lang",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "aria_label",
+    "pageWide": false,
+    "path": "html>body:2>button:1",
+    "tag": "button"
+   }
+  ]
+ }
+}

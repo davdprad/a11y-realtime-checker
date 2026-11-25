@@ -1,0 +1,89 @@
+{
+ "id": "5f99a7-830f50dcf5",
+ "grupo": "act",
+ "url": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/5f99a7/830f50dcf51acb0b97b948000d7c163e50858312.html",
+ "meta": {
+  "regra": "5f99a7",
+  "nomeRegra": "ARIA attribute is defined in WAI-ARIA",
+  "caso": "Passed Example 4",
+  "esperado": "passed",
+  "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/5f99a7/830f50dcf51acb0b97b948000d7c163e50858312.html"
+ },
+ "coletadoEm": "2026-11-24T03:35:51.062Z",
+ "versoes": {
+  "chromium": "156.0.8078.4",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+  "axeCore": "4.14.1",
+  "wave": "3.3.4.0",
+  "extensao": "0.1.0"
+ },
+ "urlFinal": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/5f99a7/830f50dcf51acb0b97b948000d7c163e50858312.html",
+ "extensao": {
+  "ativa": true,
+  "esperaMs": 662,
+  "varreduraInicial": {
+   "startedAt": 35.90000000037253,
+   "wallMs": 4.800000000745058,
+   "activeMs": 4.800000000745058,
+   "nodesEvaluated": 6,
+   "slices": 1,
+   "maxSliceMs": 4.800000000745058
+  },
+  "lotes": 1,
+  "ocorrencias": []
+ },
+ "axe": {
+  "violacoes": [],
+  "incompletas": [],
+  "testEngine": {
+   "name": "axe-core",
+   "version": "4.14.1"
+  }
+ },
+ "wave": {
+  "stats": {
+   "allitemcount": 5,
+   "totalelements": 14,
+   "pagetitle": "Passed Example 4",
+   "aim": 10,
+   "error": 0,
+   "contrast": 0,
+   "alert": 2,
+   "feature": 2,
+   "structure": 0,
+   "aria": 1
+  },
+  "icons": [
+   {
+    "type": "heading_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:2",
+    "tag": "div"
+   },
+   {
+    "type": "region_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:2",
+    "tag": "div"
+   },
+   {
+    "type": "label",
+    "pageWide": false,
+    "path": "html>body:2>label:1",
+    "tag": "label"
+   },
+   {
+    "type": "lang",
+    "pageWide": true,
+    "path": "html>body:2>div:2",
+    "tag": "div"
+   },
+   {
+    "type": "aria",
+    "pageWide": false,
+    "path": "html>body:2>input:2",
+    "tag": "input"
+   }
+  ]
+ }
+}

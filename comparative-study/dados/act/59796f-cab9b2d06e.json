@@ -1,0 +1,83 @@
+{
+ "id": "59796f-cab9b2d06e",
+ "grupo": "act",
+ "url": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/59796f/cab9b2d06e5a44e2056ccbdbb7096f55ab42859c.html",
+ "meta": {
+  "regra": "59796f",
+  "nomeRegra": "Image button has non-empty accessible name",
+  "caso": "Passed Example 3",
+  "esperado": "passed",
+  "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/59796f/cab9b2d06e5a44e2056ccbdbb7096f55ab42859c.html"
+ },
+ "coletadoEm": "2026-11-24T03:38:21.141Z",
+ "versoes": {
+  "chromium": "156.0.8078.4",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+  "axeCore": "4.14.1",
+  "wave": "3.3.4.0",
+  "extensao": "0.1.0"
+ },
+ "urlFinal": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/59796f/cab9b2d06e5a44e2056ccbdbb7096f55ab42859c.html",
+ "extensao": {
+  "ativa": true,
+  "esperaMs": 876,
+  "varreduraInicial": {
+   "startedAt": 33.69999999925494,
+   "wallMs": 3.300000000745058,
+   "activeMs": 3.200000001117587,
+   "nodesEvaluated": 5,
+   "slices": 1,
+   "maxSliceMs": 3.200000001117587
+  },
+  "lotes": 1,
+  "ocorrencias": []
+ },
+ "axe": {
+  "violacoes": [],
+  "incompletas": [],
+  "testEngine": {
+   "name": "axe-core",
+   "version": "4.14.1"
+  }
+ },
+ "wave": {
+  "stats": {
+   "allitemcount": 4,
+   "totalelements": 13,
+   "pagetitle": "Passed Example 3",
+   "aim": 7.6,
+   "error": 1,
+   "contrast": 0,
+   "alert": 2,
+   "feature": 1,
+   "structure": 0,
+   "aria": 0
+  },
+  "icons": [
+   {
+    "type": "alt_input_missing",
+    "pageWide": false,
+    "path": "html>body:2>input:1",
+    "tag": "input"
+   },
+   {
+    "type": "heading_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "region_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "lang",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   }
+  ]
+ }
+}

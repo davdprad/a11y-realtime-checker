@@ -1,0 +1,125 @@
+{
+ "id": "6a7281-ce27fcdd85",
+ "grupo": "act",
+ "url": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/6a7281/ce27fcdd85fbf37a953727cdc454f3e504041a31.html",
+ "meta": {
+  "regra": "6a7281",
+  "nomeRegra": "ARIA state or property has valid value",
+  "caso": "Failed Example 1",
+  "esperado": "failed",
+  "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/6a7281/ce27fcdd85fbf37a953727cdc454f3e504041a31.html"
+ },
+ "coletadoEm": "2026-11-24T03:31:34.942Z",
+ "versoes": {
+  "chromium": "156.0.8078.4",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+  "axeCore": "4.14.1",
+  "wave": "3.3.4.0",
+  "extensao": "0.1.0"
+ },
+ "urlFinal": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/6a7281/ce27fcdd85fbf37a953727cdc454f3e504041a31.html",
+ "extensao": {
+  "ativa": true,
+  "esperaMs": 651,
+  "varreduraInicial": {
+   "startedAt": 28.299999999813735,
+   "wallMs": 5.5,
+   "activeMs": 3.6000000005587935,
+   "nodesEvaluated": 5,
+   "slices": 1,
+   "maxSliceMs": 3.6000000005587935
+  },
+  "lotes": 1,
+  "ocorrencias": [
+   {
+    "wcag": "4.1.2",
+    "outcome": "violation",
+    "regras": [
+     "aria-attr-valid-value:violation"
+    ],
+    "dados": [
+     {
+      "attributes": "aria-required=\"undefined\""
+     }
+    ],
+    "seletor": "[role=\"textbox\"]",
+    "path": "html>body:2>div:1",
+    "frameId": 0,
+    "snippet": "<div role=\"textbox\" aria-required=\"undefined\" aria-label=\"A required textbox\">"
+   }
+  ]
+ },
+ "axe": {
+  "violacoes": [
+   {
+    "id": "aria-valid-attr-value",
+    "impact": "critical",
+    "tags": [
+     "wcag412"
+    ],
+    "nos": [
+     {
+      "alvo": [
+       "div[role=\"textbox\"]"
+      ],
+      "path": "html>body:2>div:1",
+      "html": "<div role=\"textbox\" aria-required=\"undefined\" aria-label=\"A required textbox\"></div>",
+      "resumo": "Fix all of the following:\n  Invalid ARIA attribute value: aria-required=\"undefined\"",
+      "dados": null
+     }
+    ]
+   }
+  ],
+  "incompletas": [],
+  "testEngine": {
+   "name": "axe-core",
+   "version": "4.14.1"
+  }
+ },
+ "wave": {
+  "stats": {
+   "allitemcount": 5,
+   "totalelements": 14,
+   "pagetitle": "Failed Example 1",
+   "aim": 10,
+   "error": 0,
+   "contrast": 0,
+   "alert": 2,
+   "feature": 1,
+   "structure": 0,
+   "aria": 2
+  },
+  "icons": [
+   {
+    "type": "heading_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "region_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "lang",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "aria",
+    "pageWide": false,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "aria_label",
+    "pageWide": false,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   }
+  ]
+ }
+}

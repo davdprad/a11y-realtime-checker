@@ -1,0 +1,218 @@
+{
+ "id": "e086e5-bd816c3ef1",
+ "grupo": "act",
+ "url": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/e086e5/bd816c3ef10b8982f18411e1623887d2444d7311.html",
+ "meta": {
+  "regra": "e086e5",
+  "nomeRegra": "Form field has non-empty accessible name",
+  "caso": "Failed Example 8",
+  "esperado": "failed",
+  "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/e086e5/bd816c3ef10b8982f18411e1623887d2444d7311.html"
+ },
+ "coletadoEm": "2026-11-24T03:40:44.855Z",
+ "versoes": {
+  "chromium": "156.0.8078.4",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+  "axeCore": "4.14.1",
+  "wave": "3.3.4.0",
+  "extensao": "0.1.0"
+ },
+ "urlFinal": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/e086e5/bd816c3ef10b8982f18411e1623887d2444d7311.html",
+ "extensao": {
+  "ativa": true,
+  "esperaMs": 656,
+  "varreduraInicial": {
+   "startedAt": 30.299999998882413,
+   "wallMs": 8,
+   "activeMs": 5.600000001490116,
+   "nodesEvaluated": 11,
+   "slices": 1,
+   "maxSliceMs": 5.600000001490116
+  },
+  "lotes": 1,
+  "ocorrencias": [
+   {
+    "wcag": "1.3.1",
+    "outcome": "violation",
+    "regras": [
+     "form-label:violation"
+    ],
+    "dados": [
+     null
+    ],
+    "seletor": "input:nth-of-type(1)",
+    "path": "html>body:2>div:2>input:1",
+    "frameId": 0,
+    "snippet": "<input type=\"checkbox\" role=\"menuitemcheckbox\">"
+   },
+   {
+    "wcag": "2.5.8",
+    "outcome": "incomplete",
+    "regras": [
+     "target-size:incomplete"
+    ],
+    "dados": [
+     {
+      "reason": "user-agent",
+      "width": 13,
+      "height": 13
+     }
+    ],
+    "seletor": "input:nth-of-type(1)",
+    "path": "html>body:2>div:2>input:1",
+    "frameId": 0,
+    "snippet": "<input type=\"checkbox\" role=\"menuitemcheckbox\">"
+   },
+   {
+    "wcag": "1.3.1",
+    "outcome": "violation",
+    "regras": [
+     "form-label:violation"
+    ],
+    "dados": [
+     null
+    ],
+    "seletor": "input:nth-of-type(2)",
+    "path": "html>body:2>div:2>input:4",
+    "frameId": 0,
+    "snippet": "<input type=\"checkbox\" role=\"menuitemcheckbox\">"
+   },
+   {
+    "wcag": "2.5.8",
+    "outcome": "incomplete",
+    "regras": [
+     "target-size:incomplete"
+    ],
+    "dados": [
+     {
+      "reason": "user-agent",
+      "width": 13,
+      "height": 13
+     }
+    ],
+    "seletor": "input:nth-of-type(2)",
+    "path": "html>body:2>div:2>input:4",
+    "frameId": 0,
+    "snippet": "<input type=\"checkbox\" role=\"menuitemcheckbox\">"
+   }
+  ]
+ },
+ "axe": {
+  "violacoes": [
+   {
+    "id": "label",
+    "impact": "critical",
+    "tags": [
+     "wcag412"
+    ],
+    "nos": [
+     {
+      "alvo": [
+       "input:nth-child(1)"
+      ],
+      "path": "html>body:2>div:2>input:1",
+      "html": "<input type=\"checkbox\" role=\"menuitemcheckbox\">",
+      "resumo": "Fix any of the following:\n  Element does not have an implicit (wrapped) <label>\n  Element does not have an explicit <label>\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Elem",
+      "dados": null
+     },
+     {
+      "alvo": [
+       "input:nth-child(4)"
+      ],
+      "path": "html>body:2>div:2>input:4",
+      "html": "<input type=\"checkbox\" role=\"menuitemcheckbox\">",
+      "resumo": "Fix any of the following:\n  Element does not have an implicit (wrapped) <label>\n  Element does not have an explicit <label>\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Elem",
+      "dados": null
+     }
+    ]
+   }
+  ],
+  "incompletas": [],
+  "testEngine": {
+   "name": "axe-core",
+   "version": "4.14.1"
+  }
+ },
+ "wave": {
+  "stats": {
+   "allitemcount": 11,
+   "totalelements": 20,
+   "pagetitle": "Failed Example 8",
+   "aim": 7.6,
+   "error": 2,
+   "contrast": 0,
+   "alert": 2,
+   "feature": 1,
+   "structure": 0,
+   "aria": 6
+  },
+  "icons": [
+   {
+    "type": "label_missing",
+    "pageWide": false,
+    "path": "html>body:2>div:2>input:1",
+    "tag": "input"
+   },
+   {
+    "type": "label_missing",
+    "pageWide": false,
+    "path": "html>body:2>div:2>input:4",
+    "tag": "input"
+   },
+   {
+    "type": "heading_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:2",
+    "tag": "div"
+   },
+   {
+    "type": "region_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:2",
+    "tag": "div"
+   },
+   {
+    "type": "lang",
+    "pageWide": true,
+    "path": "html>body:2>div:2",
+    "tag": "div"
+   },
+   {
+    "type": "aria",
+    "pageWide": false,
+    "path": "html>body:2>div:2>input:1",
+    "tag": "input"
+   },
+   {
+    "type": "aria",
+    "pageWide": false,
+    "path": "html>body:2>div:2>input:4",
+    "tag": "input"
+   },
+   {
+    "type": "aria_label",
+    "pageWide": false,
+    "path": "html>body:2>div:2",
+    "tag": "div"
+   },
+   {
+    "type": "aria_menu",
+    "pageWide": false,
+    "path": "html>body:2>div:2",
+    "tag": "div"
+   },
+   {
+    "type": "aria_hidden",
+    "pageWide": false,
+    "path": "html>body:2>div:2>span:2",
+    "tag": "span"
+   },
+   {
+    "type": "aria_hidden",
+    "pageWide": false,
+    "path": "html>body:2>div:2>span:5",
+    "tag": "span"
+   }
+  ]
+ }
+}

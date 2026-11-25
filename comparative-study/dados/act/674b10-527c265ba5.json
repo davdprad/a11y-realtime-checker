@@ -1,0 +1,131 @@
+{
+ "id": "674b10-527c265ba5",
+ "grupo": "act",
+ "url": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/674b10/527c265ba570f0131dddef3687981b66f6dd156f.html",
+ "meta": {
+  "regra": "674b10",
+  "nomeRegra": "Role attribute has valid value",
+  "caso": "Failed Example 2",
+  "esperado": "failed",
+  "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/674b10/527c265ba570f0131dddef3687981b66f6dd156f.html"
+ },
+ "coletadoEm": "2026-11-24T03:31:09.963Z",
+ "versoes": {
+  "chromium": "156.0.8078.4",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+  "axeCore": "4.14.1",
+  "wave": "3.3.4.0",
+  "extensao": "0.1.0"
+ },
+ "urlFinal": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/674b10/527c265ba570f0131dddef3687981b66f6dd156f.html",
+ "extensao": {
+  "ativa": true,
+  "esperaMs": 658,
+  "varreduraInicial": {
+   "startedAt": 32.19999999925494,
+   "wallMs": 6.400000000372529,
+   "activeMs": 4.5,
+   "nodesEvaluated": 6,
+   "slices": 1,
+   "maxSliceMs": 4.5
+  },
+  "lotes": 1,
+  "ocorrencias": [
+   {
+    "wcag": "4.1.2",
+    "outcome": "violation",
+    "regras": [
+     "aria-role-valid:violation"
+    ],
+    "dados": [
+     {
+      "role": "bibliographic-reference lnik"
+     }
+    ],
+    "seletor": ".ref",
+    "path": "html>body:2>span:2",
+    "frameId": 0,
+    "snippet": "<span class=\"ref\" onclick=\"location.href='https://act-rules.github.io/'\" role=\"bibliographic-reference lnik\">"
+   }
+  ]
+ },
+ "axe": {
+  "violacoes": [
+   {
+    "id": "aria-roles",
+    "impact": "critical",
+    "tags": [
+     "wcag412"
+    ],
+    "nos": [
+     {
+      "alvo": [
+       "span"
+      ],
+      "path": "html>body:2>span:2",
+      "html": "<span class=\"ref\" onclick=\"location.href='https://act-rules.github.io/'\" role=\"bibliographic-reference lnik\">ACT rules</span>",
+      "resumo": "Fix all of the following:\n  Roles must be one of the valid ARIA roles: bibliographic-reference, lnik",
+      "dados": null
+     }
+    ]
+   }
+  ],
+  "incompletas": [],
+  "testEngine": {
+   "name": "axe-core",
+   "version": "4.14.1"
+  }
+ },
+ "wave": {
+  "stats": {
+   "allitemcount": 6,
+   "totalelements": 15,
+   "pagetitle": "Failed Example 2",
+   "aim": 9.9,
+   "error": 0,
+   "contrast": 0,
+   "alert": 4,
+   "feature": 1,
+   "structure": 0,
+   "aria": 1
+  },
+  "icons": [
+   {
+    "type": "heading_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:2",
+    "tag": "div"
+   },
+   {
+    "type": "region_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:2",
+    "tag": "div"
+   },
+   {
+    "type": "event_handler",
+    "pageWide": false,
+    "path": "html>body:2>span:2",
+    "tag": "span"
+   },
+   {
+    "type": "underline",
+    "pageWide": false,
+    "path": "html>body:2>span:2",
+    "tag": "span"
+   },
+   {
+    "type": "lang",
+    "pageWide": true,
+    "path": "html>body:2>div:2",
+    "tag": "div"
+   },
+   {
+    "type": "aria",
+    "pageWide": false,
+    "path": "html>body:2>span:2",
+    "tag": "span"
+   }
+  ]
+ }
+}

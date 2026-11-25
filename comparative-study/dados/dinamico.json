@@ -1,0 +1,246 @@
+{
+ "coletadoEm": "2026-11-24T04:02:20.917Z",
+ "versoes": {
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+  "wave": "3.3.4.0",
+  "axeCore": "4.14.1",
+  "maquina": {
+   "cpu": "Intel(R) Core(TM) Ultra X7 358H",
+   "nucleos": 16,
+   "memoriaGB": 31,
+   "so": "Windows_NT 10.0.26300"
+  }
+ },
+ "registros": [
+  {
+   "evento": "E1",
+   "criterio": "4.1.2",
+   "descricao": "Abrir um modal com botão de fechar sem nome acessível",
+   "repeticao": 1,
+   "extensao_sinalizou": true,
+   "extensao_tempo_ms": 163.3,
+   "axe_relatorio_inicial": false,
+   "wave_relatorio_inicial": false,
+   "axe_apos_nova_execucao": true,
+   "wave_apos_nova_execucao": true,
+   "axe_regras": "button-name",
+   "wave_itens": "button_empty"
+  },
+  {
+   "evento": "E1",
+   "criterio": "4.1.2",
+   "descricao": "Abrir um modal com botão de fechar sem nome acessível",
+   "repeticao": 2,
+   "extensao_sinalizou": true,
+   "extensao_tempo_ms": 167.4
+  },
+  {
+   "evento": "E1",
+   "criterio": "4.1.2",
+   "descricao": "Abrir um modal com botão de fechar sem nome acessível",
+   "repeticao": 3,
+   "extensao_sinalizou": true,
+   "extensao_tempo_ms": 178.6
+  },
+  {
+   "evento": "E1",
+   "criterio": "4.1.2",
+   "descricao": "Abrir um modal com botão de fechar sem nome acessível",
+   "repeticao": 4,
+   "extensao_sinalizou": true,
+   "extensao_tempo_ms": 172.5
+  },
+  {
+   "evento": "E1",
+   "criterio": "4.1.2",
+   "descricao": "Abrir um modal com botão de fechar sem nome acessível",
+   "repeticao": 5,
+   "extensao_sinalizou": true,
+   "extensao_tempo_ms": 177.4
+  },
+  {
+   "evento": "E2",
+   "criterio": "1.4.3",
+   "descricao": "Trocar o tema, reduzindo o contraste de um texto",
+   "repeticao": 1,
+   "extensao_sinalizou": true,
+   "extensao_tempo_ms": 182.9,
+   "axe_relatorio_inicial": false,
+   "wave_relatorio_inicial": false,
+   "axe_apos_nova_execucao": true,
+   "wave_apos_nova_execucao": true,
+   "axe_regras": "color-contrast",
+   "wave_itens": "contrast"
+  },
+  {
+   "evento": "E2",
+   "criterio": "1.4.3",
+   "descricao": "Trocar o tema, reduzindo o contraste de um texto",
+   "repeticao": 2,
+   "extensao_sinalizou": true,
+   "extensao_tempo_ms": 178.7
+  },
+  {
+   "evento": "E2",
+   "criterio": "1.4.3",
+   "descricao": "Trocar o tema, reduzindo o contraste de um texto",
+   "repeticao": 3,
+   "extensao_sinalizou": true,
+   "extensao_tempo_ms": 168.8
+  },
+  {
+   "evento": "E2",
+   "criterio": "1.4.3",
+   "descricao": "Trocar o tema, reduzindo o contraste de um texto",
+   "repeticao": 4,
+   "extensao_sinalizou": true,
+   "extensao_tempo_ms": 166.4
+  },
+  {
+   "evento": "E2",
+   "criterio": "1.4.3",
+   "descricao": "Trocar o tema, reduzindo o contraste de um texto",
+   "repeticao": 5,
+   "extensao_sinalizou": true,
+   "extensao_tempo_ms": 175.7
+  },
+  {
+   "evento": "E3",
+   "criterio": "1.1.1",
+   "descricao": "Inserir uma imagem informativa sem texto alternativo",
+   "repeticao": 1,
+   "extensao_sinalizou": true,
+   "extensao_tempo_ms": 181,
+   "axe_relatorio_inicial": false,
+   "wave_relatorio_inicial": false,
+   "axe_apos_nova_execucao": true,
+   "wave_apos_nova_execucao": true,
+   "axe_regras": "image-alt",
+   "wave_itens": "alt_missing"
+  },
+  {
+   "evento": "E3",
+   "criterio": "1.1.1",
+   "descricao": "Inserir uma imagem informativa sem texto alternativo",
+   "repeticao": 2,
+   "extensao_sinalizou": true,
+   "extensao_tempo_ms": 178.2
+  },
+  {
+   "evento": "E3",
+   "criterio": "1.1.1",
+   "descricao": "Inserir uma imagem informativa sem texto alternativo",
+   "repeticao": 3,
+   "extensao_sinalizou": true,
+   "extensao_tempo_ms": 164.3
+  },
+  {
+   "evento": "E3",
+   "criterio": "1.1.1",
+   "descricao": "Inserir uma imagem informativa sem texto alternativo",
+   "repeticao": 4,
+   "extensao_sinalizou": true,
+   "extensao_tempo_ms": 165.9
+  },
+  {
+   "evento": "E3",
+   "criterio": "1.1.1",
+   "descricao": "Inserir uma imagem informativa sem texto alternativo",
+   "repeticao": 5,
+   "extensao_sinalizou": true,
+   "extensao_tempo_ms": 172.4
+  },
+  {
+   "evento": "E4",
+   "criterio": "2.4.4",
+   "descricao": "Inserir um link sem texto",
+   "repeticao": 1,
+   "extensao_sinalizou": true,
+   "extensao_tempo_ms": 173.7,
+   "axe_relatorio_inicial": false,
+   "wave_relatorio_inicial": false,
+   "axe_apos_nova_execucao": true,
+   "wave_apos_nova_execucao": true,
+   "axe_regras": "link-name",
+   "wave_itens": "link_empty,link_internal_broken"
+  },
+  {
+   "evento": "E4",
+   "criterio": "2.4.4",
+   "descricao": "Inserir um link sem texto",
+   "repeticao": 2,
+   "extensao_sinalizou": true,
+   "extensao_tempo_ms": 170.6
+  },
+  {
+   "evento": "E4",
+   "criterio": "2.4.4",
+   "descricao": "Inserir um link sem texto",
+   "repeticao": 3,
+   "extensao_sinalizou": true,
+   "extensao_tempo_ms": 168.9
+  },
+  {
+   "evento": "E4",
+   "criterio": "2.4.4",
+   "descricao": "Inserir um link sem texto",
+   "repeticao": 4,
+   "extensao_sinalizou": true,
+   "extensao_tempo_ms": 176.1
+  },
+  {
+   "evento": "E4",
+   "criterio": "2.4.4",
+   "descricao": "Inserir um link sem texto",
+   "repeticao": 5,
+   "extensao_sinalizou": true,
+   "extensao_tempo_ms": 172.3
+  },
+  {
+   "evento": "E5",
+   "criterio": "1.3.1",
+   "descricao": "Remover o rótulo de um campo de formulário",
+   "repeticao": 1,
+   "extensao_sinalizou": true,
+   "extensao_tempo_ms": 174.4,
+   "axe_relatorio_inicial": false,
+   "wave_relatorio_inicial": false,
+   "axe_apos_nova_execucao": true,
+   "wave_apos_nova_execucao": true,
+   "axe_regras": "label",
+   "wave_itens": "label_missing"
+  },
+  {
+   "evento": "E5",
+   "criterio": "1.3.1",
+   "descricao": "Remover o rótulo de um campo de formulário",
+   "repeticao": 2,
+   "extensao_sinalizou": true,
+   "extensao_tempo_ms": 171.8
+  },
+  {
+   "evento": "E5",
+   "criterio": "1.3.1",
+   "descricao": "Remover o rótulo de um campo de formulário",
+   "repeticao": 3,
+   "extensao_sinalizou": true,
+   "extensao_tempo_ms": 164.3
+  },
+  {
+   "evento": "E5",
+   "criterio": "1.3.1",
+   "descricao": "Remover o rótulo de um campo de formulário",
+   "repeticao": 4,
+   "extensao_sinalizou": true,
+   "extensao_tempo_ms": 170.2
+  },
+  {
+   "evento": "E5",
+   "criterio": "1.3.1",
+   "descricao": "Remover o rótulo de um campo de formulário",
+   "repeticao": 5,
+   "extensao_sinalizou": true,
+   "extensao_tempo_ms": 173.1
+  }
+ ]
+}

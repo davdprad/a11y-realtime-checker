@@ -1,0 +1,148 @@
+{
+ "id": "b4f0c3-9f288c284d",
+ "grupo": "act",
+ "url": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/b4f0c3/9f288c284df9ade53aa33e50ec50c879d5aba4ef.html",
+ "meta": {
+  "regra": "b4f0c3",
+  "nomeRegra": "Meta viewport allows for zoom",
+  "caso": "Failed Example 7",
+  "esperado": "failed",
+  "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/b4f0c3/9f288c284df9ade53aa33e50ec50c879d5aba4ef.html"
+ },
+ "coletadoEm": "2026-11-24T03:43:26.692Z",
+ "versoes": {
+  "chromium": "156.0.8078.4",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+  "axeCore": "4.14.1",
+  "wave": "3.3.4.0",
+  "extensao": "0.1.0"
+ },
+ "urlFinal": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/b4f0c3/9f288c284df9ade53aa33e50ec50c879d5aba4ef.html",
+ "extensao": {
+  "ativa": true,
+  "esperaMs": 689,
+  "varreduraInicial": {
+   "startedAt": 39.59999999962747,
+   "wallMs": 5.599999999627471,
+   "activeMs": 3.5,
+   "nodesEvaluated": 6,
+   "slices": 1,
+   "maxSliceMs": 3.5
+  },
+  "lotes": 1,
+  "ocorrencias": [
+   {
+    "wcag": "3.1.1",
+    "outcome": "violation",
+    "regras": [
+     "html-lang:violation"
+    ],
+    "dados": [
+     null
+    ],
+    "seletor": "html",
+    "path": "document",
+    "frameId": 0,
+    "snippet": "<html>"
+   },
+   {
+    "wcag": "1.4.4",
+    "outcome": "violation",
+    "regras": [
+     "viewport-zoom:violation"
+    ],
+    "dados": [
+     {
+      "content": "maximum-scale=invalid",
+      "problems": "maximum-scale"
+     }
+    ],
+    "seletor": "[name=\"viewport\"]",
+    "path": "document",
+    "frameId": 0,
+    "snippet": "<meta name=\"viewport\" content=\"maximum-scale=invalid\">"
+   }
+  ]
+ },
+ "axe": {
+  "violacoes": [
+   {
+    "id": "html-has-lang",
+    "impact": "serious",
+    "tags": [
+     "wcag311"
+    ],
+    "nos": [
+     {
+      "alvo": [
+       "html"
+      ],
+      "path": "html",
+      "html": "<html>",
+      "resumo": "Fix any of the following:\n  The <html> element does not have a lang attribute",
+      "dados": {
+       "messageKey": "noLang"
+      }
+     }
+    ]
+   },
+   {
+    "id": "meta-viewport",
+    "impact": "moderate",
+    "tags": [
+     "wcag144"
+    ],
+    "nos": [
+     {
+      "alvo": [
+       "meta"
+      ],
+      "path": "html>head:1>meta:2",
+      "html": "<meta name=\"viewport\" content=\"maximum-scale=invalid\">",
+      "resumo": "Fix any of the following:\n  maximum-scale=invalid on <meta> tag disables zooming on mobile devices",
+      "dados": "maximum-scale=invalid"
+     }
+    ]
+   }
+  ],
+  "incompletas": [],
+  "testEngine": {
+   "name": "axe-core",
+   "version": "4.14.1"
+  }
+ },
+ "wave": {
+  "stats": {
+   "allitemcount": 3,
+   "totalelements": 15,
+   "pagetitle": "Simple page showing random text",
+   "aim": 7.9,
+   "error": 1,
+   "contrast": 0,
+   "alert": 2,
+   "feature": 0,
+   "structure": 0,
+   "aria": 0
+  },
+  "icons": [
+   {
+    "type": "language_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "heading_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "region_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   }
+  ]
+ }
+}

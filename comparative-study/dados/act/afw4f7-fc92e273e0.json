@@ -1,0 +1,116 @@
+{
+ "id": "afw4f7-fc92e273e0",
+ "grupo": "act",
+ "url": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/afw4f7/fc92e273e09ad225227f488e3a016fd8d4aad10c.html",
+ "meta": {
+  "regra": "afw4f7",
+  "nomeRegra": "Text has minimum contrast",
+  "caso": "Inapplicable Example 3",
+  "esperado": "inapplicable",
+  "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/fc92e273e09ad225227f488e3a016fd8d4aad10c.html"
+ },
+ "coletadoEm": "2026-11-24T03:42:23.450Z",
+ "versoes": {
+  "chromium": "156.0.8078.4",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+  "axeCore": "4.14.1",
+  "wave": "3.3.4.0",
+  "extensao": "0.1.0"
+ },
+ "urlFinal": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/afw4f7/fc92e273e09ad225227f488e3a016fd8d4aad10c.html",
+ "extensao": {
+  "ativa": true,
+  "esperaMs": 654,
+  "varreduraInicial": {
+   "startedAt": 31.399999998509884,
+   "wallMs": 2.200000001117587,
+   "activeMs": 2.200000001117587,
+   "nodesEvaluated": 5,
+   "slices": 1,
+   "maxSliceMs": 2.200000001117587
+  },
+  "lotes": 1,
+  "ocorrencias": []
+ },
+ "axe": {
+  "violacoes": [],
+  "incompletas": [
+   {
+    "id": "color-contrast",
+    "impact": "serious",
+    "tags": [
+     "wcag143"
+    ],
+    "nos": [
+     {
+      "alvo": [
+       "p"
+      ],
+      "path": "html>body:2>p:1",
+      "html": "<p style=\"color: white; background: white;\" aria-hidden=\"true\">Hidden text - U U D D L R L R B A S</p>",
+      "resumo": "Fix any of the following:\n  Element has a 1:1 contrast ratio with the background",
+      "dados": {
+       "fgColor": "#ffffff",
+       "bgColor": "#ffffff",
+       "contrastRatio": 1,
+       "fontSize": "12.0pt (16px)",
+       "fontWeight": "normal",
+       "messageKey": "equalRatio",
+       "expectedContrastRatio": "4.5:1"
+      }
+     }
+    ]
+   }
+  ],
+  "testEngine": {
+   "name": "axe-core",
+   "version": "4.14.1"
+  }
+ },
+ "wave": {
+  "stats": {
+   "allitemcount": 5,
+   "totalelements": 13,
+   "pagetitle": "Inapplicable Example 3",
+   "aim": 7.6,
+   "error": 0,
+   "contrast": 1,
+   "alert": 2,
+   "feature": 1,
+   "structure": 0,
+   "aria": 1
+  },
+  "icons": [
+   {
+    "type": "contrast",
+    "pageWide": false,
+    "path": "html>body:2>p:1",
+    "tag": "p"
+   },
+   {
+    "type": "heading_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "region_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "lang",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "aria_hidden",
+    "pageWide": false,
+    "path": "html>body:2>p:1",
+    "tag": "p"
+   }
+  ]
+ }
+}

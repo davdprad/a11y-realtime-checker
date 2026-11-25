@@ -1,0 +1,10 @@
+{
+  "name": "estudo-comparativo-a11y-rt",
+  "private": true,
+  "type": "module",
+  "description": "Coleta e análise do estudo comparativo: extensão proposta x axe-core (motor do axe DevTools) x WAVE.",
+  "dependencies": {
+    "@playwright/test": "1.64.1",
+    "axe-core": "4.14.1"
+  }
+}

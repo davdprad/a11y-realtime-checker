@@ -1,0 +1,121 @@
+{
+ "id": "c487ae-d36abfa449",
+ "grupo": "act",
+ "url": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/c487ae/d36abfa44924a4d4088bada05f439ae392dfd662.html",
+ "meta": {
+  "regra": "c487ae",
+  "nomeRegra": "Link has non-empty accessible name",
+  "caso": "Passed Example 11",
+  "esperado": "passed",
+  "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/c487ae/d36abfa44924a4d4088bada05f439ae392dfd662.html"
+ },
+ "coletadoEm": "2026-11-24T03:40:18.619Z",
+ "versoes": {
+  "chromium": "156.0.8078.4",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+  "axeCore": "4.14.1",
+  "wave": "3.3.4.0",
+  "extensao": "0.1.0"
+ },
+ "urlFinal": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/c487ae/d36abfa44924a4d4088bada05f439ae392dfd662.html",
+ "extensao": {
+  "ativa": true,
+  "esperaMs": 651,
+  "varreduraInicial": {
+   "startedAt": 35.69999999925494,
+   "wallMs": 6,
+   "activeMs": 5.699999999254942,
+   "nodesEvaluated": 5,
+   "slices": 1,
+   "maxSliceMs": 5.699999999254942
+  },
+  "lotes": 1,
+  "ocorrencias": [
+   {
+    "wcag": "2.5.8",
+    "outcome": "incomplete",
+    "regras": [
+     "target-size:incomplete"
+    ],
+    "dados": [
+     {
+      "reason": "inline",
+      "width": 66.81,
+      "height": 17
+     }
+    ],
+    "seletor": "[role=\"doc-biblioref\"]",
+    "path": "html>body:2>a:1",
+    "frameId": 0,
+    "snippet": "<a href=\"https://act-rules.github.io/\" role=\"doc-biblioref\">"
+   }
+  ]
+ },
+ "axe": {
+  "violacoes": [],
+  "incompletas": [
+   {
+    "id": "bypass",
+    "impact": "serious",
+    "tags": [
+     "wcag241"
+    ],
+    "nos": [
+     {
+      "alvo": [
+       "html"
+      ],
+      "path": "html",
+      "html": "<html lang=\"en\"><head>\n\t<title>Passed Example 11</title>\n</head>\n<body>\n\tSee [<a href=\"https://act-rules.github.io/\" role=\"doc-biblioref\">ACT rules</a>]\n\n</body></html>",
+      "resumo": "Fix any of the following:\n  No valid skip link found\n  Page does not have a heading\n  Page does not have a landmark region",
+      "dados": null
+     }
+    ]
+   }
+  ],
+  "testEngine": {
+   "name": "axe-core",
+   "version": "4.14.1"
+  }
+ },
+ "wave": {
+  "stats": {
+   "allitemcount": 4,
+   "totalelements": 13,
+   "pagetitle": "Passed Example 11",
+   "aim": 10,
+   "error": 0,
+   "contrast": 0,
+   "alert": 2,
+   "feature": 1,
+   "structure": 0,
+   "aria": 1
+  },
+  "icons": [
+   {
+    "type": "heading_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "region_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "lang",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "aria",
+    "pageWide": false,
+    "path": "html>body:2>a:1",
+    "tag": "a"
+   }
+  ]
+ }
+}
