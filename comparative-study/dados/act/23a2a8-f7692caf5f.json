@@ -1,0 +1,83 @@
+{
+ "id": "23a2a8-f7692caf5f",
+ "grupo": "act",
+ "url": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/23a2a8/f7692caf5f8c788d58e1aeb8d4f1f240fafdfa91.html",
+ "meta": {
+  "regra": "23a2a8",
+  "nomeRegra": "Image has non-empty accessible name",
+  "caso": "Inapplicable Example 5",
+  "esperado": "inapplicable",
+  "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/23a2a8/f7692caf5f8c788d58e1aeb8d4f1f240fafdfa91.html"
+ },
+ "coletadoEm": "2026-11-24T03:39:10.976Z",
+ "versoes": {
+  "chromium": "156.0.8078.4",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+  "axeCore": "4.14.1",
+  "wave": "3.3.4.0",
+  "extensao": "0.1.0"
+ },
+ "urlFinal": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/23a2a8/f7692caf5f8c788d58e1aeb8d4f1f240fafdfa91.html",
+ "extensao": {
+  "ativa": true,
+  "esperaMs": 653,
+  "varreduraInicial": {
+   "startedAt": 31.90000000037253,
+   "wallMs": 2.5,
+   "activeMs": 2.5,
+   "nodesEvaluated": 6,
+   "slices": 1,
+   "maxSliceMs": 2.5
+  },
+  "lotes": 1,
+  "ocorrencias": []
+ },
+ "axe": {
+  "violacoes": [],
+  "incompletas": [],
+  "testEngine": {
+   "name": "axe-core",
+   "version": "4.14.1"
+  }
+ },
+ "wave": {
+  "stats": {
+   "allitemcount": 4,
+   "totalelements": 14,
+   "pagetitle": "Inapplicable Example 4",
+   "aim": 7.9,
+   "error": 1,
+   "contrast": 0,
+   "alert": 2,
+   "feature": 1,
+   "structure": 0,
+   "aria": 0
+  },
+  "icons": [
+   {
+    "type": "alt_missing",
+    "pageWide": false,
+    "path": "html>body:2>div:1>img:1",
+    "tag": "img"
+   },
+   {
+    "type": "heading_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "region_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "lang",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   }
+  ]
+ }
+}

@@ -8,3 +8,7 @@ reports
 .playwright-profile*
 *.log
 __screenshots__
+
+# estudo do TCC
+comparative-study/node_modules
+comparative-study/__pycache__

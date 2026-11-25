@@ -1,0 +1,117 @@
+{
+ "id": "97a4e1-ffe1796f06",
+ "grupo": "act",
+ "url": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/97a4e1/ffe1796f06e1082a8ddae54a471dcca66c783c4e.html",
+ "meta": {
+  "regra": "97a4e1",
+  "nomeRegra": "Button has non-empty accessible name",
+  "caso": "Failed Example 3",
+  "esperado": "failed",
+  "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/97a4e1/ffe1796f06e1082a8ddae54a471dcca66c783c4e.html"
+ },
+ "coletadoEm": "2026-11-24T03:36:15.120Z",
+ "versoes": {
+  "chromium": "156.0.8078.4",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+  "axeCore": "4.14.1",
+  "wave": "3.3.4.0",
+  "extensao": "0.1.0"
+ },
+ "urlFinal": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/97a4e1/ffe1796f06e1082a8ddae54a471dcca66c783c4e.html",
+ "extensao": {
+  "ativa": true,
+  "esperaMs": 662,
+  "varreduraInicial": {
+   "startedAt": 30.59999999962747,
+   "wallMs": 6,
+   "activeMs": 4,
+   "nodesEvaluated": 5,
+   "slices": 1,
+   "maxSliceMs": 4
+  },
+  "lotes": 1,
+  "ocorrencias": [
+   {
+    "wcag": "4.1.2",
+    "outcome": "violation",
+    "regras": [
+     "button-name:violation"
+    ],
+    "dados": [
+     null
+    ],
+    "seletor": "[role=\"button\"]",
+    "path": "html>body:2>span:1",
+    "frameId": 0,
+    "snippet": "<span role=\"button\">"
+   }
+  ]
+ },
+ "axe": {
+  "violacoes": [
+   {
+    "id": "aria-command-name",
+    "impact": "serious",
+    "tags": [
+     "wcag412"
+    ],
+    "nos": [
+     {
+      "alvo": [
+       "span"
+      ],
+      "path": "html>body:2>span:1",
+      "html": "<span role=\"button\"></span>",
+      "resumo": "Fix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute",
+      "dados": null
+     }
+    ]
+   }
+  ],
+  "incompletas": [],
+  "testEngine": {
+   "name": "axe-core",
+   "version": "4.14.1"
+  }
+ },
+ "wave": {
+  "stats": {
+   "allitemcount": 4,
+   "totalelements": 14,
+   "pagetitle": "Failed Example 3",
+   "aim": 10,
+   "error": 0,
+   "contrast": 0,
+   "alert": 2,
+   "feature": 1,
+   "structure": 0,
+   "aria": 1
+  },
+  "icons": [
+   {
+    "type": "heading_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "region_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "lang",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "aria_button",
+    "pageWide": false,
+    "path": "html>body:2>span:1",
+    "tag": "span"
+   }
+  ]
+ }
+}

@@ -1,0 +1,119 @@
+{
+ "id": "afw4f7-ab4691ef47",
+ "grupo": "act",
+ "url": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/afw4f7/ab4691ef474d6263e9ceec824f07faa51a30112e.html",
+ "meta": {
+  "regra": "afw4f7",
+  "nomeRegra": "Text has minimum contrast",
+  "caso": "Passed Example 2",
+  "esperado": "passed",
+  "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/ab4691ef474d6263e9ceec824f07faa51a30112e.html"
+ },
+ "coletadoEm": "2026-11-24T03:41:40.711Z",
+ "versoes": {
+  "chromium": "156.0.8078.4",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+  "axeCore": "4.14.1",
+  "wave": "3.3.4.0",
+  "extensao": "0.1.0"
+ },
+ "urlFinal": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/afw4f7/ab4691ef474d6263e9ceec824f07faa51a30112e.html",
+ "extensao": {
+  "ativa": true,
+  "esperaMs": 1034,
+  "varreduraInicial": {
+   "startedAt": 31.90000000037253,
+   "wallMs": 4.400000000372529,
+   "activeMs": 4.199999999254942,
+   "nodesEvaluated": 5,
+   "slices": 1,
+   "maxSliceMs": 4.199999999254942
+  },
+  "lotes": 1,
+  "ocorrencias": [
+   {
+    "wcag": "1.4.3",
+    "outcome": "incomplete",
+    "regras": [
+     "text-contrast:incomplete"
+    ],
+    "dados": [
+     {
+      "reason": "background-image"
+     }
+    ],
+    "seletor": "p",
+    "path": "html>body:2>p:1",
+    "frameId": 0,
+    "snippet": "<p style=\"color: #333; background: linear-gradient(to right, #FFF, #00F); width: 500px;\">"
+   }
+  ]
+ },
+ "axe": {
+  "violacoes": [],
+  "incompletas": [
+   {
+    "id": "color-contrast",
+    "impact": "serious",
+    "tags": [
+     "wcag143"
+    ],
+    "nos": [
+     {
+      "alvo": [
+       "p"
+      ],
+      "path": "html>body:2>p:1",
+      "html": "<p style=\"color: #333; background: linear-gradient(to right, #FFF, #00F); width: 500px;\">\n\t\tSome text in a human language\n\t</p>",
+      "resumo": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient",
+      "dados": {
+       "contrastRatio": 0,
+       "fontSize": "12.0pt (16px)",
+       "fontWeight": "normal",
+       "messageKey": "bgGradient",
+       "expectedContrastRatio": "4.5:1"
+      }
+     }
+    ]
+   }
+  ],
+  "testEngine": {
+   "name": "axe-core",
+   "version": "4.14.1"
+  }
+ },
+ "wave": {
+  "stats": {
+   "allitemcount": 3,
+   "totalelements": 13,
+   "pagetitle": "Passed Example 2",
+   "aim": 10,
+   "error": 0,
+   "contrast": 0,
+   "alert": 2,
+   "feature": 1,
+   "structure": 0,
+   "aria": 0
+  },
+  "icons": [
+   {
+    "type": "heading_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "region_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "lang",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   }
+  ]
+ }
+}

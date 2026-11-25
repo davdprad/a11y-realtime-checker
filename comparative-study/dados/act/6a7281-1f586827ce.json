@@ -1,0 +1,119 @@
+{
+ "id": "6a7281-1f586827ce",
+ "grupo": "act",
+ "url": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/6a7281/1f586827cecc5b1b4d9f60dcaba1e77f4a90c54a.html",
+ "meta": {
+  "regra": "6a7281",
+  "nomeRegra": "ARIA state or property has valid value",
+  "caso": "Failed Example 2",
+  "esperado": "failed",
+  "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/6a7281/1f586827cecc5b1b4d9f60dcaba1e77f4a90c54a.html"
+ },
+ "coletadoEm": "2026-11-24T03:31:36.738Z",
+ "versoes": {
+  "chromium": "156.0.8078.4",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+  "axeCore": "4.14.1",
+  "wave": "3.3.4.0",
+  "extensao": "0.1.0"
+ },
+ "urlFinal": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/6a7281/1f586827cecc5b1b4d9f60dcaba1e77f4a90c54a.html",
+ "extensao": {
+  "ativa": true,
+  "esperaMs": 668,
+  "varreduraInicial": {
+   "startedAt": 32.09999999962747,
+   "wallMs": 7.800000000745058,
+   "activeMs": 5.2000000001862645,
+   "nodesEvaluated": 5,
+   "slices": 1,
+   "maxSliceMs": 5.2000000001862645
+  },
+  "lotes": 1,
+  "ocorrencias": [
+   {
+    "wcag": "4.1.2",
+    "outcome": "violation",
+    "regras": [
+     "aria-attr-valid-value:violation"
+    ],
+    "dados": [
+     {
+      "attributes": "aria-expanded=\"collapsed\""
+     }
+    ],
+    "seletor": "[role=\"button\"]",
+    "path": "html>body:2>div:1",
+    "frameId": 0,
+    "snippet": "<div role=\"button\" aria-expanded=\"collapsed\">"
+   }
+  ]
+ },
+ "axe": {
+  "violacoes": [
+   {
+    "id": "aria-valid-attr-value",
+    "impact": "critical",
+    "tags": [
+     "wcag412"
+    ],
+    "nos": [
+     {
+      "alvo": [
+       "div[role=\"button\"]"
+      ],
+      "path": "html>body:2>div:1",
+      "html": "<div role=\"button\" aria-expanded=\"collapsed\">A button</div>",
+      "resumo": "Fix all of the following:\n  Invalid ARIA attribute value: aria-expanded=\"collapsed\"",
+      "dados": null
+     }
+    ]
+   }
+  ],
+  "incompletas": [],
+  "testEngine": {
+   "name": "axe-core",
+   "version": "4.14.1"
+  }
+ },
+ "wave": {
+  "stats": {
+   "allitemcount": 4,
+   "totalelements": 14,
+   "pagetitle": "Failed Example 2",
+   "aim": 10,
+   "error": 0,
+   "contrast": 0,
+   "alert": 2,
+   "feature": 1,
+   "structure": 0,
+   "aria": 1
+  },
+  "icons": [
+   {
+    "type": "heading_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "region_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "lang",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "aria_button",
+    "pageWide": false,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   }
+  ]
+ }
+}

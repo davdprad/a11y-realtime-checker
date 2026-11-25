@@ -1,0 +1,151 @@
+{
+ "id": "2779a5-314d991fa5",
+ "grupo": "act",
+ "url": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/2779a5/314d991fa5328e41f8a806bfbac84d748b41f7ed.html",
+ "meta": {
+  "regra": "2779a5",
+  "nomeRegra": "HTML page has non-empty title",
+  "caso": "Failed Example 2",
+  "esperado": "failed",
+  "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/2779a5/314d991fa5328e41f8a806bfbac84d748b41f7ed.html"
+ },
+ "coletadoEm": "2026-11-24T03:37:47.399Z",
+ "versoes": {
+  "chromium": "156.0.8078.4",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+  "axeCore": "4.14.1",
+  "wave": "3.3.4.0",
+  "extensao": "0.1.0"
+ },
+ "urlFinal": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/2779a5/314d991fa5328e41f8a806bfbac84d748b41f7ed.html",
+ "extensao": {
+  "ativa": true,
+  "esperaMs": 656,
+  "varreduraInicial": {
+   "startedAt": 28.700000001117587,
+   "wallMs": 3.400000000372529,
+   "activeMs": 1.699999999254942,
+   "nodesEvaluated": 4,
+   "slices": 1,
+   "maxSliceMs": 1.699999999254942
+  },
+  "lotes": 1,
+  "ocorrencias": [
+   {
+    "wcag": "3.1.1",
+    "outcome": "violation",
+    "regras": [
+     "html-lang:violation"
+    ],
+    "dados": [
+     null
+    ],
+    "seletor": "html",
+    "path": "document",
+    "frameId": 0,
+    "snippet": "<html>"
+   },
+   {
+    "wcag": "2.4.2",
+    "outcome": "violation",
+    "regras": [
+     "document-title:violation"
+    ],
+    "dados": [
+     null
+    ],
+    "seletor": "title",
+    "path": "document",
+    "frameId": 0,
+    "snippet": "<title>"
+   }
+  ]
+ },
+ "axe": {
+  "violacoes": [
+   {
+    "id": "document-title",
+    "impact": "serious",
+    "tags": [
+     "wcag242"
+    ],
+    "nos": [
+     {
+      "alvo": [
+       "html"
+      ],
+      "path": "html",
+      "html": "<html>",
+      "resumo": "Fix any of the following:\n  Document does not have a non-empty <title> element",
+      "dados": null
+     }
+    ]
+   },
+   {
+    "id": "html-has-lang",
+    "impact": "serious",
+    "tags": [
+     "wcag311"
+    ],
+    "nos": [
+     {
+      "alvo": [
+       "html"
+      ],
+      "path": "html",
+      "html": "<html>",
+      "resumo": "Fix any of the following:\n  The <html> element does not have a lang attribute",
+      "dados": {
+       "messageKey": "noLang"
+      }
+     }
+    ]
+   }
+  ],
+  "incompletas": [],
+  "testEngine": {
+   "name": "axe-core",
+   "version": "4.14.1"
+  }
+ },
+ "wave": {
+  "stats": {
+   "allitemcount": 4,
+   "totalelements": 13,
+   "pagetitle": "",
+   "aim": 7.3,
+   "error": 2,
+   "contrast": 0,
+   "alert": 2,
+   "feature": 0,
+   "structure": 0,
+   "aria": 0
+  },
+  "icons": [
+   {
+    "type": "title_invalid",
+    "pageWide": true,
+    "path": "html>body:2>div:0",
+    "tag": "div"
+   },
+   {
+    "type": "language_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:0",
+    "tag": "div"
+   },
+   {
+    "type": "heading_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:0",
+    "tag": "div"
+   },
+   {
+    "type": "region_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:0",
+    "tag": "div"
+   }
+  ]
+ }
+}

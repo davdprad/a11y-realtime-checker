@@ -1,0 +1,117 @@
+{
+ "id": "23a2a8-b0348c1e6f",
+ "grupo": "act",
+ "url": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/23a2a8/b0348c1e6fced2df1ebd93caef4d383f6c7a0461.html",
+ "meta": {
+  "regra": "23a2a8",
+  "nomeRegra": "Image has non-empty accessible name",
+  "caso": "Failed Example 4",
+  "esperado": "failed",
+  "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/23a2a8/b0348c1e6fced2df1ebd93caef4d383f6c7a0461.html"
+ },
+ "coletadoEm": "2026-11-24T03:38:59.716Z",
+ "versoes": {
+  "chromium": "156.0.8078.4",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+  "axeCore": "4.14.1",
+  "wave": "3.3.4.0",
+  "extensao": "0.1.0"
+ },
+ "urlFinal": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/23a2a8/b0348c1e6fced2df1ebd93caef4d383f6c7a0461.html",
+ "extensao": {
+  "ativa": true,
+  "esperaMs": 665,
+  "varreduraInicial": {
+   "startedAt": 30.100000001490116,
+   "wallMs": 4.899999998509884,
+   "activeMs": 3,
+   "nodesEvaluated": 5,
+   "slices": 1,
+   "maxSliceMs": 3
+  },
+  "lotes": 1,
+  "ocorrencias": [
+   {
+    "wcag": "1.1.1",
+    "outcome": "violation",
+    "regras": [
+     "image-name:violation"
+    ],
+    "dados": [
+     null
+    ],
+    "seletor": "img",
+    "path": "html>body:2>img:1",
+    "frameId": 0,
+    "snippet": "<img src=\"/WAI/content-assets/wcag-act-rules/test-assets/shared/w3c-logo.png\" alt=\" \">"
+   }
+  ]
+ },
+ "axe": {
+  "violacoes": [
+   {
+    "id": "image-alt",
+    "impact": "critical",
+    "tags": [
+     "wcag111"
+    ],
+    "nos": [
+     {
+      "alvo": [
+       "img"
+      ],
+      "path": "html>body:2>img:1",
+      "html": "<img src=\"/WAI/content-assets/wcag-act-rules/test-assets/shared/w3c-logo.png\" alt=\" \">",
+      "resumo": "Fix all of the following:\n  Element has an alt attribute containing only a space character, which is not ignored by all screen readers",
+      "dados": null
+     }
+    ]
+   }
+  ],
+  "incompletas": [],
+  "testEngine": {
+   "name": "axe-core",
+   "version": "4.14.1"
+  }
+ },
+ "wave": {
+  "stats": {
+   "allitemcount": 4,
+   "totalelements": 14,
+   "pagetitle": "Failed Example 4",
+   "aim": 10,
+   "error": 0,
+   "contrast": 0,
+   "alert": 3,
+   "feature": 1,
+   "structure": 0,
+   "aria": 0
+  },
+  "icons": [
+   {
+    "type": "alt_suspicious",
+    "pageWide": false,
+    "path": "html>body:2>img:1",
+    "tag": "img"
+   },
+   {
+    "type": "heading_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "region_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "lang",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   }
+  ]
+ }
+}

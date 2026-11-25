@@ -1,0 +1,117 @@
+{
+ "id": "bf051a-a49f11c86a",
+ "grupo": "act",
+ "url": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/bf051a/a49f11c86ad81c4d42700dfca58a7eeec377f02e.html",
+ "meta": {
+  "regra": "bf051a",
+  "nomeRegra": "HTML page `lang` attribute has valid language tag",
+  "caso": "Passed Example 2",
+  "esperado": "passed",
+  "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/bf051a/a49f11c86ad81c4d42700dfca58a7eeec377f02e.html"
+ },
+ "coletadoEm": "2026-11-24T03:37:03.858Z",
+ "versoes": {
+  "chromium": "156.0.8078.4",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+  "axeCore": "4.14.1",
+  "wave": "3.3.4.0",
+  "extensao": "0.1.0"
+ },
+ "urlFinal": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/bf051a/a49f11c86ad81c4d42700dfca58a7eeec377f02e.html",
+ "extensao": {
+  "ativa": true,
+  "esperaMs": 660,
+  "varreduraInicial": {
+   "startedAt": 26.600000001490116,
+   "wallMs": 4.099999999627471,
+   "activeMs": 2.099999999627471,
+   "nodesEvaluated": 3,
+   "slices": 1,
+   "maxSliceMs": 2.099999999627471
+  },
+  "lotes": 1,
+  "ocorrencias": [
+   {
+    "wcag": "2.4.2",
+    "outcome": "violation",
+    "regras": [
+     "document-title:violation"
+    ],
+    "dados": [
+     null
+    ],
+    "seletor": "html",
+    "path": "document",
+    "frameId": 0,
+    "snippet": "<html lang=\"en-US-GB\">"
+   }
+  ]
+ },
+ "axe": {
+  "violacoes": [
+   {
+    "id": "document-title",
+    "impact": "serious",
+    "tags": [
+     "wcag242"
+    ],
+    "nos": [
+     {
+      "alvo": [
+       "html"
+      ],
+      "path": "html",
+      "html": "<html lang=\"en-US-GB\">",
+      "resumo": "Fix any of the following:\n  Document does not have a non-empty <title> element",
+      "dados": null
+     }
+    ]
+   }
+  ],
+  "incompletas": [],
+  "testEngine": {
+   "name": "axe-core",
+   "version": "4.14.1"
+  }
+ },
+ "wave": {
+  "stats": {
+   "allitemcount": 4,
+   "totalelements": 12,
+   "pagetitle": "",
+   "aim": 7.6,
+   "error": 1,
+   "contrast": 0,
+   "alert": 2,
+   "feature": 1,
+   "structure": 0,
+   "aria": 0
+  },
+  "icons": [
+   {
+    "type": "title_invalid",
+    "pageWide": true,
+    "path": "html>body:2>div:0",
+    "tag": "div"
+   },
+   {
+    "type": "heading_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:0",
+    "tag": "div"
+   },
+   {
+    "type": "region_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:0",
+    "tag": "div"
+   },
+   {
+    "type": "lang",
+    "pageWide": true,
+    "path": "html>body:2>div:0",
+    "tag": "div"
+   }
+  ]
+ }
+}

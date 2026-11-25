@@ -1,0 +1,71 @@
+[
+  {
+    "page": "large-dom-20k",
+    "elements": 12414,
+    "nodes": 21048,
+    "initialScan": {
+      "startedAt": 895.4000000003725,
+      "wallMs": 583.1999999992549,
+      "activeMs": 574.6999999918044,
+      "nodesEvaluated": 12414,
+      "slices": 65,
+      "maxSliceMs": 20.199999999254942
+    },
+    "longTasksDuringScan": [],
+    "incremental": {
+      "p50": 5.599999999627471,
+      "p95": 17.40000000037253,
+      "max": 19.499999998137355,
+      "n": 30
+    },
+    "incrementalMaxSliceMs": 12.399999998509884,
+    "batches": 31,
+    "occurrences": 916
+  },
+  {
+    "page": "large-dom-5k",
+    "elements": 3099,
+    "nodes": 5262,
+    "initialScan": {
+      "startedAt": 246.59999999962747,
+      "wallMs": 139.10000000149012,
+      "activeMs": 137.10000000149012,
+      "nodesEvaluated": 3099,
+      "slices": 16,
+      "maxSliceMs": 10.699999999254942
+    },
+    "longTasksDuringScan": [],
+    "incremental": {
+      "p50": 2.199999999254942,
+      "p95": 6.5,
+      "max": 7.099999999627471,
+      "n": 30
+    },
+    "incrementalMaxSliceMs": 7.099999999627471,
+    "batches": 31,
+    "occurrences": 234
+  },
+  {
+    "page": "mutations",
+    "elements": 83,
+    "nodes": 169,
+    "initialScan": {
+      "startedAt": 60.5,
+      "wallMs": 5.199999999254942,
+      "activeMs": 5.199999999254942,
+      "nodesEvaluated": 12,
+      "slices": 1,
+      "maxSliceMs": 5.199999999254942
+    },
+    "longTasksDuringScan": [],
+    "incremental": {
+      "p50": 1.400000000372529,
+      "p95": 9.299999998882413,
+      "max": 9.299999998882413,
+      "n": 16
+    },
+    "incrementalMaxSliceMs": 8.899999998509884,
+    "batches": 17,
+    "occurrences": 24
+  }
+]

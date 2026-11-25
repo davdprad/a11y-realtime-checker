@@ -1,0 +1,117 @@
+{
+ "id": "23a2a8-fef9a3ad8b",
+ "grupo": "act",
+ "url": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/23a2a8/fef9a3ad8b2f2a6beeaf44ef7dafce08e743ea67.html",
+ "meta": {
+  "regra": "23a2a8",
+  "nomeRegra": "Image has non-empty accessible name",
+  "caso": "Failed Example 3",
+  "esperado": "failed",
+  "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/23a2a8/fef9a3ad8b2f2a6beeaf44ef7dafce08e743ea67.html"
+ },
+ "coletadoEm": "2026-11-24T03:38:57.883Z",
+ "versoes": {
+  "chromium": "156.0.8078.4",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+  "axeCore": "4.14.1",
+  "wave": "3.3.4.0",
+  "extensao": "0.1.0"
+ },
+ "urlFinal": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/23a2a8/fef9a3ad8b2f2a6beeaf44ef7dafce08e743ea67.html",
+ "extensao": {
+  "ativa": true,
+  "esperaMs": 788,
+  "varreduraInicial": {
+   "startedAt": 31.299999998882413,
+   "wallMs": 8.700000001117587,
+   "activeMs": 3.5,
+   "nodesEvaluated": 6,
+   "slices": 1,
+   "maxSliceMs": 3.5
+  },
+  "lotes": 1,
+  "ocorrencias": [
+   {
+    "wcag": "1.1.1",
+    "outcome": "violation",
+    "regras": [
+     "image-name:violation"
+    ],
+    "dados": [
+     null
+    ],
+    "seletor": "img",
+    "path": "html>body:2>div:1>img:1",
+    "frameId": 0,
+    "snippet": "<img src=\"/WAI/content-assets/wcag-act-rules/test-assets/shared/w3c-logo.png\">"
+   }
+  ]
+ },
+ "axe": {
+  "violacoes": [
+   {
+    "id": "image-alt",
+    "impact": "critical",
+    "tags": [
+     "wcag111"
+    ],
+    "nos": [
+     {
+      "alvo": [
+       "img"
+      ],
+      "path": "html>body:2>div:1>img:1",
+      "html": "<img src=\"/WAI/content-assets/wcag-act-rules/test-assets/shared/w3c-logo.png\">",
+      "resumo": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics ",
+      "dados": null
+     }
+    ]
+   }
+  ],
+  "incompletas": [],
+  "testEngine": {
+   "name": "axe-core",
+   "version": "4.14.1"
+  }
+ },
+ "wave": {
+  "stats": {
+   "allitemcount": 4,
+   "totalelements": 15,
+   "pagetitle": "Failed Example 3",
+   "aim": 7.9,
+   "error": 1,
+   "contrast": 0,
+   "alert": 2,
+   "feature": 1,
+   "structure": 0,
+   "aria": 0
+  },
+  "icons": [
+   {
+    "type": "alt_missing",
+    "pageWide": false,
+    "path": "html>body:2>div:1>img:1",
+    "tag": "img"
+   },
+   {
+    "type": "heading_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "region_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "lang",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   }
+  ]
+ }
+}

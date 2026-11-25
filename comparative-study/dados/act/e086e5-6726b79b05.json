@@ -1,0 +1,83 @@
+{
+ "id": "e086e5-6726b79b05",
+ "grupo": "act",
+ "url": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/e086e5/6726b79b0534d80f567c3e5fd7174962d411be95.html",
+ "meta": {
+  "regra": "e086e5",
+  "nomeRegra": "Form field has non-empty accessible name",
+  "caso": "Passed Example 3",
+  "esperado": "passed",
+  "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/e086e5/6726b79b0534d80f567c3e5fd7174962d411be95.html"
+ },
+ "coletadoEm": "2026-11-24T03:36:34.049Z",
+ "versoes": {
+  "chromium": "156.0.8078.4",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+  "axeCore": "4.14.1",
+  "wave": "3.3.4.0",
+  "extensao": "0.1.0"
+ },
+ "urlFinal": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/e086e5/6726b79b0534d80f567c3e5fd7174962d411be95.html",
+ "extensao": {
+  "ativa": true,
+  "esperaMs": 648,
+  "varreduraInicial": {
+   "startedAt": 37.30000000074506,
+   "wallMs": 4.699999999254942,
+   "activeMs": 4.699999999254942,
+   "nodesEvaluated": 10,
+   "slices": 1,
+   "maxSliceMs": 4.699999999254942
+  },
+  "lotes": 1,
+  "ocorrencias": []
+ },
+ "axe": {
+  "violacoes": [],
+  "incompletas": [],
+  "testEngine": {
+   "name": "axe-core",
+   "version": "4.14.1"
+  }
+ },
+ "wave": {
+  "stats": {
+   "allitemcount": 4,
+   "totalelements": 18,
+   "pagetitle": "Passed Example 3",
+   "aim": 10,
+   "error": 0,
+   "contrast": 0,
+   "alert": 2,
+   "feature": 2,
+   "structure": 0,
+   "aria": 0
+  },
+  "icons": [
+   {
+    "type": "heading_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:2",
+    "tag": "div"
+   },
+   {
+    "type": "region_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:2",
+    "tag": "div"
+   },
+   {
+    "type": "label",
+    "pageWide": false,
+    "path": "html>body:2>label:1",
+    "tag": "label"
+   },
+   {
+    "type": "lang",
+    "pageWide": true,
+    "path": "html>body:2>div:2",
+    "tag": "div"
+   }
+  ]
+ }
+}

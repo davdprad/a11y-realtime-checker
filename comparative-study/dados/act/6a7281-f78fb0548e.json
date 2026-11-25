@@ -1,0 +1,104 @@
+{
+ "id": "6a7281-f78fb0548e",
+ "grupo": "act",
+ "url": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/6a7281/f78fb0548e68839232441636b6d8489ad17c50b5.html",
+ "meta": {
+  "regra": "6a7281",
+  "nomeRegra": "ARIA state or property has valid value",
+  "caso": "Passed Example 7",
+  "esperado": "passed",
+  "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/6a7281/f78fb0548e68839232441636b6d8489ad17c50b5.html"
+ },
+ "coletadoEm": "2026-11-24T03:31:29.416Z",
+ "versoes": {
+  "chromium": "156.0.8078.4",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+  "axeCore": "4.14.1",
+  "wave": "3.3.4.0",
+  "extensao": "0.1.0"
+ },
+ "urlFinal": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/6a7281/f78fb0548e68839232441636b6d8489ad17c50b5.html",
+ "extensao": {
+  "ativa": true,
+  "esperaMs": 647,
+  "varreduraInicial": {
+   "startedAt": 30.800000000745058,
+   "wallMs": 3.8999999994412065,
+   "activeMs": 3.7999999998137355,
+   "nodesEvaluated": 5,
+   "slices": 1,
+   "maxSliceMs": 3.7999999998137355
+  },
+  "lotes": 1,
+  "ocorrencias": []
+ },
+ "axe": {
+  "violacoes": [
+   {
+    "id": "aria-required-parent",
+    "impact": "critical",
+    "tags": [
+     "wcag131"
+    ],
+    "nos": [
+     {
+      "alvo": [
+       "div"
+      ],
+      "path": "html>body:2>div:1",
+      "html": "<div role=\"gridcell\" aria-rowindex=\"2\">Fred</div>",
+      "resumo": "Fix any of the following:\n  Required ARIA parent role not present: row",
+      "dados": [
+       "row"
+      ]
+     }
+    ]
+   }
+  ],
+  "incompletas": [],
+  "testEngine": {
+   "name": "axe-core",
+   "version": "4.14.1"
+  }
+ },
+ "wave": {
+  "stats": {
+   "allitemcount": 4,
+   "totalelements": 13,
+   "pagetitle": "Passed Example 7",
+   "aim": 10,
+   "error": 0,
+   "contrast": 0,
+   "alert": 2,
+   "feature": 1,
+   "structure": 0,
+   "aria": 1
+  },
+  "icons": [
+   {
+    "type": "heading_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "region_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "lang",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "aria",
+    "pageWide": false,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   }
+  ]
+ }
+}

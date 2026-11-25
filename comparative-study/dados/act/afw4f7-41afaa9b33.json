@@ -1,0 +1,125 @@
+{
+ "id": "afw4f7-41afaa9b33",
+ "grupo": "act",
+ "url": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/afw4f7/41afaa9b33287aba9c608c3466e2b164f57a02ed.html",
+ "meta": {
+  "regra": "afw4f7",
+  "nomeRegra": "Text has minimum contrast",
+  "caso": "Failed Example 3",
+  "esperado": "failed",
+  "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/41afaa9b33287aba9c608c3466e2b164f57a02ed.html"
+ },
+ "coletadoEm": "2026-11-24T03:42:03.862Z",
+ "versoes": {
+  "chromium": "156.0.8078.4",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+  "axeCore": "4.14.1",
+  "wave": "3.3.4.0",
+  "extensao": "0.1.0"
+ },
+ "urlFinal": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/afw4f7/41afaa9b33287aba9c608c3466e2b164f57a02ed.html",
+ "extensao": {
+  "ativa": true,
+  "esperaMs": 1064,
+  "varreduraInicial": {
+   "startedAt": 34.5,
+   "wallMs": 4,
+   "activeMs": 3.800000000745058,
+   "nodesEvaluated": 5,
+   "slices": 1,
+   "maxSliceMs": 3.800000000745058
+  },
+  "lotes": 1,
+  "ocorrencias": [
+   {
+    "wcag": "1.4.3",
+    "outcome": "incomplete",
+    "regras": [
+     "text-contrast:incomplete"
+    ],
+    "dados": [
+     {
+      "reason": "background-image"
+     }
+    ],
+    "seletor": "p",
+    "path": "html>body:2>p:1",
+    "frameId": 0,
+    "snippet": "<p style=\"color: #555; height:50px; padding-top:20px; background: black no-repeat -20px -20px url('/WAI/content-assets/wcag-act-rules/test-assets/contrast/blac…"
+   }
+  ]
+ },
+ "axe": {
+  "violacoes": [],
+  "incompletas": [
+   {
+    "id": "color-contrast",
+    "impact": "serious",
+    "tags": [
+     "wcag143"
+    ],
+    "nos": [
+     {
+      "alvo": [
+       "p"
+      ],
+      "path": "html>body:2>p:1",
+      "html": "<p style=\"color: #555; height:50px; padding-top:20px; background: black no-repeat -20px -20px url('/WAI/content-assets/wcag-act-rules/test-assets/contrast/black-hole.jpeg');\">\n\t\tBlack hole sun\n\t</p>",
+      "resumo": "Fix any of the following:\n  Element's background color could not be determined due to a background image",
+      "dados": {
+       "contrastRatio": 0,
+       "fontSize": "12.0pt (16px)",
+       "fontWeight": "normal",
+       "messageKey": "bgImage",
+       "expectedContrastRatio": "4.5:1"
+      }
+     }
+    ]
+   }
+  ],
+  "testEngine": {
+   "name": "axe-core",
+   "version": "4.14.1"
+  }
+ },
+ "wave": {
+  "stats": {
+   "allitemcount": 4,
+   "totalelements": 13,
+   "pagetitle": "Failed Example 3",
+   "aim": 7.6,
+   "error": 0,
+   "contrast": 1,
+   "alert": 2,
+   "feature": 1,
+   "structure": 0,
+   "aria": 0
+  },
+  "icons": [
+   {
+    "type": "contrast",
+    "pageWide": false,
+    "path": "html>body:2>p:1",
+    "tag": "p"
+   },
+   {
+    "type": "heading_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "region_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "lang",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   }
+  ]
+ }
+}

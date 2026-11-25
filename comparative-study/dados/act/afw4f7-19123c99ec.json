@@ -1,0 +1,138 @@
+{
+ "id": "afw4f7-19123c99ec",
+ "grupo": "act",
+ "url": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/afw4f7/19123c99ec390011b87736827720d5e1e794bad2.html",
+ "meta": {
+  "regra": "afw4f7",
+  "nomeRegra": "Text has minimum contrast",
+  "caso": "Failed Example 10",
+  "esperado": "failed",
+  "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/19123c99ec390011b87736827720d5e1e794bad2.html"
+ },
+ "coletadoEm": "2026-11-24T03:42:17.510Z",
+ "versoes": {
+  "chromium": "156.0.8078.4",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+  "axeCore": "4.14.1",
+  "wave": "3.3.4.0",
+  "extensao": "0.1.0"
+ },
+ "urlFinal": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/afw4f7/19123c99ec390011b87736827720d5e1e794bad2.html",
+ "extensao": {
+  "ativa": true,
+  "esperaMs": 1010,
+  "varreduraInicial": {
+   "startedAt": 33.79999999888241,
+   "wallMs": 8.200000001117587,
+   "activeMs": 5.300000000745058,
+   "nodesEvaluated": 5,
+   "slices": 1,
+   "maxSliceMs": 5.300000000745058
+  },
+  "lotes": 1,
+  "ocorrencias": [
+   {
+    "wcag": "1.4.3",
+    "outcome": "violation",
+    "regras": [
+     "text-contrast:violation"
+    ],
+    "dados": [
+     {
+      "ratio": 3.86,
+      "required": 4.5,
+      "foreground": "#777777",
+      "background": "#eeeeee",
+      "fontSize": 16,
+      "fontWeight": 400
+     }
+    ],
+    "seletor": "[role=\"button\"]",
+    "path": "html>body:2>div:1",
+    "frameId": 0,
+    "snippet": "<div role=\"button\" style=\"color: #777; background: #EEE;\">"
+   }
+  ]
+ },
+ "axe": {
+  "violacoes": [
+   {
+    "id": "color-contrast",
+    "impact": "serious",
+    "tags": [
+     "wcag143"
+    ],
+    "nos": [
+     {
+      "alvo": [
+       "div[role=\"button\"]"
+      ],
+      "path": "html>body:2>div:1",
+      "html": "<div role=\"button\" style=\"color: #777; background: #EEE;\">My button!</div>",
+      "resumo": "Fix any of the following:\n  Element has insufficient color contrast of 3.85 (foreground color: #777777, background color: #eeeeee, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1",
+      "dados": {
+       "fgColor": "#777777",
+       "bgColor": "#eeeeee",
+       "contrastRatio": 3.85,
+       "fontSize": "12.0pt (16px)",
+       "fontWeight": "normal",
+       "messageKey": null,
+       "expectedContrastRatio": "4.5:1"
+      }
+     }
+    ]
+   }
+  ],
+  "incompletas": [],
+  "testEngine": {
+   "name": "axe-core",
+   "version": "4.14.1"
+  }
+ },
+ "wave": {
+  "stats": {
+   "allitemcount": 5,
+   "totalelements": 14,
+   "pagetitle": "Failed Example 10",
+   "aim": 7.9,
+   "error": 0,
+   "contrast": 1,
+   "alert": 2,
+   "feature": 1,
+   "structure": 0,
+   "aria": 1
+  },
+  "icons": [
+   {
+    "type": "contrast",
+    "pageWide": false,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "heading_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "region_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "lang",
+    "pageWide": true,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "aria_button",
+    "pageWide": false,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   }
+  ]
+ }
+}

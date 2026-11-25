@@ -1,0 +1,7 @@
+{
+ "chromium": "156.0.8078.4",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+ "axeCore": "4.14.1",
+ "wave": "3.3.4.0",
+ "extensao": "0.1.0"
+}

@@ -1,0 +1,98 @@
+{
+ "id": "e086e5-3aa8f45d7e",
+ "grupo": "act",
+ "url": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/e086e5/3aa8f45d7e358655c39708e2656a2c2d97e7dfa6.html",
+ "meta": {
+  "regra": "e086e5",
+  "nomeRegra": "Form field has non-empty accessible name",
+  "caso": "Passed Example 5",
+  "esperado": "passed",
+  "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/e086e5/3aa8f45d7e358655c39708e2656a2c2d97e7dfa6.html"
+ },
+ "coletadoEm": "2026-11-24T03:36:37.940Z",
+ "versoes": {
+  "chromium": "156.0.8078.4",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+  "axeCore": "4.14.1",
+  "wave": "3.3.4.0",
+  "extensao": "0.1.0"
+ },
+ "urlFinal": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/e086e5/3aa8f45d7e358655c39708e2656a2c2d97e7dfa6.html",
+ "extensao": {
+  "ativa": true,
+  "esperaMs": 662,
+  "varreduraInicial": {
+   "startedAt": 34.90000000037253,
+   "wallMs": 6.799999998882413,
+   "activeMs": 5.099999999627471,
+   "nodesEvaluated": 6,
+   "slices": 1,
+   "maxSliceMs": 5.099999999627471
+  },
+  "lotes": 1,
+  "ocorrencias": [
+   {
+    "wcag": "1.3.1",
+    "outcome": "recommendation",
+    "regras": [
+     "form-label:recommendation"
+    ],
+    "dados": [
+     null
+    ],
+    "seletor": "input",
+    "path": "html>body:2>input:1",
+    "frameId": 0,
+    "snippet": "<input placeholder=\"Your search query\">"
+   }
+  ]
+ },
+ "axe": {
+  "violacoes": [],
+  "incompletas": [],
+  "testEngine": {
+   "name": "axe-core",
+   "version": "4.14.1"
+  }
+ },
+ "wave": {
+  "stats": {
+   "allitemcount": 4,
+   "totalelements": 15,
+   "pagetitle": "Passed Example 5",
+   "aim": 7.9,
+   "error": 1,
+   "contrast": 0,
+   "alert": 2,
+   "feature": 1,
+   "structure": 0,
+   "aria": 0
+  },
+  "icons": [
+   {
+    "type": "label_missing",
+    "pageWide": false,
+    "path": "html>body:2>input:1",
+    "tag": "input"
+   },
+   {
+    "type": "heading_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:2",
+    "tag": "div"
+   },
+   {
+    "type": "region_missing",
+    "pageWide": true,
+    "path": "html>body:2>div:2",
+    "tag": "div"
+   },
+   {
+    "type": "lang",
+    "pageWide": true,
+    "path": "html>body:2>div:2",
+    "tag": "div"
+   }
+  ]
+ }
+}

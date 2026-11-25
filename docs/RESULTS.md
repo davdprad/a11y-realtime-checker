@@ -92,3 +92,17 @@ As fixtures "5k" e "20k" têm 5.262 e 21.048 nós (elementos, texto e
 comentários), ou 3.099 e 12.414 elementos. Na página de mutações (contador a cada 100 ms e lista que
 cresce a cada 250 ms por 6 s), as 16 reavaliações cobriram todas as mutações e
 todas as imagens sem `alt` inseridas foram sinalizadas.
+
+
+## Estudo comparativo (TCC)
+
+Comparação da extensão com o axe-core (motor do axe DevTools) e o WAVE em 240 casos ACT do W3C,
+nas 4 páginas da demonstração BAD do W3C e em 10 sites reais, coletada em novembro de 2026. Dados,
+scripts e protocolo em [`comparative-study/`](../comparative-study/README.md); a tag `tcc-2026` marca a versão
+avaliada.
+
+| Ferramenta                 | ACT: precisão | ACT: revocação | BAD e sites: precisão | BAD e sites: revocação |
+| -------------------------- | ------------- | -------------- | --------------------- | ---------------------- |
+| Extensão (versão avaliada) | 100,0%        | 97,7%          | 99,2%                 | 96,7%                  |
+| axe-core 4.14.1            | 98,8%         | 94,1%          | 99,2%                 | 94,1%                  |
+| WAVE 3.3.4.0               | 70,5%         | 69,3%          | 68,8%                 | 88,5%                  |

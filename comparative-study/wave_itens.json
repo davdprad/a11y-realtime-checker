@@ -1,0 +1,746 @@
+{
+ "alt_missing": {
+  "title": "Missing alternative text",
+  "cat": "error",
+  "wcag": [
+   "1.1.1"
+  ]
+ },
+ "alt_link_missing": {
+  "title": "Linked image missing alternative text",
+  "cat": "error",
+  "wcag": [
+   "1.1.1",
+   "2.4.4"
+  ]
+ },
+ "alt_spacer_missing": {
+  "title": "Spacer image missing alternative text",
+  "cat": "error",
+  "wcag": [
+   "1.1.1"
+  ]
+ },
+ "alt_input_missing": {
+  "title": "Image button missing alternative text",
+  "cat": "error",
+  "wcag": [
+   "1.1.1",
+   "2.4.4"
+  ]
+ },
+ "alt_area_missing": {
+  "title": "Image map area missing alternative text",
+  "cat": "error",
+  "wcag": [
+   "1.1.1",
+   "2.4.4"
+  ]
+ },
+ "alt_map_missing": {
+  "title": "Image map missing alternative text",
+  "cat": "error",
+  "wcag": [
+   "1.1.1"
+  ]
+ },
+ "longdesc_invalid": {
+  "title": "Invalid longdesc",
+  "cat": "error",
+  "wcag": [
+   "1.1.1"
+  ]
+ },
+ "label_missing": {
+  "title": "Missing form label",
+  "cat": "error",
+  "wcag": [
+   "1.1.1",
+   "1.3.1",
+   "2.4.6",
+   "3.3.2"
+  ]
+ },
+ "label_empty": {
+  "title": "Empty form label",
+  "cat": "error",
+  "wcag": [
+   "1.1.1",
+   "1.3.1",
+   "2.4.6",
+   "3.3.2"
+  ]
+ },
+ "label_multiple": {
+  "title": "Multiple form labels",
+  "cat": "error",
+  "wcag": [
+   "1.1.1",
+   "1.3.1",
+   "2.4.6",
+   "3.3.2"
+  ]
+ },
+ "aria_reference_broken": {
+  "title": "Broken ARIA reference",
+  "cat": "error",
+  "wcag": [
+   "1.3.1",
+   "4.1.2",
+   "2.1.1",
+   "4.1.2"
+  ]
+ },
+ "title_invalid": {
+  "title": "Missing or uninformative page title",
+  "cat": "error",
+  "wcag": [
+   "2.4.2"
+  ]
+ },
+ "language_missing": {
+  "title": "Language missing or invalid",
+  "cat": "error",
+  "wcag": [
+   "3.1.1"
+  ]
+ },
+ "meta_refresh": {
+  "title": "Page refreshes or redirects",
+  "cat": "error",
+  "wcag": [
+   "2.2.1",
+   "2.2.2"
+  ]
+ },
+ "heading_empty": {
+  "title": "Empty heading",
+  "cat": "error",
+  "wcag": [
+   "1.3.1",
+   "2.4.1",
+   "2.4.6"
+  ]
+ },
+ "button_empty": {
+  "title": "Empty button",
+  "cat": "error",
+  "wcag": [
+   "1.1.1",
+   "2.4.4"
+  ]
+ },
+ "link_empty": {
+  "title": "Empty link",
+  "cat": "error",
+  "wcag": [
+   "2.4.4"
+  ]
+ },
+ "link_skip_broken": {
+  "title": "Broken skip link",
+  "cat": "error",
+  "wcag": [
+   "2.1.1",
+   "2.4.1"
+  ]
+ },
+ "th_empty": {
+  "title": "Empty table header",
+  "cat": "error",
+  "wcag": [
+   "1.3.1"
+  ]
+ },
+ "blink": {
+  "title": "Blinking content",
+  "cat": "error",
+  "wcag": [
+   "2.2.2"
+  ]
+ },
+ "marquee": {
+  "title": "Marquee",
+  "cat": "error",
+  "wcag": [
+   "2.2.2"
+  ]
+ },
+ "contrast": {
+  "title": "Very low contrast",
+  "cat": "contrast",
+  "wcag": [
+   "1.4.3"
+  ]
+ },
+ "alt_suspicious": {
+  "title": "Suspicious alternative text",
+  "cat": "alert",
+  "wcag": [
+   "1.1.1"
+  ]
+ },
+ "alt_redundant": {
+  "title": "Redundant alternative text",
+  "cat": "alert",
+  "wcag": [
+   "1.1.1"
+  ]
+ },
+ "alt_duplicate": {
+  "title": "A nearby image has the same alternative text",
+  "cat": "alert",
+  "wcag": [
+   "1.1.1"
+  ]
+ },
+ "alt_long": {
+  "title": "Long alternative text",
+  "cat": "alert",
+  "wcag": [
+   "1.1.1"
+  ]
+ },
+ "longdesc": {
+  "title": "Long description",
+  "cat": "alert",
+  "wcag": [
+   "1.1.1",
+   "1.1.1"
+  ]
+ },
+ "label_orphaned": {
+  "title": "Orphaned form label",
+  "cat": "alert",
+  "wcag": [
+   "1.1.1",
+   "1.3.1",
+   "2.4.6",
+   "3.3.2"
+  ]
+ },
+ "label_title": {
+  "title": "Unlabeled form control with title",
+  "cat": "alert",
+  "wcag": [
+   "1.1.1",
+   "1.3.1",
+   "2.4.6",
+   "3.3.2",
+   "1.3.1",
+   "2.4.6",
+   "3.3.2"
+  ]
+ },
+ "fieldset_missing": {
+  "title": "Missing fieldset",
+  "cat": "alert",
+  "wcag": [
+   "1.1.1",
+   "1.3.1",
+   "2.4.6",
+   "3.3.2"
+  ]
+ },
+ "legend_missing": {
+  "title": "Fieldset missing legend",
+  "cat": "alert",
+  "wcag": [
+   "1.1.1",
+   "1.3.1",
+   "2.4.6",
+   "3.3.2"
+  ]
+ },
+ "heading_missing": {
+  "title": "No heading structure",
+  "cat": "alert",
+  "wcag": [
+   "1.3.1",
+   "2.4.6"
+  ]
+ },
+ "h1_missing": {
+  "title": "Missing first level heading",
+  "cat": "alert",
+  "wcag": [
+   "1.3.1",
+   "2.4.6",
+   "1.3.1",
+   "2.4.1"
+  ]
+ },
+ "heading_skipped": {
+  "title": "Skipped heading level",
+  "cat": "alert",
+  "wcag": [
+   "1.3.1",
+   "2.4.1",
+   "2.4.6"
+  ]
+ },
+ "heading_possible": {
+  "title": "Possible heading",
+  "cat": "alert",
+  "wcag": [
+   "1.3.1",
+   "2.4.1",
+   "2.4.6"
+  ]
+ },
+ "table_layout": {
+  "title": "Layout table",
+  "cat": "alert",
+  "wcag": [
+   "1.3.1",
+   "1.3.2"
+  ]
+ },
+ "table_caption_possible": {
+  "title": "Possible table caption",
+  "cat": "alert",
+  "wcag": [
+   "1.3.1",
+   "1.3.1"
+  ]
+ },
+ "link_internal_broken": {
+  "title": "Broken same-page link",
+  "cat": "alert",
+  "wcag": [
+   "2.1.1"
+  ]
+ },
+ "link_suspicious": {
+  "title": "Suspicious link text",
+  "cat": "alert",
+  "wcag": [
+   "2.4.4"
+  ]
+ },
+ "link_redundant": {
+  "title": "Redundant link",
+  "cat": "alert",
+  "wcag": [
+   "2.4.4"
+  ]
+ },
+ "link_word": {
+  "title": "Link to Word document",
+  "cat": "alert",
+  "wcag": []
+ },
+ "link_excel": {
+  "title": "Link to Excel spreadsheet",
+  "cat": "alert",
+  "wcag": []
+ },
+ "link_powerpoint": {
+  "title": "Link to PowerPoint document",
+  "cat": "alert",
+  "wcag": []
+ },
+ "link_pdf": {
+  "title": "Link to PDF document",
+  "cat": "alert",
+  "wcag": []
+ },
+ "link_document": {
+  "title": "Link to document",
+  "cat": "alert",
+  "wcag": []
+ },
+ "audio_video": {
+  "title": "Audio/Video",
+  "cat": "alert",
+  "wcag": [
+   "1.2.1",
+   "1.2.2",
+   "1.2.3",
+   "1.2.5",
+   "1.4.2"
+  ]
+ },
+ "html5_video_audio": {
+  "title": "HTML5 video or audio",
+  "cat": "alert",
+  "wcag": [
+   "1.2.1",
+   "1.2.2",
+   "1.2.3",
+   "1.2.5",
+   "1.4.2",
+   "1.2.1",
+   "1.2.2",
+   "1.2.3"
+  ]
+ },
+ "flash": {
+  "title": "Flash",
+  "cat": "alert",
+  "wcag": [
+   "1.2.1",
+   "1.2.2",
+   "1.2.3",
+   "1.2.5",
+   "2.1.2"
+  ]
+ },
+ "applet": {
+  "title": "Java applet",
+  "cat": "alert",
+  "wcag": []
+ },
+ "plugin": {
+  "title": "Plugin",
+  "cat": "alert",
+  "wcag": []
+ },
+ "noscript": {
+  "title": "Noscript element",
+  "cat": "alert",
+  "wcag": []
+ },
+ "event_handler": {
+  "title": "Device dependent event handler",
+  "cat": "alert",
+  "wcag": [
+   "2.1.1"
+  ]
+ },
+ "javascript_jumpmenu": {
+  "title": "JavaScript jump menu",
+  "cat": "alert",
+  "wcag": [
+   "2.1.1",
+   "3.2.2"
+  ]
+ },
+ "accesskey": {
+  "title": "Accesskey",
+  "cat": "alert",
+  "wcag": [
+   "2.4.1"
+  ]
+ },
+ "tabindex": {
+  "title": "Tabindex",
+  "cat": "alert",
+  "wcag": [
+   "2.4.3"
+  ]
+ },
+ "text_small": {
+  "title": "Very small text",
+  "cat": "alert",
+  "wcag": []
+ },
+ "text_justified": {
+  "title": "Justified text",
+  "cat": "alert",
+  "wcag": []
+ },
+ "underline": {
+  "title": "Underlined text",
+  "cat": "alert",
+  "wcag": []
+ },
+ "title_redundant": {
+  "title": "Redundant title text",
+  "cat": "alert",
+  "wcag": []
+ },
+ "alt": {
+  "title": "Alternative text",
+  "cat": "feature",
+  "wcag": [
+   "1.1.1"
+  ]
+ },
+ "alt_null": {
+  "title": "Null or empty alternative text",
+  "cat": "feature",
+  "wcag": [
+   "1.1.1"
+  ]
+ },
+ "alt_spacer": {
+  "title": "Null or empty alternative text on spacer",
+  "cat": "feature",
+  "wcag": [
+   "1.1.1"
+  ]
+ },
+ "alt_link": {
+  "title": "Linked image with alternative text",
+  "cat": "feature",
+  "wcag": [
+   "1.1.1",
+   "2.4.4"
+  ]
+ },
+ "alt_input": {
+  "title": "Image button with alternative text",
+  "cat": "feature",
+  "wcag": [
+   "1.1.1",
+   "2.4.4"
+  ]
+ },
+ "alt_map": {
+  "title": "Image map with alternative text",
+  "cat": "feature",
+  "wcag": [
+   "1.1.1"
+  ]
+ },
+ "alt_area": {
+  "title": "Image map area with alternative text",
+  "cat": "feature",
+  "wcag": [
+   "1.1.1",
+   "2.4.4",
+   "1.1.1"
+  ]
+ },
+ "label": {
+  "title": "Form label",
+  "cat": "feature",
+  "wcag": [
+   "1.1.1",
+   "1.3.1",
+   "2.4.6"
+  ]
+ },
+ "fieldset": {
+  "title": "Fieldset",
+  "cat": "feature",
+  "wcag": [
+   "1.1.1",
+   "1.3.1",
+   "2.4.6"
+  ]
+ },
+ "link_skip": {
+  "title": "Skip link",
+  "cat": "feature",
+  "wcag": [
+   "2.4.1"
+  ]
+ },
+ "link_skip_target": {
+  "title": "Skip link target",
+  "cat": "feature",
+  "wcag": [
+   "2.4.1"
+  ]
+ },
+ "lang": {
+  "title": "Language",
+  "cat": "feature",
+  "wcag": [
+   "3.1.2"
+  ]
+ },
+ "h1": {
+  "title": "Heading level 1",
+  "cat": "structure",
+  "wcag": [
+   "1.3.1",
+   "2.4.1",
+   "2.4.6"
+  ]
+ },
+ "h2": {
+  "title": "Heading level 2",
+  "cat": "structure",
+  "wcag": [
+   "1.3.1",
+   "2.4.1",
+   "2.4.6"
+  ]
+ },
+ "h3": {
+  "title": "Heading level 3",
+  "cat": "structure",
+  "wcag": [
+   "1.3.1",
+   "2.4.1",
+   "2.4.6"
+  ]
+ },
+ "h4": {
+  "title": "Heading level 4",
+  "cat": "structure",
+  "wcag": [
+   "1.3.1",
+   "2.4.1",
+   "2.4.6"
+  ]
+ },
+ "h5": {
+  "title": "Heading level 5",
+  "cat": "structure",
+  "wcag": [
+   "1.3.1",
+   "2.4.1",
+   "2.4.6"
+  ]
+ },
+ "h6": {
+  "title": "Heading level 6",
+  "cat": "structure",
+  "wcag": [
+   "1.3.1",
+   "2.4.1",
+   "2.4.6"
+  ]
+ },
+ "ol": {
+  "title": "Ordered list",
+  "cat": "structure",
+  "wcag": [
+   "1.3.1"
+  ]
+ },
+ "ul": {
+  "title": "Unordered list",
+  "cat": "structure",
+  "wcag": [
+   "1.3.1"
+  ]
+ },
+ "dl": {
+  "title": "Definition/description list",
+  "cat": "structure",
+  "wcag": [
+   "1.3.1"
+  ]
+ },
+ "header": {
+  "title": "Header",
+  "cat": "structure",
+  "wcag": [
+   "1.3.1",
+   "2.4.1"
+  ]
+ },
+ "nav": {
+  "title": "Navigation",
+  "cat": "structure",
+  "wcag": [
+   "1.3.1",
+   "2.4.1"
+  ]
+ },
+ "search": {
+  "title": "Search",
+  "cat": "structure",
+  "wcag": [
+   "1.3.1",
+   "2.4.1"
+  ]
+ },
+ "main": {
+  "title": "Main content",
+  "cat": "structure",
+  "wcag": [
+   "1.3.1",
+   "2.4.1"
+  ]
+ },
+ "aside": {
+  "title": "Aside",
+  "cat": "structure",
+  "wcag": [
+   "1.3.1",
+   "2.4.1"
+  ]
+ },
+ "footer": {
+  "title": "Footer",
+  "cat": "structure",
+  "wcag": [
+   "1.3.1",
+   "2.4.1",
+   "1.3.1",
+   "2.4.1"
+  ]
+ },
+ "table_data": {
+  "title": "Data table",
+  "cat": "structure",
+  "wcag": [
+   "1.3.1"
+  ]
+ },
+ "table_caption": {
+  "title": "Table caption",
+  "cat": "structure",
+  "wcag": [
+   "1.3.1"
+  ]
+ },
+ "th": {
+  "title": "Table header cell",
+  "cat": "structure",
+  "wcag": [
+   "1.3.1"
+  ]
+ },
+ "th_col": {
+  "title": "Column header cell",
+  "cat": "structure",
+  "wcag": [
+   "1.3.1"
+  ]
+ },
+ "th_row": {
+  "title": "Row header cell",
+  "cat": "structure",
+  "wcag": [
+   "1.3.1"
+  ]
+ },
+ "iframe": {
+  "title": "Inline frame",
+  "cat": "structure",
+  "wcag": []
+ },
+ "aria": {
+  "title": "ARIA",
+  "cat": "aria",
+  "wcag": [
+   "4.1.2"
+  ]
+ },
+ "aria_label": {
+  "title": "ARIA label",
+  "cat": "aria",
+  "wcag": [
+   "1.1.1",
+   "1.3.1",
+   "2.4.6",
+   "4.1.2",
+   "2.5.3",
+   "1.3.1",
+   "4.1.2",
+   "3.3.1",
+   "4.1.3",
+   "2.1.1",
+   "4.1.2",
+   "2.1.1",
+   "4.1.2",
+   "4.1.2",
+   "4.1.2"
+  ]
+ },
+ "aria_tabindex": {
+  "title": "ARIA tabindex",
+  "cat": "aria",
+  "wcag": [
+   "2.1.1",
+   "4.1.2"
+  ]
+ }
+}

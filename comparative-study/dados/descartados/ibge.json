@@ -1,0 +1,899 @@
+{
+ "id": "ibge",
+ "grupo": "sites",
+ "url": "https://www.ibge.gov.br/",
+ "meta": {
+  "descricao": "Instituto Brasileiro de Geografia e Estatística",
+  "origem": "brasileiro"
+ },
+ "coletadoEm": "2026-11-24T03:47:43.099Z",
+ "versoes": {
+  "chromium": "156.0.8078.4",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+  "axeCore": "4.14.1",
+  "wave": "3.3.4.0",
+  "extensao": "0.1.0"
+ },
+ "urlFinal": "https://www.ibge.gov.br/",
+ "extensao": {
+  "ativa": true,
+  "esperaMs": 647,
+  "varreduraInicial": {
+   "startedAt": 5312.290000000969,
+   "wallMs": 5.779999999329448,
+   "activeMs": 5.754999998956919,
+   "nodesEvaluated": 47,
+   "slices": 1,
+   "maxSliceMs": 5.754999998956919
+  },
+  "lotes": 1,
+  "ocorrencias": []
+ },
+ "arvoreAcessibilidade": {
+  "html>body:2>div:1>div:1>div:1>img:1": {
+   "role": "image",
+   "name": "Ícone de www.ibge.gov.br",
+   "ignored": false,
+   "ignoredReasons": [],
+   "tag": "img",
+   "alt": "Ícone de www.ibge.gov.br",
+   "roleAttr": null
+  },
+  "html>body:2>div:3>div:1>div:1>div:2>span:1>a:1": {
+   "role": "link",
+   "name": "Cloudflare, abre em uma nova aba",
+   "ignored": false,
+   "ignoredReasons": [],
+   "tag": "a",
+   "alt": null,
+   "roleAttr": null
+  },
+  "html>body:2>div:3>div:1>div:1>div:2>a:3": {
+   "role": "link",
+   "name": "Privacidade, abre em uma nova aba",
+   "ignored": false,
+   "ignoredReasons": [],
+   "tag": "a",
+   "alt": null,
+   "roleAttr": null
+  }
+ },
+ "pagina": {
+  "lang": "pt-br",
+  "xmlLang": null,
+  "title": "Um momento…",
+  "viewport": [
+   "width=device-width,initial-scale=1"
+  ],
+  "nos": 47
+ },
+ "axe": {
+  "violacoes": [
+   {
+    "id": "meta-refresh",
+    "impact": "critical",
+    "tags": [
+     "wcag221"
+    ],
+    "nos": [
+     {
+      "alvo": [
+       "meta[http-equiv=\"refresh\"]"
+      ],
+      "path": "html>head:1>meta:8",
+      "html": "<meta http-equiv=\"refresh\" content=\"360\">",
+      "resumo": "Fix any of the following:\n  <meta> tag forces timed refresh of page (less than 20 hours)",
+      "dados": {
+       "redirectDelay": 360
+      }
+     }
+    ]
+   }
+  ],
+  "incompletas": [],
+  "testEngine": {
+   "name": "axe-core",
+   "version": "4.14.1"
+  }
+ },
+ "alvos258": {},
+ "wave": {
+  "stats": {
+   "allitemcount": 11,
+   "totalelements": 55,
+   "pagetitle": "Um momento…",
+   "aim": 9.1,
+   "error": 1,
+   "contrast": 0,
+   "alert": 1,
+   "feature": 2,
+   "structure": 5,
+   "aria": 2
+  },
+  "icons": [
+   {
+    "type": "meta_refresh",
+    "pageWide": true,
+    "path": "html>body:2>div:3",
+    "tag": "div"
+   },
+   {
+    "type": "noscript",
+    "pageWide": false,
+    "path": "html>body:2>div:1>div:1>noscript:7",
+    "tag": "noscript"
+   },
+   {
+    "type": "alt",
+    "pageWide": false,
+    "path": "html>body:2>div:1>div:1>div:1>img:1",
+    "tag": "img"
+   },
+   {
+    "type": "lang",
+    "pageWide": true,
+    "path": "html>body:2>div:3",
+    "tag": "div"
+   },
+   {
+    "type": "h1",
+    "pageWide": false,
+    "path": "html>body:2>div:1>div:1>div:1>h1:2",
+    "tag": "h1"
+   },
+   {
+    "type": "h2",
+    "pageWide": false,
+    "path": "html>body:2>div:1>div:1>h2:2",
+    "tag": "h2"
+   },
+   {
+    "type": "h2",
+    "pageWide": false,
+    "path": "html>body:2>div:1>div:1>div:5>h2:1",
+    "tag": "h2"
+   },
+   {
+    "type": "main",
+    "pageWide": false,
+    "path": "html>body:2>div:1",
+    "tag": "div"
+   },
+   {
+    "type": "footer",
+    "pageWide": false,
+    "path": "html>body:2>div:3",
+    "tag": "div"
+   },
+   {
+    "type": "aria_label",
+    "pageWide": false,
+    "path": "html>body:2>div:3>div:1>div:1>div:2>span:1>a:1",
+    "tag": "a"
+   },
+   {
+    "type": "aria_label",
+    "pageWide": false,
+    "path": "html>body:2>div:3>div:1>div:1>div:2>a:3",
+    "tag": "a"
+   }
+  ]
+ },
+ "contraste": {},
+ "arvoreComplementar": {
+  "html>body:2>div:1": {
+   "role": "main",
+   "name": "",
+   "ignored": false,
+   "ignoredReasons": [],
+   "tag": "div",
+   "alt": null,
+   "roleAttr": "main"
+  },
+  "html>body:2>div:3": {
+   "role": "contentinfo",
+   "name": "",
+   "ignored": false,
+   "ignoredReasons": [],
+   "tag": "div",
+   "alt": null,
+   "roleAttr": "contentinfo"
+  },
+  "html>body:2>div:1>div:1>div:1>h1:2": {
+   "role": "heading",
+   "name": "www.ibge.gov.br",
+   "ignored": false,
+   "ignoredReasons": [],
+   "tag": "h1",
+   "alt": null,
+   "roleAttr": null
+  },
+  "html>body:2>div:1>div:1>h2:2": {
+   "role": "heading",
+   "name": "Executando verificação de segurança",
+   "ignored": false,
+   "ignoredReasons": [],
+   "tag": "h2",
+   "alt": null,
+   "roleAttr": null
+  }
+ },
+ "infoElementos": {
+  "html>body:2>div:3": {
+   "tag": "div",
+   "snippet": "<div class=\"footer\" role=\"contentinfo\"><div class=\"footer-inner\"><div class=\"footer-wrapper\"><div><div class=\"ray-id\">Ray ID: <code>a5f56f13f811f20f</code></div></div><div class=\"footer-link-wrapper\"><span class=\"footer-text\">Desempenho e segurança da <a rel=\"noopener noreferrer\" href=\"https://www.c",
+   "text": "Ray ID: a5f56f13f811f20fDesempenho e segurança da CloudflarePrivacidade",
+   "ownText": "",
+   "rect": [
+    393,
+    830,
+    960,
+    70
+   ],
+   "pageRect": [
+    393,
+    830,
+    960,
+    70
+   ],
+   "visible": true,
+   "color": "rgb(49, 49, 49)",
+   "fontSize": "12px",
+   "fontWeight": "400",
+   "textShadow": "none",
+   "display": "block",
+   "bgChain": [
+    {
+     "tag": "div",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "body",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "html",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    }
+   ]
+  },
+  "html>body:2>div:1>div:1>noscript:7": {
+   "tag": "noscript",
+   "snippet": "<noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript>",
+   "text": "<div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div>",
+   "ownText": "<div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div>",
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "pageRect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "visible": false,
+   "color": "rgb(49, 49, 49)",
+   "fontSize": "16px",
+   "fontWeight": "400",
+   "textShadow": "none",
+   "display": "inline",
+   "bgChain": [
+    {
+     "tag": "noscript",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "div",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "div",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "body",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "html",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    }
+   ]
+  },
+  "html>body:2>div:1>div:1>div:1>h1:2": {
+   "tag": "h1",
+   "snippet": "<h1>www.ibge.gov.br</h1>",
+   "text": "www.ibge.gov.br",
+   "ownText": "www.ibge.gov.br",
+   "rect": [
+    481,
+    128,
+    302.53,
+    50
+   ],
+   "pageRect": [
+    481,
+    128,
+    303,
+    50
+   ],
+   "visible": true,
+   "color": "rgb(49, 49, 49)",
+   "fontSize": "40px",
+   "fontWeight": "600",
+   "textShadow": "none",
+   "display": "block",
+   "bgChain": [
+    {
+     "tag": "h1",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "div",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "div",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "div",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "body",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "html",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    }
+   ]
+  },
+  "html>body:2>div:1>div:1>h2:2": {
+   "tag": "h2",
+   "snippet": "<h2 id=\"_fd017738c6774a11d4a400d0\" class=\"_111aeda31294b889265aff7c _e10b361859018f64b8c170d5\">Executando verificação de segurança</h2>",
+   "text": "Executando verificação de segurança",
+   "ownText": "Executando verificação de segurança",
+   "rect": [
+    425,
+    186,
+    896,
+    30
+   ],
+   "pageRect": [
+    425,
+    186,
+    896,
+    30
+   ],
+   "visible": true,
+   "color": "rgb(49, 49, 49)",
+   "fontSize": "24px",
+   "fontWeight": "600",
+   "textShadow": "none",
+   "display": "block",
+   "bgChain": [
+    {
+     "tag": "h2",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "div",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "div",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "body",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "html",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    }
+   ]
+  },
+  "html>body:2>div:1>div:1>div:5>h2:1": {
+   "tag": "h2",
+   "snippet": "<h2 id=\"_e9f5901b2ba412c022429b8d\" class=\"_ea2e6126f717325ab31cb4d0\">Verificação bem-sucedida. Esperando a resposta de www.ibge.gov.br</h2>",
+   "text": "Verificação bem-sucedida. Esperando a resposta de www.ibge.gov.br",
+   "ownText": "Verificação bem-sucedida. Esperando a resposta de www.ibge.gov.br",
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "pageRect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "visible": false,
+   "color": "rgb(49, 49, 49)",
+   "fontSize": "24px",
+   "fontWeight": "600",
+   "textShadow": "none",
+   "display": "block",
+   "bgChain": [
+    {
+     "tag": "h2",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "div",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "div",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "div",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "body",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "html",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    }
+   ]
+  },
+  "html>body:2>div:1": {
+   "tag": "div",
+   "snippet": "<div class=\"main-wrapper _8cffe65b875e03f5a5282c9a\" role=\"main\"><div class=\"main-content\"><div class=\"_749afa3a3caf09bba00a00c7\"><img src=\"/favicon.ico\" class=\"_5b59f60003705c36fef361a6\" alt=\"Ícone de www.ibge.gov.br\"><h1>www.ibge.gov.br</h1></div><h2 id=\"_fd017738c6774a11d4a400d0\" class=\"_111aeda31",
+   "text": "www.ibge.gov.brExecutando verificação de segurançaEste site utiliza um serviço de segurança para proteção contra bots maliciosos. Esta página é exibida enquanto o site verifica se você não é um bot.Ve",
+   "ownText": "",
+   "rect": [
+    380,
+    0,
+    986,
+    830
+   ],
+   "pageRect": [
+    380,
+    0,
+    986,
+    830
+   ],
+   "visible": true,
+   "color": "rgb(49, 49, 49)",
+   "fontSize": "16px",
+   "fontWeight": "400",
+   "textShadow": "none",
+   "display": "flex",
+   "bgChain": [
+    {
+     "tag": "div",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "body",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "html",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    }
+   ]
+  },
+  "html>head:1>meta:8": {
+   "tag": "meta",
+   "snippet": "<meta http-equiv=\"refresh\" content=\"360\">",
+   "text": "",
+   "ownText": "",
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "pageRect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "visible": false,
+   "color": "rgb(49, 49, 49)",
+   "fontSize": "16px",
+   "fontWeight": "400",
+   "textShadow": "none",
+   "display": "none",
+   "bgChain": [
+    {
+     "tag": "meta",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "head",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "html",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    }
+   ]
+  },
+  "html>body:2>div:1>div:1>div:1>img:1": {
+   "tag": "img",
+   "snippet": "<img src=\"/favicon.ico\" class=\"_5b59f60003705c36fef361a6\" alt=\"Ícone de www.ibge.gov.br\">",
+   "text": "",
+   "ownText": "",
+   "rect": [
+    425,
+    137,
+    32,
+    32
+   ],
+   "pageRect": [
+    425,
+    137,
+    32,
+    32
+   ],
+   "visible": true,
+   "color": "rgb(49, 49, 49)",
+   "fontSize": "16px",
+   "fontWeight": "400",
+   "textShadow": "none",
+   "display": "block",
+   "bgChain": [
+    {
+     "tag": "img",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "div",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "div",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "div",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "body",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "html",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    }
+   ]
+  },
+  "html>body:2>div:3>div:1>div:1>div:2>span:1>a:1": {
+   "tag": "a",
+   "snippet": "<a rel=\"noopener noreferrer\" href=\"https://www.cloudflare.com?utm_source=challenge&amp;utm_campaign=m\" target=\"_blank\" aria-label=\"Cloudflare, abre em uma nova aba\">Cloudflare</a>",
+   "text": "Cloudflare",
+   "ownText": "Cloudflare",
+   "rect": [
+    884.89,
+    866,
+    54.45,
+    18
+   ],
+   "pageRect": [
+    885,
+    866,
+    54,
+    18
+   ],
+   "visible": true,
+   "color": "rgb(0, 0, 238)",
+   "fontSize": "12px",
+   "fontWeight": "400",
+   "textShadow": "none",
+   "display": "inline-block",
+   "bgChain": [
+    {
+     "tag": "a",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "span",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "div",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "div",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "div",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "div",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "body",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "html",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    }
+   ]
+  },
+  "html>body:2>div:3>div:1>div:1>div:2>a:3": {
+   "tag": "a",
+   "snippet": "<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.cloudflare.com/pt-br/privacypolicy/\" aria-label=\"Privacidade, abre em uma nova aba\" class=\"footer-text\">Privacidade</a>",
+   "text": "Privacidade",
+   "ownText": "Privacidade",
+   "rect": [
+    957.34,
+    866,
+    60.63,
+    18
+   ],
+   "pageRect": [
+    957,
+    866,
+    61,
+    18
+   ],
+   "visible": true,
+   "color": "rgb(0, 0, 238)",
+   "fontSize": "12px",
+   "fontWeight": "400",
+   "textShadow": "none",
+   "display": "block",
+   "bgChain": [
+    {
+     "tag": "a",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "div",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "div",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "div",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "div",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "body",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    },
+    {
+     "tag": "html",
+     "bg": "rgba(0, 0, 0, 0)",
+     "img": false,
+     "opacity": "1",
+     "filter": false,
+     "blend": false
+    }
+   ]
+  }
+ }
+}

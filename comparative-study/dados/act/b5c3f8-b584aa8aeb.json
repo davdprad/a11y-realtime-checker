@@ -1,0 +1,60 @@
+{
+ "id": "b5c3f8-b584aa8aeb",
+ "grupo": "act",
+ "url": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/b5c3f8/b584aa8aeb33814a0ecb63fd9ed4d97f2211f837.svg",
+ "meta": {
+  "regra": "b5c3f8",
+  "nomeRegra": "HTML page has lang attribute",
+  "caso": "Inapplicable Example 1",
+  "esperado": "inapplicable",
+  "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/b5c3f8/b584aa8aeb33814a0ecb63fd9ed4d97f2211f837.svg"
+ },
+ "coletadoEm": "2026-11-24T03:40:55.650Z",
+ "versoes": {
+  "chromium": "156.0.8078.4",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+  "axeCore": "4.14.1",
+  "wave": "3.3.4.0",
+  "extensao": "0.1.0"
+ },
+ "urlFinal": "http://127.0.0.1:4180/WAI/content-assets/wcag-act-rules/testcases/b5c3f8/b584aa8aeb33814a0ecb63fd9ed4d97f2211f837.svg",
+ "extensao": {
+  "ativa": false,
+  "esperaMs": 638,
+  "varreduraInicial": null,
+  "lotes": 0,
+  "ocorrencias": []
+ },
+ "axe": {
+  "violacoes": [],
+  "incompletas": [
+   {
+    "id": "color-contrast",
+    "impact": "serious",
+    "tags": [
+     "wcag143"
+    ],
+    "nos": [
+     {
+      "alvo": [
+       "text"
+      ],
+      "path": "svg>text:1",
+      "html": "<text xmlns=\"http://www.w3.org/2000/svg\">\n        The quick brown fox jumps over the lazy dog.\n    </text>",
+      "resumo": "Fix all of the following:\n  Axe encountered an error; test the page for this type of problem manually",
+      "dados": null
+     }
+    ]
+   }
+  ],
+  "testEngine": {
+   "name": "axe-core",
+   "version": "4.14.1"
+  }
+ },
+ "wave": {
+  "stats": null,
+  "icons": [],
+  "erro": "Error: tempo esgotado: WAVE"
+ }
+}

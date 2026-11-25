@@ -1,0 +1,2758 @@
+{
+ "act": [
+  {
+   "id": "674b10-c181f7267b",
+   "relativePath": "testcases/674b10/c181f7267bf9f4fc0f9ad9e2a69c1ad7da504f4d.html",
+   "meta": {
+    "regra": "674b10",
+    "nomeRegra": "Role attribute has valid value",
+    "caso": "Passed Example 1",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/674b10/c181f7267bf9f4fc0f9ad9e2a69c1ad7da504f4d.html"
+   }
+  },
+  {
+   "id": "674b10-9980fd3a6f",
+   "relativePath": "testcases/674b10/9980fd3a6f30b20069618708b2c8fa79d444e0a4.html",
+   "meta": {
+    "regra": "674b10",
+    "nomeRegra": "Role attribute has valid value",
+    "caso": "Passed Example 2",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/674b10/9980fd3a6f30b20069618708b2c8fa79d444e0a4.html"
+   }
+  },
+  {
+   "id": "674b10-8ee31c22ec",
+   "relativePath": "testcases/674b10/8ee31c22ec3fa0bccf46e3f44e9a5d8e752bc776.html",
+   "meta": {
+    "regra": "674b10",
+    "nomeRegra": "Role attribute has valid value",
+    "caso": "Passed Example 3",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/674b10/8ee31c22ec3fa0bccf46e3f44e9a5d8e752bc776.html"
+   }
+  },
+  {
+   "id": "674b10-4b0aaf07c6",
+   "relativePath": "testcases/674b10/4b0aaf07c6e9fb6ea3495dd9cecf55d47b9539b8.html",
+   "meta": {
+    "regra": "674b10",
+    "nomeRegra": "Role attribute has valid value",
+    "caso": "Failed Example 1",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/674b10/4b0aaf07c6e9fb6ea3495dd9cecf55d47b9539b8.html"
+   }
+  },
+  {
+   "id": "674b10-527c265ba5",
+   "relativePath": "testcases/674b10/527c265ba570f0131dddef3687981b66f6dd156f.html",
+   "meta": {
+    "regra": "674b10",
+    "nomeRegra": "Role attribute has valid value",
+    "caso": "Failed Example 2",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/674b10/527c265ba570f0131dddef3687981b66f6dd156f.html"
+   }
+  },
+  {
+   "id": "674b10-ebd0080bac",
+   "relativePath": "testcases/674b10/ebd0080bacb8debc7ad069072240657df38c3e2c.html",
+   "meta": {
+    "regra": "674b10",
+    "nomeRegra": "Role attribute has valid value",
+    "caso": "Inapplicable Example 1",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/674b10/ebd0080bacb8debc7ad069072240657df38c3e2c.html"
+   }
+  },
+  {
+   "id": "674b10-98f200a961",
+   "relativePath": "testcases/674b10/98f200a9611571fd8db46027c8d28616d94083c8.html",
+   "meta": {
+    "regra": "674b10",
+    "nomeRegra": "Role attribute has valid value",
+    "caso": "Inapplicable Example 2",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/674b10/98f200a9611571fd8db46027c8d28616d94083c8.html"
+   }
+  },
+  {
+   "id": "674b10-8f409b57b3",
+   "relativePath": "testcases/674b10/8f409b57b31bce96b6f256d0fa9cfabcd0b984ca.html",
+   "meta": {
+    "regra": "674b10",
+    "nomeRegra": "Role attribute has valid value",
+    "caso": "Inapplicable Example 3",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/674b10/8f409b57b31bce96b6f256d0fa9cfabcd0b984ca.html"
+   }
+  },
+  {
+   "id": "674b10-0b8e3a6fb2",
+   "relativePath": "testcases/674b10/0b8e3a6fb2bfd495683f686cf99ea1e46f2074ed.html",
+   "meta": {
+    "regra": "674b10",
+    "nomeRegra": "Role attribute has valid value",
+    "caso": "Inapplicable Example 4",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/674b10/0b8e3a6fb2bfd495683f686cf99ea1e46f2074ed.html"
+   }
+  },
+  {
+   "id": "674b10-575a5e323a",
+   "relativePath": "testcases/674b10/575a5e323abe810450d5ff443a5fd614dae12257.html",
+   "meta": {
+    "regra": "674b10",
+    "nomeRegra": "Role attribute has valid value",
+    "caso": "Inapplicable Example 5",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/674b10/575a5e323abe810450d5ff443a5fd614dae12257.html"
+   }
+  },
+  {
+   "id": "6a7281-e970b77c11",
+   "relativePath": "testcases/6a7281/e970b77c1137e5fd4627f70663da4d1fcda36b23.html",
+   "meta": {
+    "regra": "6a7281",
+    "nomeRegra": "ARIA state or property has valid value",
+    "caso": "Passed Example 1",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/6a7281/e970b77c1137e5fd4627f70663da4d1fcda36b23.html"
+   }
+  },
+  {
+   "id": "6a7281-db10f30be2",
+   "relativePath": "testcases/6a7281/db10f30be20aebf661f0b81b2c0cfc698b1453eb.html",
+   "meta": {
+    "regra": "6a7281",
+    "nomeRegra": "ARIA state or property has valid value",
+    "caso": "Passed Example 2",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/6a7281/db10f30be20aebf661f0b81b2c0cfc698b1453eb.html"
+   }
+  },
+  {
+   "id": "6a7281-766a5eb6a5",
+   "relativePath": "testcases/6a7281/766a5eb6a54c5b83a882a0d78731d808480a1b3e.html",
+   "meta": {
+    "regra": "6a7281",
+    "nomeRegra": "ARIA state or property has valid value",
+    "caso": "Passed Example 3",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/6a7281/766a5eb6a54c5b83a882a0d78731d808480a1b3e.html"
+   }
+  },
+  {
+   "id": "6a7281-38b0160bfc",
+   "relativePath": "testcases/6a7281/38b0160bfc6c056fa0d02affbc02e49dce284467.html",
+   "meta": {
+    "regra": "6a7281",
+    "nomeRegra": "ARIA state or property has valid value",
+    "caso": "Passed Example 4",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/6a7281/38b0160bfc6c056fa0d02affbc02e49dce284467.html"
+   }
+  },
+  {
+   "id": "6a7281-e4b47e094d",
+   "relativePath": "testcases/6a7281/e4b47e094d44a9f3b5b3fd5c157f3ef6679bede0.html",
+   "meta": {
+    "regra": "6a7281",
+    "nomeRegra": "ARIA state or property has valid value",
+    "caso": "Passed Example 5",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/6a7281/e4b47e094d44a9f3b5b3fd5c157f3ef6679bede0.html"
+   }
+  },
+  {
+   "id": "6a7281-c27e7f509d",
+   "relativePath": "testcases/6a7281/c27e7f509d546fa6aff12ca7aeace662d3fb1c7b.html",
+   "meta": {
+    "regra": "6a7281",
+    "nomeRegra": "ARIA state or property has valid value",
+    "caso": "Passed Example 6",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/6a7281/c27e7f509d546fa6aff12ca7aeace662d3fb1c7b.html"
+   }
+  },
+  {
+   "id": "6a7281-f78fb0548e",
+   "relativePath": "testcases/6a7281/f78fb0548e68839232441636b6d8489ad17c50b5.html",
+   "meta": {
+    "regra": "6a7281",
+    "nomeRegra": "ARIA state or property has valid value",
+    "caso": "Passed Example 7",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/6a7281/f78fb0548e68839232441636b6d8489ad17c50b5.html"
+   }
+  },
+  {
+   "id": "6a7281-83f5e9df90",
+   "relativePath": "testcases/6a7281/83f5e9df90e96c1af508ad8b4e2cda78c0dae7c4.html",
+   "meta": {
+    "regra": "6a7281",
+    "nomeRegra": "ARIA state or property has valid value",
+    "caso": "Passed Example 8",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/6a7281/83f5e9df90e96c1af508ad8b4e2cda78c0dae7c4.html"
+   }
+  },
+  {
+   "id": "6a7281-0496ff9d59",
+   "relativePath": "testcases/6a7281/0496ff9d59d514f97c8739004b2b941dd7ca97bf.html",
+   "meta": {
+    "regra": "6a7281",
+    "nomeRegra": "ARIA state or property has valid value",
+    "caso": "Passed Example 9",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/6a7281/0496ff9d59d514f97c8739004b2b941dd7ca97bf.html"
+   }
+  },
+  {
+   "id": "6a7281-ed053b32aa",
+   "relativePath": "testcases/6a7281/ed053b32aa2b4453ddc225e45f7f1931f62c7f49.html",
+   "meta": {
+    "regra": "6a7281",
+    "nomeRegra": "ARIA state or property has valid value",
+    "caso": "Passed Example 10",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/6a7281/ed053b32aa2b4453ddc225e45f7f1931f62c7f49.html"
+   }
+  },
+  {
+   "id": "6a7281-ce27fcdd85",
+   "relativePath": "testcases/6a7281/ce27fcdd85fbf37a953727cdc454f3e504041a31.html",
+   "meta": {
+    "regra": "6a7281",
+    "nomeRegra": "ARIA state or property has valid value",
+    "caso": "Failed Example 1",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/6a7281/ce27fcdd85fbf37a953727cdc454f3e504041a31.html"
+   }
+  },
+  {
+   "id": "6a7281-1f586827ce",
+   "relativePath": "testcases/6a7281/1f586827cecc5b1b4d9f60dcaba1e77f4a90c54a.html",
+   "meta": {
+    "regra": "6a7281",
+    "nomeRegra": "ARIA state or property has valid value",
+    "caso": "Failed Example 2",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/6a7281/1f586827cecc5b1b4d9f60dcaba1e77f4a90c54a.html"
+   }
+  },
+  {
+   "id": "6a7281-0959137934",
+   "relativePath": "testcases/6a7281/0959137934bd17ea8c95b86120b1c7331e4facc2.html",
+   "meta": {
+    "regra": "6a7281",
+    "nomeRegra": "ARIA state or property has valid value",
+    "caso": "Failed Example 3",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/6a7281/0959137934bd17ea8c95b86120b1c7331e4facc2.html"
+   }
+  },
+  {
+   "id": "6a7281-e1bd70b33e",
+   "relativePath": "testcases/6a7281/e1bd70b33e2d53e3b9bc105a5cad59a76b4c54d5.html",
+   "meta": {
+    "regra": "6a7281",
+    "nomeRegra": "ARIA state or property has valid value",
+    "caso": "Failed Example 4",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/6a7281/e1bd70b33e2d53e3b9bc105a5cad59a76b4c54d5.html"
+   }
+  },
+  {
+   "id": "6a7281-4078701ed7",
+   "relativePath": "testcases/6a7281/4078701ed7982e75316b51adb59b6d05c1583aa5.html",
+   "meta": {
+    "regra": "6a7281",
+    "nomeRegra": "ARIA state or property has valid value",
+    "caso": "Failed Example 5",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/6a7281/4078701ed7982e75316b51adb59b6d05c1583aa5.html"
+   }
+  },
+  {
+   "id": "6a7281-88ff094292",
+   "relativePath": "testcases/6a7281/88ff0942922e48b686413cf12cd0fd3510a8b29f.html",
+   "meta": {
+    "regra": "6a7281",
+    "nomeRegra": "ARIA state or property has valid value",
+    "caso": "Failed Example 6",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/6a7281/88ff0942922e48b686413cf12cd0fd3510a8b29f.html"
+   }
+  },
+  {
+   "id": "6a7281-b78f507edd",
+   "relativePath": "testcases/6a7281/b78f507edd1866cc5b1a7fae8b530da964b470fb.html",
+   "meta": {
+    "regra": "6a7281",
+    "nomeRegra": "ARIA state or property has valid value",
+    "caso": "Failed Example 7",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/6a7281/b78f507edd1866cc5b1a7fae8b530da964b470fb.html"
+   }
+  },
+  {
+   "id": "6a7281-9d80b71ad3",
+   "relativePath": "testcases/6a7281/9d80b71ad39b258fb75db804867f189d76ecdab8.html",
+   "meta": {
+    "regra": "6a7281",
+    "nomeRegra": "ARIA state or property has valid value",
+    "caso": "Inapplicable Example 1",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/6a7281/9d80b71ad39b258fb75db804867f189d76ecdab8.html"
+   }
+  },
+  {
+   "id": "6a7281-90428c9c8c",
+   "relativePath": "testcases/6a7281/90428c9c8cc74d6a3047775637078366994a8e88.html",
+   "meta": {
+    "regra": "6a7281",
+    "nomeRegra": "ARIA state or property has valid value",
+    "caso": "Inapplicable Example 2",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/6a7281/90428c9c8cc74d6a3047775637078366994a8e88.html"
+   }
+  },
+  {
+   "id": "6a7281-0b90f16641",
+   "relativePath": "testcases/6a7281/0b90f166412e03fa01b460aa1c8e68f722a47434.html",
+   "meta": {
+    "regra": "6a7281",
+    "nomeRegra": "ARIA state or property has valid value",
+    "caso": "Inapplicable Example 3",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/6a7281/0b90f166412e03fa01b460aa1c8e68f722a47434.html"
+   }
+  },
+  {
+   "id": "6a7281-d5d5467bce",
+   "relativePath": "testcases/6a7281/d5d5467bced8e0eb2174ee42184258634c03421b.xml",
+   "meta": {
+    "regra": "6a7281",
+    "nomeRegra": "ARIA state or property has valid value",
+    "caso": "Inapplicable Example 4",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/6a7281/d5d5467bced8e0eb2174ee42184258634c03421b.xml"
+   }
+  },
+  {
+   "id": "5f99a7-261dcd3214",
+   "relativePath": "testcases/5f99a7/261dcd3214e87532fc2f9c8db7fdce05de9e07f0.html",
+   "meta": {
+    "regra": "5f99a7",
+    "nomeRegra": "ARIA attribute is defined in WAI-ARIA",
+    "caso": "Passed Example 1",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/5f99a7/261dcd3214e87532fc2f9c8db7fdce05de9e07f0.html"
+   }
+  },
+  {
+   "id": "5f99a7-31ac49fcb1",
+   "relativePath": "testcases/5f99a7/31ac49fcb186ee2a233355494fc5e774212ca3d7.html",
+   "meta": {
+    "regra": "5f99a7",
+    "nomeRegra": "ARIA attribute is defined in WAI-ARIA",
+    "caso": "Passed Example 2",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/5f99a7/31ac49fcb186ee2a233355494fc5e774212ca3d7.html"
+   }
+  },
+  {
+   "id": "5f99a7-3314945d4b",
+   "relativePath": "testcases/5f99a7/3314945d4bbec5b34f9a3c2d90da7cb9f8e7ce5a.html",
+   "meta": {
+    "regra": "5f99a7",
+    "nomeRegra": "ARIA attribute is defined in WAI-ARIA",
+    "caso": "Passed Example 3",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/5f99a7/3314945d4bbec5b34f9a3c2d90da7cb9f8e7ce5a.html"
+   }
+  },
+  {
+   "id": "5f99a7-830f50dcf5",
+   "relativePath": "testcases/5f99a7/830f50dcf51acb0b97b948000d7c163e50858312.html",
+   "meta": {
+    "regra": "5f99a7",
+    "nomeRegra": "ARIA attribute is defined in WAI-ARIA",
+    "caso": "Passed Example 4",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/5f99a7/830f50dcf51acb0b97b948000d7c163e50858312.html"
+   }
+  },
+  {
+   "id": "5f99a7-e145aafac5",
+   "relativePath": "testcases/5f99a7/e145aafac5f00cabc7cb3d65a32f7fdb5ec1484d.html",
+   "meta": {
+    "regra": "5f99a7",
+    "nomeRegra": "ARIA attribute is defined in WAI-ARIA",
+    "caso": "Failed Example 1",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/5f99a7/e145aafac5f00cabc7cb3d65a32f7fdb5ec1484d.html"
+   }
+  },
+  {
+   "id": "5f99a7-b6acf7c4aa",
+   "relativePath": "testcases/5f99a7/b6acf7c4aab0cfdc9f996abc7961790cbc97f39e.html",
+   "meta": {
+    "regra": "5f99a7",
+    "nomeRegra": "ARIA attribute is defined in WAI-ARIA",
+    "caso": "Failed Example 2",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/5f99a7/b6acf7c4aab0cfdc9f996abc7961790cbc97f39e.html"
+   }
+  },
+  {
+   "id": "5f99a7-d528a33258",
+   "relativePath": "testcases/5f99a7/d528a33258103014c0a03cf1e418ee0620f7b4f6.html",
+   "meta": {
+    "regra": "5f99a7",
+    "nomeRegra": "ARIA attribute is defined in WAI-ARIA",
+    "caso": "Inapplicable Example 1",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/5f99a7/d528a33258103014c0a03cf1e418ee0620f7b4f6.html"
+   }
+  },
+  {
+   "id": "97a4e1-a4cc71b043",
+   "relativePath": "testcases/97a4e1/a4cc71b0434f71f4ea0069c409f73e0207dfb403.html",
+   "meta": {
+    "regra": "97a4e1",
+    "nomeRegra": "Button has non-empty accessible name",
+    "caso": "Passed Example 1",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/97a4e1/a4cc71b0434f71f4ea0069c409f73e0207dfb403.html"
+   }
+  },
+  {
+   "id": "97a4e1-d9adf41033",
+   "relativePath": "testcases/97a4e1/d9adf41033a5b71a0730b6df8c1c7e01088e9022.html",
+   "meta": {
+    "regra": "97a4e1",
+    "nomeRegra": "Button has non-empty accessible name",
+    "caso": "Passed Example 2",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/97a4e1/d9adf41033a5b71a0730b6df8c1c7e01088e9022.html"
+   }
+  },
+  {
+   "id": "97a4e1-3004e7b1a4",
+   "relativePath": "testcases/97a4e1/3004e7b1a47b2e5a5c77b3eef36b50d495c9e4a1.html",
+   "meta": {
+    "regra": "97a4e1",
+    "nomeRegra": "Button has non-empty accessible name",
+    "caso": "Passed Example 3",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/97a4e1/3004e7b1a47b2e5a5c77b3eef36b50d495c9e4a1.html"
+   }
+  },
+  {
+   "id": "97a4e1-ff4b76894b",
+   "relativePath": "testcases/97a4e1/ff4b76894bd9aaad29242e72fe93fd9798bf85af.html",
+   "meta": {
+    "regra": "97a4e1",
+    "nomeRegra": "Button has non-empty accessible name",
+    "caso": "Passed Example 4",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/97a4e1/ff4b76894bd9aaad29242e72fe93fd9798bf85af.html"
+   }
+  },
+  {
+   "id": "97a4e1-5bfdf45a98",
+   "relativePath": "testcases/97a4e1/5bfdf45a98f7d2f0e93a700f7ce0fe5f723bf0f7.html",
+   "meta": {
+    "regra": "97a4e1",
+    "nomeRegra": "Button has non-empty accessible name",
+    "caso": "Passed Example 5",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/97a4e1/5bfdf45a98f7d2f0e93a700f7ce0fe5f723bf0f7.html"
+   }
+  },
+  {
+   "id": "97a4e1-00fe207175",
+   "relativePath": "testcases/97a4e1/00fe207175e40ddc81a86fb09504e5fa33b7dd0f.html",
+   "meta": {
+    "regra": "97a4e1",
+    "nomeRegra": "Button has non-empty accessible name",
+    "caso": "Passed Example 6",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/97a4e1/00fe207175e40ddc81a86fb09504e5fa33b7dd0f.html"
+   }
+  },
+  {
+   "id": "97a4e1-3fe70212e0",
+   "relativePath": "testcases/97a4e1/3fe70212e0020d7fa552b7c6c035a466c900c4b9.html",
+   "meta": {
+    "regra": "97a4e1",
+    "nomeRegra": "Button has non-empty accessible name",
+    "caso": "Passed Example 7",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/97a4e1/3fe70212e0020d7fa552b7c6c035a466c900c4b9.html"
+   }
+  },
+  {
+   "id": "97a4e1-1ec8deb0b1",
+   "relativePath": "testcases/97a4e1/1ec8deb0b18514b612774d3af39b5ad41f2a792b.html",
+   "meta": {
+    "regra": "97a4e1",
+    "nomeRegra": "Button has non-empty accessible name",
+    "caso": "Failed Example 1",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/97a4e1/1ec8deb0b18514b612774d3af39b5ad41f2a792b.html"
+   }
+  },
+  {
+   "id": "97a4e1-2c5b0625e2",
+   "relativePath": "testcases/97a4e1/2c5b0625e21b3503d1cd4c4daf53b15ae41c562d.html",
+   "meta": {
+    "regra": "97a4e1",
+    "nomeRegra": "Button has non-empty accessible name",
+    "caso": "Failed Example 2",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/97a4e1/2c5b0625e21b3503d1cd4c4daf53b15ae41c562d.html"
+   }
+  },
+  {
+   "id": "97a4e1-ffe1796f06",
+   "relativePath": "testcases/97a4e1/ffe1796f06e1082a8ddae54a471dcca66c783c4e.html",
+   "meta": {
+    "regra": "97a4e1",
+    "nomeRegra": "Button has non-empty accessible name",
+    "caso": "Failed Example 3",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/97a4e1/ffe1796f06e1082a8ddae54a471dcca66c783c4e.html"
+   }
+  },
+  {
+   "id": "97a4e1-1a6035f4f0",
+   "relativePath": "testcases/97a4e1/1a6035f4f09b339ac53bc547fc727a51ab05a3c6.html",
+   "meta": {
+    "regra": "97a4e1",
+    "nomeRegra": "Button has non-empty accessible name",
+    "caso": "Failed Example 4",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/97a4e1/1a6035f4f09b339ac53bc547fc727a51ab05a3c6.html"
+   }
+  },
+  {
+   "id": "97a4e1-ac9a749a02",
+   "relativePath": "testcases/97a4e1/ac9a749a026c47209c34677ca6ac0dc093d24888.html",
+   "meta": {
+    "regra": "97a4e1",
+    "nomeRegra": "Button has non-empty accessible name",
+    "caso": "Failed Example 5",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/97a4e1/ac9a749a026c47209c34677ca6ac0dc093d24888.html"
+   }
+  },
+  {
+   "id": "97a4e1-0666607827",
+   "relativePath": "testcases/97a4e1/0666607827b30150ed0a5be439f58623b3222131.html",
+   "meta": {
+    "regra": "97a4e1",
+    "nomeRegra": "Button has non-empty accessible name",
+    "caso": "Inapplicable Example 1",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/97a4e1/0666607827b30150ed0a5be439f58623b3222131.html"
+   }
+  },
+  {
+   "id": "97a4e1-14c51a76c1",
+   "relativePath": "testcases/97a4e1/14c51a76c14250316a756b7660b2489f18896d5a.html",
+   "meta": {
+    "regra": "97a4e1",
+    "nomeRegra": "Button has non-empty accessible name",
+    "caso": "Inapplicable Example 2",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/97a4e1/14c51a76c14250316a756b7660b2489f18896d5a.html"
+   }
+  },
+  {
+   "id": "97a4e1-096bf1e8ee",
+   "relativePath": "testcases/97a4e1/096bf1e8eeb0b5633861389cb3fa3267649e396c.html",
+   "meta": {
+    "regra": "97a4e1",
+    "nomeRegra": "Button has non-empty accessible name",
+    "caso": "Inapplicable Example 3",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/97a4e1/096bf1e8eeb0b5633861389cb3fa3267649e396c.html"
+   }
+  },
+  {
+   "id": "97a4e1-b6b0eec01f",
+   "relativePath": "testcases/97a4e1/b6b0eec01fc2759e3335fa4e448e5772161a9da6.html",
+   "meta": {
+    "regra": "97a4e1",
+    "nomeRegra": "Button has non-empty accessible name",
+    "caso": "Inapplicable Example 4",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/97a4e1/b6b0eec01fc2759e3335fa4e448e5772161a9da6.html"
+   }
+  },
+  {
+   "id": "97a4e1-21bbd170c0",
+   "relativePath": "testcases/97a4e1/21bbd170c05cd535fd5096f9c7eebc54eb72d936.html",
+   "meta": {
+    "regra": "97a4e1",
+    "nomeRegra": "Button has non-empty accessible name",
+    "caso": "Inapplicable Example 5",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/97a4e1/21bbd170c05cd535fd5096f9c7eebc54eb72d936.html"
+   }
+  },
+  {
+   "id": "e086e5-933cad4e69",
+   "relativePath": "testcases/e086e5/933cad4e69415e2a2970832d2d60e2b854bca1b4.html",
+   "meta": {
+    "regra": "e086e5",
+    "nomeRegra": "Form field has non-empty accessible name",
+    "caso": "Passed Example 1",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/e086e5/933cad4e69415e2a2970832d2d60e2b854bca1b4.html"
+   }
+  },
+  {
+   "id": "e086e5-366e62d83e",
+   "relativePath": "testcases/e086e5/366e62d83ede9df9fdad86cf7040600916bb065a.html",
+   "meta": {
+    "regra": "e086e5",
+    "nomeRegra": "Form field has non-empty accessible name",
+    "caso": "Passed Example 2",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/e086e5/366e62d83ede9df9fdad86cf7040600916bb065a.html"
+   }
+  },
+  {
+   "id": "e086e5-6726b79b05",
+   "relativePath": "testcases/e086e5/6726b79b0534d80f567c3e5fd7174962d411be95.html",
+   "meta": {
+    "regra": "e086e5",
+    "nomeRegra": "Form field has non-empty accessible name",
+    "caso": "Passed Example 3",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/e086e5/6726b79b0534d80f567c3e5fd7174962d411be95.html"
+   }
+  },
+  {
+   "id": "e086e5-2183d2e337",
+   "relativePath": "testcases/e086e5/2183d2e337eec311b7c2e06c2f9cec759913dba9.html",
+   "meta": {
+    "regra": "e086e5",
+    "nomeRegra": "Form field has non-empty accessible name",
+    "caso": "Passed Example 4",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/e086e5/2183d2e337eec311b7c2e06c2f9cec759913dba9.html"
+   }
+  },
+  {
+   "id": "e086e5-3aa8f45d7e",
+   "relativePath": "testcases/e086e5/3aa8f45d7e358655c39708e2656a2c2d97e7dfa6.html",
+   "meta": {
+    "regra": "e086e5",
+    "nomeRegra": "Form field has non-empty accessible name",
+    "caso": "Passed Example 5",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/e086e5/3aa8f45d7e358655c39708e2656a2c2d97e7dfa6.html"
+   }
+  },
+  {
+   "id": "e086e5-ca41ec5f1d",
+   "relativePath": "testcases/e086e5/ca41ec5f1dba602b8b6e332ad524cbfc5cd1505e.html",
+   "meta": {
+    "regra": "e086e5",
+    "nomeRegra": "Form field has non-empty accessible name",
+    "caso": "Passed Example 6",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/e086e5/ca41ec5f1dba602b8b6e332ad524cbfc5cd1505e.html"
+   }
+  },
+  {
+   "id": "e086e5-09ea6ee13f",
+   "relativePath": "testcases/e086e5/09ea6ee13f7f26b0d6e3103946209ea0726876de.html",
+   "meta": {
+    "regra": "e086e5",
+    "nomeRegra": "Form field has non-empty accessible name",
+    "caso": "Passed Example 7",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/e086e5/09ea6ee13f7f26b0d6e3103946209ea0726876de.html"
+   }
+  },
+  {
+   "id": "e086e5-004258203c",
+   "relativePath": "testcases/e086e5/004258203c8bf167307b6ed79f765115d16a6357.html",
+   "meta": {
+    "regra": "e086e5",
+    "nomeRegra": "Form field has non-empty accessible name",
+    "caso": "Failed Example 1",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/e086e5/004258203c8bf167307b6ed79f765115d16a6357.html"
+   }
+  },
+  {
+   "id": "e086e5-5c0ba53d53",
+   "relativePath": "testcases/e086e5/5c0ba53d53cc9fd8627f224b39db30bd9ffa5757.html",
+   "meta": {
+    "regra": "e086e5",
+    "nomeRegra": "Form field has non-empty accessible name",
+    "caso": "Failed Example 2",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/e086e5/5c0ba53d53cc9fd8627f224b39db30bd9ffa5757.html"
+   }
+  },
+  {
+   "id": "e086e5-80a5df2346",
+   "relativePath": "testcases/e086e5/80a5df2346e082cd0be260143ac9090a902bcf30.html",
+   "meta": {
+    "regra": "e086e5",
+    "nomeRegra": "Form field has non-empty accessible name",
+    "caso": "Failed Example 3",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/e086e5/80a5df2346e082cd0be260143ac9090a902bcf30.html"
+   }
+  },
+  {
+   "id": "e086e5-a59cf1abfa",
+   "relativePath": "testcases/e086e5/a59cf1abfabcb96ab4592966bb4a78e788b41017.html",
+   "meta": {
+    "regra": "e086e5",
+    "nomeRegra": "Form field has non-empty accessible name",
+    "caso": "Failed Example 4",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/e086e5/a59cf1abfabcb96ab4592966bb4a78e788b41017.html"
+   }
+  },
+  {
+   "id": "e086e5-552732aff8",
+   "relativePath": "testcases/e086e5/552732aff853ed413ed7b5ff4a6202d11fd0c1a5.html",
+   "meta": {
+    "regra": "e086e5",
+    "nomeRegra": "Form field has non-empty accessible name",
+    "caso": "Failed Example 5",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/e086e5/552732aff853ed413ed7b5ff4a6202d11fd0c1a5.html"
+   }
+  },
+  {
+   "id": "e086e5-4246616cd9",
+   "relativePath": "testcases/e086e5/4246616cd947040f64dc183b66e1f6c30b2d7fbb.html",
+   "meta": {
+    "regra": "e086e5",
+    "nomeRegra": "Form field has non-empty accessible name",
+    "caso": "Failed Example 6",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/e086e5/4246616cd947040f64dc183b66e1f6c30b2d7fbb.html"
+   }
+  },
+  {
+   "id": "e086e5-b0c554cfdd",
+   "relativePath": "testcases/e086e5/b0c554cfdddfdc0fe15923066b329868dd9e70c8.html",
+   "meta": {
+    "regra": "e086e5",
+    "nomeRegra": "Form field has non-empty accessible name",
+    "caso": "Failed Example 7",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/e086e5/b0c554cfdddfdc0fe15923066b329868dd9e70c8.html"
+   }
+  },
+  {
+   "id": "e086e5-c828178c45",
+   "relativePath": "testcases/e086e5/c828178c45e9299883296cf425144d2ae804fc27.html",
+   "meta": {
+    "regra": "e086e5",
+    "nomeRegra": "Form field has non-empty accessible name",
+    "caso": "Inapplicable Example 1",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/e086e5/c828178c45e9299883296cf425144d2ae804fc27.html"
+   }
+  },
+  {
+   "id": "e086e5-43b93bc715",
+   "relativePath": "testcases/e086e5/43b93bc71597fdc7152a7920a78f27a3b27cf639.html",
+   "meta": {
+    "regra": "e086e5",
+    "nomeRegra": "Form field has non-empty accessible name",
+    "caso": "Inapplicable Example 2",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/e086e5/43b93bc71597fdc7152a7920a78f27a3b27cf639.html"
+   }
+  },
+  {
+   "id": "e086e5-16a9073226",
+   "relativePath": "testcases/e086e5/16a907322625e3b82c25f571eb9dd8fe897444f8.html",
+   "meta": {
+    "regra": "e086e5",
+    "nomeRegra": "Form field has non-empty accessible name",
+    "caso": "Inapplicable Example 3",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/e086e5/16a907322625e3b82c25f571eb9dd8fe897444f8.html"
+   }
+  },
+  {
+   "id": "bf051a-7d8c4fd028",
+   "relativePath": "testcases/bf051a/7d8c4fd028c504d10c4e5e9bd7183c139549e1a1.html",
+   "meta": {
+    "regra": "bf051a",
+    "nomeRegra": "HTML page `lang` attribute has valid language tag",
+    "caso": "Passed Example 1",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/bf051a/7d8c4fd028c504d10c4e5e9bd7183c139549e1a1.html"
+   }
+  },
+  {
+   "id": "bf051a-a49f11c86a",
+   "relativePath": "testcases/bf051a/a49f11c86ad81c4d42700dfca58a7eeec377f02e.html",
+   "meta": {
+    "regra": "bf051a",
+    "nomeRegra": "HTML page `lang` attribute has valid language tag",
+    "caso": "Passed Example 2",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/bf051a/a49f11c86ad81c4d42700dfca58a7eeec377f02e.html"
+   }
+  },
+  {
+   "id": "bf051a-b7a35f8080",
+   "relativePath": "testcases/bf051a/b7a35f8080e756776877bca013a910dafde8ef73.html",
+   "meta": {
+    "regra": "bf051a",
+    "nomeRegra": "HTML page `lang` attribute has valid language tag",
+    "caso": "Failed Example 1",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/bf051a/b7a35f8080e756776877bca013a910dafde8ef73.html"
+   }
+  },
+  {
+   "id": "bf051a-5c998eef8c",
+   "relativePath": "testcases/bf051a/5c998eef8cb13a8f577dade1a3b9fe591bc69204.html",
+   "meta": {
+    "regra": "bf051a",
+    "nomeRegra": "HTML page `lang` attribute has valid language tag",
+    "caso": "Failed Example 2",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/bf051a/5c998eef8cb13a8f577dade1a3b9fe591bc69204.html"
+   }
+  },
+  {
+   "id": "bf051a-0f73e7179e",
+   "relativePath": "testcases/bf051a/0f73e7179e17f050380f0ea350d2551611820fd5.html",
+   "meta": {
+    "regra": "bf051a",
+    "nomeRegra": "HTML page `lang` attribute has valid language tag",
+    "caso": "Failed Example 3",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/bf051a/0f73e7179e17f050380f0ea350d2551611820fd5.html"
+   }
+  },
+  {
+   "id": "bf051a-b64d767d87",
+   "relativePath": "testcases/bf051a/b64d767d873269ff00966630e34ab198fc24368f.html",
+   "meta": {
+    "regra": "bf051a",
+    "nomeRegra": "HTML page `lang` attribute has valid language tag",
+    "caso": "Failed Example 4",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/bf051a/b64d767d873269ff00966630e34ab198fc24368f.html"
+   }
+  },
+  {
+   "id": "bf051a-1b73557d29",
+   "relativePath": "testcases/bf051a/1b73557d29073ecd327790ca1a6e343b4395b2ab.svg",
+   "meta": {
+    "regra": "bf051a",
+    "nomeRegra": "HTML page `lang` attribute has valid language tag",
+    "caso": "Inapplicable Example 1",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/bf051a/1b73557d29073ecd327790ca1a6e343b4395b2ab.svg"
+   }
+  },
+  {
+   "id": "2779a5-7f9f315b50",
+   "relativePath": "testcases/2779a5/7f9f315b5041f3726662bf269613c43678af99d4.html",
+   "meta": {
+    "regra": "2779a5",
+    "nomeRegra": "HTML page has non-empty title",
+    "caso": "Passed Example 1",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/2779a5/7f9f315b5041f3726662bf269613c43678af99d4.html"
+   }
+  },
+  {
+   "id": "2779a5-64771c390e",
+   "relativePath": "testcases/2779a5/64771c390e57375a822a7223362ea7bb859c0a96.html",
+   "meta": {
+    "regra": "2779a5",
+    "nomeRegra": "HTML page has non-empty title",
+    "caso": "Passed Example 2",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/2779a5/64771c390e57375a822a7223362ea7bb859c0a96.html"
+   }
+  },
+  {
+   "id": "2779a5-6b3d2e2147",
+   "relativePath": "testcases/2779a5/6b3d2e2147cfc618b744f2dabfaf2e66327055d7.html",
+   "meta": {
+    "regra": "2779a5",
+    "nomeRegra": "HTML page has non-empty title",
+    "caso": "Passed Example 3",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/2779a5/6b3d2e2147cfc618b744f2dabfaf2e66327055d7.html"
+   }
+  },
+  {
+   "id": "2779a5-efa1e0438b",
+   "relativePath": "testcases/2779a5/efa1e0438bb515332ec6b4d943044c336ca77fab.html",
+   "meta": {
+    "regra": "2779a5",
+    "nomeRegra": "HTML page has non-empty title",
+    "caso": "Passed Example 4",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/2779a5/efa1e0438bb515332ec6b4d943044c336ca77fab.html"
+   }
+  },
+  {
+   "id": "2779a5-0ad882dffa",
+   "relativePath": "testcases/2779a5/0ad882dffaf6edd16058119e1c513b4746b0ac27.html",
+   "meta": {
+    "regra": "2779a5",
+    "nomeRegra": "HTML page has non-empty title",
+    "caso": "Passed Example 5",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/2779a5/0ad882dffaf6edd16058119e1c513b4746b0ac27.html"
+   }
+  },
+  {
+   "id": "2779a5-820fb18c9b",
+   "relativePath": "testcases/2779a5/820fb18c9bb20fb1a940a0806a87c6f6e468bb5b.html",
+   "meta": {
+    "regra": "2779a5",
+    "nomeRegra": "HTML page has non-empty title",
+    "caso": "Failed Example 1",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/2779a5/820fb18c9bb20fb1a940a0806a87c6f6e468bb5b.html"
+   }
+  },
+  {
+   "id": "2779a5-314d991fa5",
+   "relativePath": "testcases/2779a5/314d991fa5328e41f8a806bfbac84d748b41f7ed.html",
+   "meta": {
+    "regra": "2779a5",
+    "nomeRegra": "HTML page has non-empty title",
+    "caso": "Failed Example 2",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/2779a5/314d991fa5328e41f8a806bfbac84d748b41f7ed.html"
+   }
+  },
+  {
+   "id": "2779a5-5fd6fda771",
+   "relativePath": "testcases/2779a5/5fd6fda771cf8810eef5166464622d6979e0406e.html",
+   "meta": {
+    "regra": "2779a5",
+    "nomeRegra": "HTML page has non-empty title",
+    "caso": "Failed Example 3",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/2779a5/5fd6fda771cf8810eef5166464622d6979e0406e.html"
+   }
+  },
+  {
+   "id": "2779a5-a14968698b",
+   "relativePath": "testcases/2779a5/a14968698b0e95b6624f187d4538e320e4fa8952.html",
+   "meta": {
+    "regra": "2779a5",
+    "nomeRegra": "HTML page has non-empty title",
+    "caso": "Failed Example 4",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/2779a5/a14968698b0e95b6624f187d4538e320e4fa8952.html"
+   }
+  },
+  {
+   "id": "2779a5-4eeff9c95f",
+   "relativePath": "testcases/2779a5/4eeff9c95f15e90ca5abc972079112d1ea5c3d51.html",
+   "meta": {
+    "regra": "2779a5",
+    "nomeRegra": "HTML page has non-empty title",
+    "caso": "Failed Example 5",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/2779a5/4eeff9c95f15e90ca5abc972079112d1ea5c3d51.html"
+   }
+  },
+  {
+   "id": "2779a5-ecc29b73e3",
+   "relativePath": "testcases/2779a5/ecc29b73e37b6a125b3fd9767068dcaa368d467a.svg",
+   "meta": {
+    "regra": "2779a5",
+    "nomeRegra": "HTML page has non-empty title",
+    "caso": "Inapplicable Example 1",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/2779a5/ecc29b73e37b6a125b3fd9767068dcaa368d467a.svg"
+   }
+  },
+  {
+   "id": "59796f-8c29bcb24a",
+   "relativePath": "testcases/59796f/8c29bcb24ac0f448846a2ffdad4c9693d5aef8c6.html",
+   "meta": {
+    "regra": "59796f",
+    "nomeRegra": "Image button has non-empty accessible name",
+    "caso": "Passed Example 1",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/59796f/8c29bcb24ac0f448846a2ffdad4c9693d5aef8c6.html"
+   }
+  },
+  {
+   "id": "59796f-b413c09531",
+   "relativePath": "testcases/59796f/b413c09531b239e27bcf79cb57302b429ef59fe6.html",
+   "meta": {
+    "regra": "59796f",
+    "nomeRegra": "Image button has non-empty accessible name",
+    "caso": "Passed Example 2",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/59796f/b413c09531b239e27bcf79cb57302b429ef59fe6.html"
+   }
+  },
+  {
+   "id": "59796f-cab9b2d06e",
+   "relativePath": "testcases/59796f/cab9b2d06e5a44e2056ccbdbb7096f55ab42859c.html",
+   "meta": {
+    "regra": "59796f",
+    "nomeRegra": "Image button has non-empty accessible name",
+    "caso": "Passed Example 3",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/59796f/cab9b2d06e5a44e2056ccbdbb7096f55ab42859c.html"
+   }
+  },
+  {
+   "id": "59796f-7d97d6b2f3",
+   "relativePath": "testcases/59796f/7d97d6b2f3fa16760bf66026691281a8179f3260.html",
+   "meta": {
+    "regra": "59796f",
+    "nomeRegra": "Image button has non-empty accessible name",
+    "caso": "Passed Example 4",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/59796f/7d97d6b2f3fa16760bf66026691281a8179f3260.html"
+   }
+  },
+  {
+   "id": "59796f-04342a3834",
+   "relativePath": "testcases/59796f/04342a3834e0003f3057807937d617e432e83d33.html",
+   "meta": {
+    "regra": "59796f",
+    "nomeRegra": "Image button has non-empty accessible name",
+    "caso": "Failed Example 1",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/59796f/04342a3834e0003f3057807937d617e432e83d33.html"
+   }
+  },
+  {
+   "id": "59796f-5c71cdabc0",
+   "relativePath": "testcases/59796f/5c71cdabc04f9038e21d872e20a516cb429a7619.html",
+   "meta": {
+    "regra": "59796f",
+    "nomeRegra": "Image button has non-empty accessible name",
+    "caso": "Failed Example 2",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/59796f/5c71cdabc04f9038e21d872e20a516cb429a7619.html"
+   }
+  },
+  {
+   "id": "59796f-0bbd55ba8e",
+   "relativePath": "testcases/59796f/0bbd55ba8e418361f99f717418206a37d57fd978.html",
+   "meta": {
+    "regra": "59796f",
+    "nomeRegra": "Image button has non-empty accessible name",
+    "caso": "Failed Example 3",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/59796f/0bbd55ba8e418361f99f717418206a37d57fd978.html"
+   }
+  },
+  {
+   "id": "59796f-a4cc71b043",
+   "relativePath": "testcases/59796f/a4cc71b0434f71f4ea0069c409f73e0207dfb403.html",
+   "meta": {
+    "regra": "59796f",
+    "nomeRegra": "Image button has non-empty accessible name",
+    "caso": "Inapplicable Example 1",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/59796f/a4cc71b0434f71f4ea0069c409f73e0207dfb403.html"
+   }
+  },
+  {
+   "id": "59796f-37cce377c8",
+   "relativePath": "testcases/59796f/37cce377c874eec22d1137977d2b8f00ebc42ea8.html",
+   "meta": {
+    "regra": "59796f",
+    "nomeRegra": "Image button has non-empty accessible name",
+    "caso": "Inapplicable Example 2",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/59796f/37cce377c874eec22d1137977d2b8f00ebc42ea8.html"
+   }
+  },
+  {
+   "id": "59796f-9ceceeffee",
+   "relativePath": "testcases/59796f/9ceceeffee45fea0d16ce4d87d4c048f1a68ca93.html",
+   "meta": {
+    "regra": "59796f",
+    "nomeRegra": "Image button has non-empty accessible name",
+    "caso": "Inapplicable Example 3",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/59796f/9ceceeffee45fea0d16ce4d87d4c048f1a68ca93.html"
+   }
+  },
+  {
+   "id": "59796f-ebd0080bac",
+   "relativePath": "testcases/59796f/ebd0080bacb8debc7ad069072240657df38c3e2c.html",
+   "meta": {
+    "regra": "59796f",
+    "nomeRegra": "Image button has non-empty accessible name",
+    "caso": "Inapplicable Example 4",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/59796f/ebd0080bacb8debc7ad069072240657df38c3e2c.html"
+   }
+  },
+  {
+   "id": "59796f-ba176379d7",
+   "relativePath": "testcases/59796f/ba176379d78ef73bf17c7703ca6b512463227d13.html",
+   "meta": {
+    "regra": "59796f",
+    "nomeRegra": "Image button has non-empty accessible name",
+    "caso": "Inapplicable Example 5",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/59796f/ba176379d78ef73bf17c7703ca6b512463227d13.html"
+   }
+  },
+  {
+   "id": "23a2a8-32bfac8a98",
+   "relativePath": "testcases/23a2a8/32bfac8a98cc212aa7bf9151bf40f665a7f51696.html",
+   "meta": {
+    "regra": "23a2a8",
+    "nomeRegra": "Image has non-empty accessible name",
+    "caso": "Passed Example 1",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/23a2a8/32bfac8a98cc212aa7bf9151bf40f665a7f51696.html"
+   }
+  },
+  {
+   "id": "23a2a8-38cc6a87fc",
+   "relativePath": "testcases/23a2a8/38cc6a87fcc81fcc2248f0cd74ca48396b7aa432.html",
+   "meta": {
+    "regra": "23a2a8",
+    "nomeRegra": "Image has non-empty accessible name",
+    "caso": "Passed Example 2",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/23a2a8/38cc6a87fcc81fcc2248f0cd74ca48396b7aa432.html"
+   }
+  },
+  {
+   "id": "23a2a8-feb06eece7",
+   "relativePath": "testcases/23a2a8/feb06eece7b158ab66a25bfa2c47a196309f0d93.html",
+   "meta": {
+    "regra": "23a2a8",
+    "nomeRegra": "Image has non-empty accessible name",
+    "caso": "Passed Example 3",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/23a2a8/feb06eece7b158ab66a25bfa2c47a196309f0d93.html"
+   }
+  },
+  {
+   "id": "23a2a8-40d83620b0",
+   "relativePath": "testcases/23a2a8/40d83620b0bcbcf0e7380177384f48596823e7a9.html",
+   "meta": {
+    "regra": "23a2a8",
+    "nomeRegra": "Image has non-empty accessible name",
+    "caso": "Passed Example 4",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/23a2a8/40d83620b0bcbcf0e7380177384f48596823e7a9.html"
+   }
+  },
+  {
+   "id": "23a2a8-2f35ed62ed",
+   "relativePath": "testcases/23a2a8/2f35ed62ed14afb6d9e8b886e95e846f0cfa0d2a.html",
+   "meta": {
+    "regra": "23a2a8",
+    "nomeRegra": "Image has non-empty accessible name",
+    "caso": "Passed Example 5",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/23a2a8/2f35ed62ed14afb6d9e8b886e95e846f0cfa0d2a.html"
+   }
+  },
+  {
+   "id": "23a2a8-e8f40f5af0",
+   "relativePath": "testcases/23a2a8/e8f40f5af06646ef15283302903f6c78f7d7a505.html",
+   "meta": {
+    "regra": "23a2a8",
+    "nomeRegra": "Image has non-empty accessible name",
+    "caso": "Passed Example 6",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/23a2a8/e8f40f5af06646ef15283302903f6c78f7d7a505.html"
+   }
+  },
+  {
+   "id": "23a2a8-13b8678881",
+   "relativePath": "testcases/23a2a8/13b8678881fba03e7465f82b5550abc5093f7968.html",
+   "meta": {
+    "regra": "23a2a8",
+    "nomeRegra": "Image has non-empty accessible name",
+    "caso": "Passed Example 7",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/23a2a8/13b8678881fba03e7465f82b5550abc5093f7968.html"
+   }
+  },
+  {
+   "id": "23a2a8-ba9cdf6d0c",
+   "relativePath": "testcases/23a2a8/ba9cdf6d0c336f0abf7cd2992c4a2a62c6c719fd.html",
+   "meta": {
+    "regra": "23a2a8",
+    "nomeRegra": "Image has non-empty accessible name",
+    "caso": "Passed Example 8",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/23a2a8/ba9cdf6d0c336f0abf7cd2992c4a2a62c6c719fd.html"
+   }
+  },
+  {
+   "id": "23a2a8-8006d1541d",
+   "relativePath": "testcases/23a2a8/8006d1541dc71b93e6ec4d101a386e0043d1a521.html",
+   "meta": {
+    "regra": "23a2a8",
+    "nomeRegra": "Image has non-empty accessible name",
+    "caso": "Failed Example 1",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/23a2a8/8006d1541dc71b93e6ec4d101a386e0043d1a521.html"
+   }
+  },
+  {
+   "id": "23a2a8-496963cfd3",
+   "relativePath": "testcases/23a2a8/496963cfd35d4873c010469c47c84d4358fba035.html",
+   "meta": {
+    "regra": "23a2a8",
+    "nomeRegra": "Image has non-empty accessible name",
+    "caso": "Failed Example 2",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/23a2a8/496963cfd35d4873c010469c47c84d4358fba035.html"
+   }
+  },
+  {
+   "id": "23a2a8-fef9a3ad8b",
+   "relativePath": "testcases/23a2a8/fef9a3ad8b2f2a6beeaf44ef7dafce08e743ea67.html",
+   "meta": {
+    "regra": "23a2a8",
+    "nomeRegra": "Image has non-empty accessible name",
+    "caso": "Failed Example 3",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/23a2a8/fef9a3ad8b2f2a6beeaf44ef7dafce08e743ea67.html"
+   }
+  },
+  {
+   "id": "23a2a8-b0348c1e6f",
+   "relativePath": "testcases/23a2a8/b0348c1e6fced2df1ebd93caef4d383f6c7a0461.html",
+   "meta": {
+    "regra": "23a2a8",
+    "nomeRegra": "Image has non-empty accessible name",
+    "caso": "Failed Example 4",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/23a2a8/b0348c1e6fced2df1ebd93caef4d383f6c7a0461.html"
+   }
+  },
+  {
+   "id": "23a2a8-d70470a37d",
+   "relativePath": "testcases/23a2a8/d70470a37db713810be85275e5d0c698f85ab320.html",
+   "meta": {
+    "regra": "23a2a8",
+    "nomeRegra": "Image has non-empty accessible name",
+    "caso": "Failed Example 5",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/23a2a8/d70470a37db713810be85275e5d0c698f85ab320.html"
+   }
+  },
+  {
+   "id": "23a2a8-cd3b3a4046",
+   "relativePath": "testcases/23a2a8/cd3b3a4046451da9b9cc3e166c09d27583a2c30b.html",
+   "meta": {
+    "regra": "23a2a8",
+    "nomeRegra": "Image has non-empty accessible name",
+    "caso": "Inapplicable Example 1",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/23a2a8/cd3b3a4046451da9b9cc3e166c09d27583a2c30b.html"
+   }
+  },
+  {
+   "id": "23a2a8-25e5364c0a",
+   "relativePath": "testcases/23a2a8/25e5364c0a1320a08e2742fa59a0f8627591bc61.html",
+   "meta": {
+    "regra": "23a2a8",
+    "nomeRegra": "Image has non-empty accessible name",
+    "caso": "Inapplicable Example 2",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/23a2a8/25e5364c0a1320a08e2742fa59a0f8627591bc61.html"
+   }
+  },
+  {
+   "id": "23a2a8-e15b9aca4a",
+   "relativePath": "testcases/23a2a8/e15b9aca4aaa53cb3a96ae48e78e1af064b9a01d.html",
+   "meta": {
+    "regra": "23a2a8",
+    "nomeRegra": "Image has non-empty accessible name",
+    "caso": "Inapplicable Example 3",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/23a2a8/e15b9aca4aaa53cb3a96ae48e78e1af064b9a01d.html"
+   }
+  },
+  {
+   "id": "23a2a8-7d696551ef",
+   "relativePath": "testcases/23a2a8/7d696551efaafa0da33bb6e56b8b43707c7c7de9.html",
+   "meta": {
+    "regra": "23a2a8",
+    "nomeRegra": "Image has non-empty accessible name",
+    "caso": "Inapplicable Example 4",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/23a2a8/7d696551efaafa0da33bb6e56b8b43707c7c7de9.html"
+   }
+  },
+  {
+   "id": "23a2a8-f7692caf5f",
+   "relativePath": "testcases/23a2a8/f7692caf5f8c788d58e1aeb8d4f1f240fafdfa91.html",
+   "meta": {
+    "regra": "23a2a8",
+    "nomeRegra": "Image has non-empty accessible name",
+    "caso": "Inapplicable Example 5",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/23a2a8/f7692caf5f8c788d58e1aeb8d4f1f240fafdfa91.html"
+   }
+  },
+  {
+   "id": "c487ae-a8cc66de4d",
+   "relativePath": "testcases/c487ae/a8cc66de4d60e34c7ee0d09fd6ab965ac23d9b4f.html",
+   "meta": {
+    "regra": "c487ae",
+    "nomeRegra": "Link has non-empty accessible name",
+    "caso": "Passed Example 1",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/c487ae/a8cc66de4d60e34c7ee0d09fd6ab965ac23d9b4f.html"
+   }
+  },
+  {
+   "id": "c487ae-d761116217",
+   "relativePath": "testcases/c487ae/d761116217a5875490cd7a2adf0219bdb1bff5cf.html",
+   "meta": {
+    "regra": "c487ae",
+    "nomeRegra": "Link has non-empty accessible name",
+    "caso": "Passed Example 2",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/c487ae/d761116217a5875490cd7a2adf0219bdb1bff5cf.html"
+   }
+  },
+  {
+   "id": "c487ae-ada7438401",
+   "relativePath": "testcases/c487ae/ada7438401aba500eb03f678b05b9821a758336a.html",
+   "meta": {
+    "regra": "c487ae",
+    "nomeRegra": "Link has non-empty accessible name",
+    "caso": "Passed Example 3",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/c487ae/ada7438401aba500eb03f678b05b9821a758336a.html"
+   }
+  },
+  {
+   "id": "c487ae-d13a75a2a0",
+   "relativePath": "testcases/c487ae/d13a75a2a0b539a39063eb946505e3d3dd5aeef1.html",
+   "meta": {
+    "regra": "c487ae",
+    "nomeRegra": "Link has non-empty accessible name",
+    "caso": "Passed Example 4",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/c487ae/d13a75a2a0b539a39063eb946505e3d3dd5aeef1.html"
+   }
+  },
+  {
+   "id": "c487ae-4493c4b542",
+   "relativePath": "testcases/c487ae/4493c4b542c8e059e8423c77945ce5895428ab88.html",
+   "meta": {
+    "regra": "c487ae",
+    "nomeRegra": "Link has non-empty accessible name",
+    "caso": "Passed Example 5",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/c487ae/4493c4b542c8e059e8423c77945ce5895428ab88.html"
+   }
+  },
+  {
+   "id": "c487ae-d6a2390592",
+   "relativePath": "testcases/c487ae/d6a239059266b317de6a6e73dbf443c5ca8a6f5f.html",
+   "meta": {
+    "regra": "c487ae",
+    "nomeRegra": "Link has non-empty accessible name",
+    "caso": "Passed Example 6",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/c487ae/d6a239059266b317de6a6e73dbf443c5ca8a6f5f.html"
+   }
+  },
+  {
+   "id": "c487ae-5d16da98a4",
+   "relativePath": "testcases/c487ae/5d16da98a4089b29ff76c611036c65e1c504c7bc.html",
+   "meta": {
+    "regra": "c487ae",
+    "nomeRegra": "Link has non-empty accessible name",
+    "caso": "Passed Example 7",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/c487ae/5d16da98a4089b29ff76c611036c65e1c504c7bc.html"
+   }
+  },
+  {
+   "id": "c487ae-e277de30ed",
+   "relativePath": "testcases/c487ae/e277de30edb9e550d8f9d5a72e1e3adde961d01d.html",
+   "meta": {
+    "regra": "c487ae",
+    "nomeRegra": "Link has non-empty accessible name",
+    "caso": "Passed Example 8",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/c487ae/e277de30edb9e550d8f9d5a72e1e3adde961d01d.html"
+   }
+  },
+  {
+   "id": "c487ae-dee6c55162",
+   "relativePath": "testcases/c487ae/dee6c55162904cfb77c7f65614c4e6ae2baacea2.html",
+   "meta": {
+    "regra": "c487ae",
+    "nomeRegra": "Link has non-empty accessible name",
+    "caso": "Passed Example 9",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/c487ae/dee6c55162904cfb77c7f65614c4e6ae2baacea2.html"
+   }
+  },
+  {
+   "id": "c487ae-b9a3949e2a",
+   "relativePath": "testcases/c487ae/b9a3949e2a7521698472a966c782434c4d9ce6fb.html",
+   "meta": {
+    "regra": "c487ae",
+    "nomeRegra": "Link has non-empty accessible name",
+    "caso": "Passed Example 10",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/c487ae/b9a3949e2a7521698472a966c782434c4d9ce6fb.html"
+   }
+  },
+  {
+   "id": "c487ae-97b115a032",
+   "relativePath": "testcases/c487ae/97b115a032fc4178230306e2d0f4e334b2cfe8a9.html",
+   "meta": {
+    "regra": "c487ae",
+    "nomeRegra": "Link has non-empty accessible name",
+    "caso": "Failed Example 1",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/c487ae/97b115a032fc4178230306e2d0f4e334b2cfe8a9.html"
+   }
+  },
+  {
+   "id": "c487ae-633d9136ef",
+   "relativePath": "testcases/c487ae/633d9136ef3e040b7653b287651c65e4302fe417.html",
+   "meta": {
+    "regra": "c487ae",
+    "nomeRegra": "Link has non-empty accessible name",
+    "caso": "Failed Example 2",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/c487ae/633d9136ef3e040b7653b287651c65e4302fe417.html"
+   }
+  },
+  {
+   "id": "c487ae-954326e5ba",
+   "relativePath": "testcases/c487ae/954326e5ba700d4616d924807f427002816e9fc3.html",
+   "meta": {
+    "regra": "c487ae",
+    "nomeRegra": "Link has non-empty accessible name",
+    "caso": "Failed Example 3",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/c487ae/954326e5ba700d4616d924807f427002816e9fc3.html"
+   }
+  },
+  {
+   "id": "c487ae-e729027165",
+   "relativePath": "testcases/c487ae/e729027165e293dc32ea88b7264e4c62c306fdd5.html",
+   "meta": {
+    "regra": "c487ae",
+    "nomeRegra": "Link has non-empty accessible name",
+    "caso": "Failed Example 4",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/c487ae/e729027165e293dc32ea88b7264e4c62c306fdd5.html"
+   }
+  },
+  {
+   "id": "c487ae-e5b522e069",
+   "relativePath": "testcases/c487ae/e5b522e069394fa6666bef3746705b70b4628819.html",
+   "meta": {
+    "regra": "c487ae",
+    "nomeRegra": "Link has non-empty accessible name",
+    "caso": "Failed Example 5",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/c487ae/e5b522e069394fa6666bef3746705b70b4628819.html"
+   }
+  },
+  {
+   "id": "c487ae-3f34996d20",
+   "relativePath": "testcases/c487ae/3f34996d204260b1b0b50fc8f77b10ab640ba303.html",
+   "meta": {
+    "regra": "c487ae",
+    "nomeRegra": "Link has non-empty accessible name",
+    "caso": "Failed Example 6",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/c487ae/3f34996d204260b1b0b50fc8f77b10ab640ba303.html"
+   }
+  },
+  {
+   "id": "c487ae-7b6b235a0f",
+   "relativePath": "testcases/c487ae/7b6b235a0fd8bf9b2023a5d0e446f7ed46e1a40f.html",
+   "meta": {
+    "regra": "c487ae",
+    "nomeRegra": "Link has non-empty accessible name",
+    "caso": "Failed Example 7",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/c487ae/7b6b235a0fd8bf9b2023a5d0e446f7ed46e1a40f.html"
+   }
+  },
+  {
+   "id": "c487ae-8816eee206",
+   "relativePath": "testcases/c487ae/8816eee206375f88c562d618852cb0383b89fe6e.html",
+   "meta": {
+    "regra": "c487ae",
+    "nomeRegra": "Link has non-empty accessible name",
+    "caso": "Failed Example 8",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/c487ae/8816eee206375f88c562d618852cb0383b89fe6e.html"
+   }
+  },
+  {
+   "id": "c487ae-c1570fd319",
+   "relativePath": "testcases/c487ae/c1570fd31970f22abcca6f32d75c1906058c1535.html",
+   "meta": {
+    "regra": "c487ae",
+    "nomeRegra": "Link has non-empty accessible name",
+    "caso": "Failed Example 9",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/c487ae/c1570fd31970f22abcca6f32d75c1906058c1535.html"
+   }
+  },
+  {
+   "id": "c487ae-cc73351605",
+   "relativePath": "testcases/c487ae/cc73351605ff3dc9766ad28a1a267a96976ad77b.html",
+   "meta": {
+    "regra": "c487ae",
+    "nomeRegra": "Link has non-empty accessible name",
+    "caso": "Failed Example 10",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/c487ae/cc73351605ff3dc9766ad28a1a267a96976ad77b.html"
+   }
+  },
+  {
+   "id": "c487ae-322c1a6d65",
+   "relativePath": "testcases/c487ae/322c1a6d65f31fd534b1ddac680e3c6ea69e3207.html",
+   "meta": {
+    "regra": "c487ae",
+    "nomeRegra": "Link has non-empty accessible name",
+    "caso": "Inapplicable Example 1",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/c487ae/322c1a6d65f31fd534b1ddac680e3c6ea69e3207.html"
+   }
+  },
+  {
+   "id": "c487ae-9d8527dff8",
+   "relativePath": "testcases/c487ae/9d8527dff8e8dcd338fc501863c14c13cd151b9c.html",
+   "meta": {
+    "regra": "c487ae",
+    "nomeRegra": "Link has non-empty accessible name",
+    "caso": "Inapplicable Example 2",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/c487ae/9d8527dff8e8dcd338fc501863c14c13cd151b9c.html"
+   }
+  },
+  {
+   "id": "c487ae-8b1cde6d65",
+   "relativePath": "testcases/c487ae/8b1cde6d65f14bd7531e3714779b5130dc8a7919.html",
+   "meta": {
+    "regra": "c487ae",
+    "nomeRegra": "Link has non-empty accessible name",
+    "caso": "Inapplicable Example 3",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/c487ae/8b1cde6d65f14bd7531e3714779b5130dc8a7919.html"
+   }
+  },
+  {
+   "id": "c487ae-bd0d0d0cda",
+   "relativePath": "testcases/c487ae/bd0d0d0cda19a4d58dfe311cd7c8de34093ad590.html",
+   "meta": {
+    "regra": "c487ae",
+    "nomeRegra": "Link has non-empty accessible name",
+    "caso": "Inapplicable Example 4",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/c487ae/bd0d0d0cda19a4d58dfe311cd7c8de34093ad590.html"
+   }
+  },
+  {
+   "id": "c487ae-7ce0b9a2a1",
+   "relativePath": "testcases/c487ae/7ce0b9a2a11f1c10f71f1786e4154e6164356fb6.html",
+   "meta": {
+    "regra": "c487ae",
+    "nomeRegra": "Link has non-empty accessible name",
+    "caso": "Inapplicable Example 5",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/c487ae/7ce0b9a2a11f1c10f71f1786e4154e6164356fb6.html"
+   }
+  },
+  {
+   "id": "c487ae-f417fbb0db",
+   "relativePath": "testcases/c487ae/f417fbb0db2a62f84dd79497b23b1e6e97007740.html",
+   "meta": {
+    "regra": "c487ae",
+    "nomeRegra": "Link has non-empty accessible name",
+    "caso": "Inapplicable Example 6",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/c487ae/f417fbb0db2a62f84dd79497b23b1e6e97007740.html"
+   }
+  },
+  {
+   "id": "7d6734-cc172d9a65",
+   "relativePath": "testcases/7d6734/cc172d9a654d94e00505456845920c099fbabfa7.html",
+   "meta": {
+    "regra": "7d6734",
+    "nomeRegra": "SVG element with explicit role has non-empty accessible name",
+    "caso": "Passed Example 1",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/7d6734/cc172d9a654d94e00505456845920c099fbabfa7.html"
+   }
+  },
+  {
+   "id": "7d6734-8ad324fd8d",
+   "relativePath": "testcases/7d6734/8ad324fd8d3f5113f72ac40f978a85e1777d43d1.html",
+   "meta": {
+    "regra": "7d6734",
+    "nomeRegra": "SVG element with explicit role has non-empty accessible name",
+    "caso": "Passed Example 2",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/7d6734/8ad324fd8d3f5113f72ac40f978a85e1777d43d1.html"
+   }
+  },
+  {
+   "id": "7d6734-f2af674524",
+   "relativePath": "testcases/7d6734/f2af674524641f89a409d5f91caf512b162d5778.html",
+   "meta": {
+    "regra": "7d6734",
+    "nomeRegra": "SVG element with explicit role has non-empty accessible name",
+    "caso": "Passed Example 3",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/7d6734/f2af674524641f89a409d5f91caf512b162d5778.html"
+   }
+  },
+  {
+   "id": "7d6734-2847ca922f",
+   "relativePath": "testcases/7d6734/2847ca922fa3564341094245c34ef3120167bc0b.html",
+   "meta": {
+    "regra": "7d6734",
+    "nomeRegra": "SVG element with explicit role has non-empty accessible name",
+    "caso": "Failed Example 1",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/7d6734/2847ca922fa3564341094245c34ef3120167bc0b.html"
+   }
+  },
+  {
+   "id": "7d6734-e1724dd3a9",
+   "relativePath": "testcases/7d6734/e1724dd3a91aff66b84807df1b9dbbaeaf272189.html",
+   "meta": {
+    "regra": "7d6734",
+    "nomeRegra": "SVG element with explicit role has non-empty accessible name",
+    "caso": "Failed Example 2",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/7d6734/e1724dd3a91aff66b84807df1b9dbbaeaf272189.html"
+   }
+  },
+  {
+   "id": "7d6734-c65600eae4",
+   "relativePath": "testcases/7d6734/c65600eae4b88d275675cb976ceac01b9a4f47e4.html",
+   "meta": {
+    "regra": "7d6734",
+    "nomeRegra": "SVG element with explicit role has non-empty accessible name",
+    "caso": "Failed Example 3",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/7d6734/c65600eae4b88d275675cb976ceac01b9a4f47e4.html"
+   }
+  },
+  {
+   "id": "7d6734-94396aaa59",
+   "relativePath": "testcases/7d6734/94396aaa5928a68aba7320ea3690ca6c302fdcab.html",
+   "meta": {
+    "regra": "7d6734",
+    "nomeRegra": "SVG element with explicit role has non-empty accessible name",
+    "caso": "Failed Example 4",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/7d6734/94396aaa5928a68aba7320ea3690ca6c302fdcab.html"
+   }
+  },
+  {
+   "id": "7d6734-1f2223805c",
+   "relativePath": "testcases/7d6734/1f2223805c79c21fade3ebf0d9a29f979c16f581.html",
+   "meta": {
+    "regra": "7d6734",
+    "nomeRegra": "SVG element with explicit role has non-empty accessible name",
+    "caso": "Inapplicable Example 1",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/7d6734/1f2223805c79c21fade3ebf0d9a29f979c16f581.html"
+   }
+  },
+  {
+   "id": "7d6734-b3c602b7aa",
+   "relativePath": "testcases/7d6734/b3c602b7aa172611a22304666dd8d81d6ce8d214.html",
+   "meta": {
+    "regra": "7d6734",
+    "nomeRegra": "SVG element with explicit role has non-empty accessible name",
+    "caso": "Inapplicable Example 2",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/7d6734/b3c602b7aa172611a22304666dd8d81d6ce8d214.html"
+   }
+  },
+  {
+   "id": "7d6734-ec2a7a47c3",
+   "relativePath": "testcases/7d6734/ec2a7a47c3850e8aacd971a445b90390b2ab73bb.html",
+   "meta": {
+    "regra": "7d6734",
+    "nomeRegra": "SVG element with explicit role has non-empty accessible name",
+    "caso": "Inapplicable Example 3",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/7d6734/ec2a7a47c3850e8aacd971a445b90390b2ab73bb.html"
+   }
+  },
+  {
+   "id": "c487ae-d36abfa449",
+   "relativePath": "testcases/c487ae/d36abfa44924a4d4088bada05f439ae392dfd662.html",
+   "meta": {
+    "regra": "c487ae",
+    "nomeRegra": "Link has non-empty accessible name",
+    "caso": "Passed Example 11",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/c487ae/d36abfa44924a4d4088bada05f439ae392dfd662.html"
+   }
+  },
+  {
+   "id": "c487ae-7b3b94c0e3",
+   "relativePath": "testcases/c487ae/7b3b94c0e39bed9d432f379efa77ba9f54c81c6d.html",
+   "meta": {
+    "regra": "c487ae",
+    "nomeRegra": "Link has non-empty accessible name",
+    "caso": "Failed Example 11",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/c487ae/7b3b94c0e39bed9d432f379efa77ba9f54c81c6d.html"
+   }
+  },
+  {
+   "id": "b4f0c3-312146d843",
+   "relativePath": "testcases/b4f0c3/312146d84331c7214ed6919391ad955098eff516.html",
+   "meta": {
+    "regra": "b4f0c3",
+    "nomeRegra": "Meta viewport allows for zoom",
+    "caso": "Passed Example 1",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/b4f0c3/312146d84331c7214ed6919391ad955098eff516.html"
+   }
+  },
+  {
+   "id": "b4f0c3-d143bfe343",
+   "relativePath": "testcases/b4f0c3/d143bfe343ecf75bceb92b6fc9807cc5f453b319.html",
+   "meta": {
+    "regra": "b4f0c3",
+    "nomeRegra": "Meta viewport allows for zoom",
+    "caso": "Passed Example 2",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/b4f0c3/d143bfe343ecf75bceb92b6fc9807cc5f453b319.html"
+   }
+  },
+  {
+   "id": "b4f0c3-4ade33e41d",
+   "relativePath": "testcases/b4f0c3/4ade33e41dda291c9078e56ca2a95c4825dbc1fe.html",
+   "meta": {
+    "regra": "b4f0c3",
+    "nomeRegra": "Meta viewport allows for zoom",
+    "caso": "Passed Example 3",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/b4f0c3/4ade33e41dda291c9078e56ca2a95c4825dbc1fe.html"
+   }
+  },
+  {
+   "id": "b4f0c3-accc6adf09",
+   "relativePath": "testcases/b4f0c3/accc6adf094723693593ca3c6308f81945930dae.html",
+   "meta": {
+    "regra": "b4f0c3",
+    "nomeRegra": "Meta viewport allows for zoom",
+    "caso": "Failed Example 1",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/b4f0c3/accc6adf094723693593ca3c6308f81945930dae.html"
+   }
+  },
+  {
+   "id": "b4f0c3-a1240b3176",
+   "relativePath": "testcases/b4f0c3/a1240b31761f65c92a8f6d08ed7105ee822d0ebc.html",
+   "meta": {
+    "regra": "b4f0c3",
+    "nomeRegra": "Meta viewport allows for zoom",
+    "caso": "Failed Example 2",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/b4f0c3/a1240b31761f65c92a8f6d08ed7105ee822d0ebc.html"
+   }
+  },
+  {
+   "id": "b4f0c3-c7e4980eb4",
+   "relativePath": "testcases/b4f0c3/c7e4980eb42d0b138684ac1e28318a197d86ccfc.html",
+   "meta": {
+    "regra": "b4f0c3",
+    "nomeRegra": "Meta viewport allows for zoom",
+    "caso": "Failed Example 3",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/b4f0c3/c7e4980eb42d0b138684ac1e28318a197d86ccfc.html"
+   }
+  },
+  {
+   "id": "b4f0c3-e5695989a4",
+   "relativePath": "testcases/b4f0c3/e5695989a43a3297cf6b78182014c7a3848ff7e1.html",
+   "meta": {
+    "regra": "b4f0c3",
+    "nomeRegra": "Meta viewport allows for zoom",
+    "caso": "Failed Example 4",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/b4f0c3/e5695989a43a3297cf6b78182014c7a3848ff7e1.html"
+   }
+  },
+  {
+   "id": "b4f0c3-824fa57ab5",
+   "relativePath": "testcases/b4f0c3/824fa57ab563edbac93384a58e21b3045bd71c65.html",
+   "meta": {
+    "regra": "b4f0c3",
+    "nomeRegra": "Meta viewport allows for zoom",
+    "caso": "Inapplicable Example 1",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/b4f0c3/824fa57ab563edbac93384a58e21b3045bd71c65.html"
+   }
+  },
+  {
+   "id": "b4f0c3-fe4a93d263",
+   "relativePath": "testcases/b4f0c3/fe4a93d2631e7c54f1c00e3c56e04c927b5144c1.html",
+   "meta": {
+    "regra": "b4f0c3",
+    "nomeRegra": "Meta viewport allows for zoom",
+    "caso": "Inapplicable Example 2",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/b4f0c3/fe4a93d2631e7c54f1c00e3c56e04c927b5144c1.html"
+   }
+  },
+  {
+   "id": "b4f0c3-3a2c170ad3",
+   "relativePath": "testcases/b4f0c3/3a2c170ad31b2c0c387e06c8a3bf7e5409dcdb60.html",
+   "meta": {
+    "regra": "b4f0c3",
+    "nomeRegra": "Meta viewport allows for zoom",
+    "caso": "Inapplicable Example 3",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/b4f0c3/3a2c170ad31b2c0c387e06c8a3bf7e5409dcdb60.html"
+   }
+  },
+  {
+   "id": "b4f0c3-a36115d711",
+   "relativePath": "testcases/b4f0c3/a36115d7110156fde2fe6187dbb49402096f82fb.html",
+   "meta": {
+    "regra": "b4f0c3",
+    "nomeRegra": "Meta viewport allows for zoom",
+    "caso": "Inapplicable Example 4",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/b4f0c3/a36115d7110156fde2fe6187dbb49402096f82fb.html"
+   }
+  },
+  {
+   "id": "e086e5-d9ee6c2ae6",
+   "relativePath": "testcases/e086e5/d9ee6c2ae6da41521bd4ba0bf25c4b6bcd253f37.html",
+   "meta": {
+    "regra": "e086e5",
+    "nomeRegra": "Form field has non-empty accessible name",
+    "caso": "Passed Example 8",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/e086e5/d9ee6c2ae6da41521bd4ba0bf25c4b6bcd253f37.html"
+   }
+  },
+  {
+   "id": "e086e5-bd816c3ef1",
+   "relativePath": "testcases/e086e5/bd816c3ef10b8982f18411e1623887d2444d7311.html",
+   "meta": {
+    "regra": "e086e5",
+    "nomeRegra": "Form field has non-empty accessible name",
+    "caso": "Failed Example 8",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/e086e5/bd816c3ef10b8982f18411e1623887d2444d7311.html"
+   }
+  },
+  {
+   "id": "b5c3f8-0fac26928e",
+   "relativePath": "testcases/b5c3f8/0fac26928e2bf6b7db6c7f46a1e0ab50aaa8a7c1.html",
+   "meta": {
+    "regra": "b5c3f8",
+    "nomeRegra": "HTML page has lang attribute",
+    "caso": "Passed Example 1",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/b5c3f8/0fac26928e2bf6b7db6c7f46a1e0ab50aaa8a7c1.html"
+   }
+  },
+  {
+   "id": "b5c3f8-473352935a",
+   "relativePath": "testcases/b5c3f8/473352935acf2463b14dbd8e38073e913eeb5c08.html",
+   "meta": {
+    "regra": "b5c3f8",
+    "nomeRegra": "HTML page has lang attribute",
+    "caso": "Failed Example 1",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/b5c3f8/473352935acf2463b14dbd8e38073e913eeb5c08.html"
+   }
+  },
+  {
+   "id": "b5c3f8-98681b2a79",
+   "relativePath": "testcases/b5c3f8/98681b2a7949e49b2da1b353f70e688528fe7ddc.html",
+   "meta": {
+    "regra": "b5c3f8",
+    "nomeRegra": "HTML page has lang attribute",
+    "caso": "Failed Example 2",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/b5c3f8/98681b2a7949e49b2da1b353f70e688528fe7ddc.html"
+   }
+  },
+  {
+   "id": "b5c3f8-4ea0280617",
+   "relativePath": "testcases/b5c3f8/4ea0280617a1b71dcc327356484f8767919b0f40.html",
+   "meta": {
+    "regra": "b5c3f8",
+    "nomeRegra": "HTML page has lang attribute",
+    "caso": "Failed Example 3",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/b5c3f8/4ea0280617a1b71dcc327356484f8767919b0f40.html"
+   }
+  },
+  {
+   "id": "b5c3f8-4f94c3e26f",
+   "relativePath": "testcases/b5c3f8/4f94c3e26f43701d91db403fe26cd8894bdc8ccf.html",
+   "meta": {
+    "regra": "b5c3f8",
+    "nomeRegra": "HTML page has lang attribute",
+    "caso": "Failed Example 4",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/b5c3f8/4f94c3e26f43701d91db403fe26cd8894bdc8ccf.html"
+   }
+  },
+  {
+   "id": "b5c3f8-b584aa8aeb",
+   "relativePath": "testcases/b5c3f8/b584aa8aeb33814a0ecb63fd9ed4d97f2211f837.svg",
+   "meta": {
+    "regra": "b5c3f8",
+    "nomeRegra": "HTML page has lang attribute",
+    "caso": "Inapplicable Example 1",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/b5c3f8/b584aa8aeb33814a0ecb63fd9ed4d97f2211f837.svg"
+   }
+  },
+  {
+   "id": "b5c3f8-58847c387d",
+   "relativePath": "testcases/b5c3f8/58847c387d3b2cfa7e57c6ed613a8f31569cfd30.xml",
+   "meta": {
+    "regra": "b5c3f8",
+    "nomeRegra": "HTML page has lang attribute",
+    "caso": "Inapplicable Example 2",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/b5c3f8/58847c387d3b2cfa7e57c6ed613a8f31569cfd30.xml"
+   }
+  },
+  {
+   "id": "afw4f7-fd406bedf0",
+   "relativePath": "testcases/afw4f7/fd406bedf0bb3bdc4c2a718f49a3dd0f7aaa7556.html",
+   "meta": {
+    "regra": "afw4f7",
+    "nomeRegra": "Text has minimum contrast",
+    "caso": "Passed Example 1",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/fd406bedf0bb3bdc4c2a718f49a3dd0f7aaa7556.html"
+   }
+  },
+  {
+   "id": "afw4f7-ab4691ef47",
+   "relativePath": "testcases/afw4f7/ab4691ef474d6263e9ceec824f07faa51a30112e.html",
+   "meta": {
+    "regra": "afw4f7",
+    "nomeRegra": "Text has minimum contrast",
+    "caso": "Passed Example 2",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/ab4691ef474d6263e9ceec824f07faa51a30112e.html"
+   }
+  },
+  {
+   "id": "afw4f7-dc170fd015",
+   "relativePath": "testcases/afw4f7/dc170fd015758b62d8e0141e086893a116ee724e.html",
+   "meta": {
+    "regra": "afw4f7",
+    "nomeRegra": "Text has minimum contrast",
+    "caso": "Passed Example 3",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/dc170fd015758b62d8e0141e086893a116ee724e.html"
+   }
+  },
+  {
+   "id": "afw4f7-319a465113",
+   "relativePath": "testcases/afw4f7/319a465113950b03502709ab573edf7deab59908.html",
+   "meta": {
+    "regra": "afw4f7",
+    "nomeRegra": "Text has minimum contrast",
+    "caso": "Passed Example 4",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/319a465113950b03502709ab573edf7deab59908.html"
+   }
+  },
+  {
+   "id": "afw4f7-04344f745b",
+   "relativePath": "testcases/afw4f7/04344f745bd9bad51292748e7893f146c045aae4.html",
+   "meta": {
+    "regra": "afw4f7",
+    "nomeRegra": "Text has minimum contrast",
+    "caso": "Passed Example 5",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/04344f745bd9bad51292748e7893f146c045aae4.html"
+   }
+  },
+  {
+   "id": "afw4f7-aed692e9f0",
+   "relativePath": "testcases/afw4f7/aed692e9f0a1be5c87ef1de56afa8e23e14cc3ba.html",
+   "meta": {
+    "regra": "afw4f7",
+    "nomeRegra": "Text has minimum contrast",
+    "caso": "Passed Example 6",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/aed692e9f0a1be5c87ef1de56afa8e23e14cc3ba.html"
+   }
+  },
+  {
+   "id": "afw4f7-2845a8409b",
+   "relativePath": "testcases/afw4f7/2845a8409b1c07caa856d1bfbf42ed244b0de9c2.html",
+   "meta": {
+    "regra": "afw4f7",
+    "nomeRegra": "Text has minimum contrast",
+    "caso": "Passed Example 7",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/2845a8409b1c07caa856d1bfbf42ed244b0de9c2.html"
+   }
+  },
+  {
+   "id": "afw4f7-c7c09c1019",
+   "relativePath": "testcases/afw4f7/c7c09c1019dcf1d1c67183001b4d459dee7a87ff.html",
+   "meta": {
+    "regra": "afw4f7",
+    "nomeRegra": "Text has minimum contrast",
+    "caso": "Passed Example 8",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/c7c09c1019dcf1d1c67183001b4d459dee7a87ff.html"
+   }
+  },
+  {
+   "id": "afw4f7-66a3ba7bc0",
+   "relativePath": "testcases/afw4f7/66a3ba7bc0027a9556596e3c378c926a537c1901.html",
+   "meta": {
+    "regra": "afw4f7",
+    "nomeRegra": "Text has minimum contrast",
+    "caso": "Passed Example 9",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/66a3ba7bc0027a9556596e3c378c926a537c1901.html"
+   }
+  },
+  {
+   "id": "afw4f7-173cb00f20",
+   "relativePath": "testcases/afw4f7/173cb00f20c52f35970c322dedf7bc11450b70c1.html",
+   "meta": {
+    "regra": "afw4f7",
+    "nomeRegra": "Text has minimum contrast",
+    "caso": "Passed Example 10",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/173cb00f20c52f35970c322dedf7bc11450b70c1.html"
+   }
+  },
+  {
+   "id": "afw4f7-668856825e",
+   "relativePath": "testcases/afw4f7/668856825e6d3b4e480005acf97723c7b1004ba3.html",
+   "meta": {
+    "regra": "afw4f7",
+    "nomeRegra": "Text has minimum contrast",
+    "caso": "Passed Example 11",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/668856825e6d3b4e480005acf97723c7b1004ba3.html"
+   }
+  },
+  {
+   "id": "afw4f7-eaf0a92689",
+   "relativePath": "testcases/afw4f7/eaf0a926896f045a498073da42ea6263a4d6d36c.html",
+   "meta": {
+    "regra": "afw4f7",
+    "nomeRegra": "Text has minimum contrast",
+    "caso": "Failed Example 1",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/eaf0a926896f045a498073da42ea6263a4d6d36c.html"
+   }
+  },
+  {
+   "id": "afw4f7-e8f3acb1dc",
+   "relativePath": "testcases/afw4f7/e8f3acb1dc814b8b815c69b7150cdea67d5bd98e.html",
+   "meta": {
+    "regra": "afw4f7",
+    "nomeRegra": "Text has minimum contrast",
+    "caso": "Failed Example 2",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/e8f3acb1dc814b8b815c69b7150cdea67d5bd98e.html"
+   }
+  },
+  {
+   "id": "afw4f7-41afaa9b33",
+   "relativePath": "testcases/afw4f7/41afaa9b33287aba9c608c3466e2b164f57a02ed.html",
+   "meta": {
+    "regra": "afw4f7",
+    "nomeRegra": "Text has minimum contrast",
+    "caso": "Failed Example 3",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/41afaa9b33287aba9c608c3466e2b164f57a02ed.html"
+   }
+  },
+  {
+   "id": "afw4f7-7b27adc8d5",
+   "relativePath": "testcases/afw4f7/7b27adc8d5a8f07dca43b0f90806f40bc2a1b15b.html",
+   "meta": {
+    "regra": "afw4f7",
+    "nomeRegra": "Text has minimum contrast",
+    "caso": "Failed Example 4",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/7b27adc8d5a8f07dca43b0f90806f40bc2a1b15b.html"
+   }
+  },
+  {
+   "id": "afw4f7-7507c8139c",
+   "relativePath": "testcases/afw4f7/7507c8139cfda2c482c394fe00aaaf69e15acabb.html",
+   "meta": {
+    "regra": "afw4f7",
+    "nomeRegra": "Text has minimum contrast",
+    "caso": "Failed Example 5",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/7507c8139cfda2c482c394fe00aaaf69e15acabb.html"
+   }
+  },
+  {
+   "id": "afw4f7-b1a65bd183",
+   "relativePath": "testcases/afw4f7/b1a65bd18381a1ea4ad3077fd98c50368947012c.html",
+   "meta": {
+    "regra": "afw4f7",
+    "nomeRegra": "Text has minimum contrast",
+    "caso": "Failed Example 6",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/b1a65bd18381a1ea4ad3077fd98c50368947012c.html"
+   }
+  },
+  {
+   "id": "afw4f7-bf47c65f28",
+   "relativePath": "testcases/afw4f7/bf47c65f2854b6ac100a6f700d354b243b069231.html",
+   "meta": {
+    "regra": "afw4f7",
+    "nomeRegra": "Text has minimum contrast",
+    "caso": "Failed Example 7",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/bf47c65f2854b6ac100a6f700d354b243b069231.html"
+   }
+  },
+  {
+   "id": "afw4f7-308839f424",
+   "relativePath": "testcases/afw4f7/308839f424ef1d9dbb5aab0cd9079827ecb00895.html",
+   "meta": {
+    "regra": "afw4f7",
+    "nomeRegra": "Text has minimum contrast",
+    "caso": "Failed Example 8",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/308839f424ef1d9dbb5aab0cd9079827ecb00895.html"
+   }
+  },
+  {
+   "id": "afw4f7-a7d34d6d1d",
+   "relativePath": "testcases/afw4f7/a7d34d6d1dad765c7e444d3c3f63b18ca4742e9e.html",
+   "meta": {
+    "regra": "afw4f7",
+    "nomeRegra": "Text has minimum contrast",
+    "caso": "Failed Example 9",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/a7d34d6d1dad765c7e444d3c3f63b18ca4742e9e.html"
+   }
+  },
+  {
+   "id": "afw4f7-19123c99ec",
+   "relativePath": "testcases/afw4f7/19123c99ec390011b87736827720d5e1e794bad2.html",
+   "meta": {
+    "regra": "afw4f7",
+    "nomeRegra": "Text has minimum contrast",
+    "caso": "Failed Example 10",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/19123c99ec390011b87736827720d5e1e794bad2.html"
+   }
+  },
+  {
+   "id": "afw4f7-2347a45232",
+   "relativePath": "testcases/afw4f7/2347a45232c34aa309087ed099f4781cd70b5b1e.html",
+   "meta": {
+    "regra": "afw4f7",
+    "nomeRegra": "Text has minimum contrast",
+    "caso": "Inapplicable Example 1",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/2347a45232c34aa309087ed099f4781cd70b5b1e.html"
+   }
+  },
+  {
+   "id": "afw4f7-dbd2374952",
+   "relativePath": "testcases/afw4f7/dbd2374952b96375369afe2a012bfbadd182bf6b.html",
+   "meta": {
+    "regra": "afw4f7",
+    "nomeRegra": "Text has minimum contrast",
+    "caso": "Inapplicable Example 2",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/dbd2374952b96375369afe2a012bfbadd182bf6b.html"
+   }
+  },
+  {
+   "id": "afw4f7-fc92e273e0",
+   "relativePath": "testcases/afw4f7/fc92e273e09ad225227f488e3a016fd8d4aad10c.html",
+   "meta": {
+    "regra": "afw4f7",
+    "nomeRegra": "Text has minimum contrast",
+    "caso": "Inapplicable Example 3",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/fc92e273e09ad225227f488e3a016fd8d4aad10c.html"
+   }
+  },
+  {
+   "id": "afw4f7-881897444d",
+   "relativePath": "testcases/afw4f7/881897444deae644139c4b799b8eeb4b4b764c2a.html",
+   "meta": {
+    "regra": "afw4f7",
+    "nomeRegra": "Text has minimum contrast",
+    "caso": "Inapplicable Example 4",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/881897444deae644139c4b799b8eeb4b4b764c2a.html"
+   }
+  },
+  {
+   "id": "afw4f7-20f9cd78dd",
+   "relativePath": "testcases/afw4f7/20f9cd78dd0fa87ee8d40ea3ed35a1fe3ff66508.html",
+   "meta": {
+    "regra": "afw4f7",
+    "nomeRegra": "Text has minimum contrast",
+    "caso": "Inapplicable Example 5",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/20f9cd78dd0fa87ee8d40ea3ed35a1fe3ff66508.html"
+   }
+  },
+  {
+   "id": "afw4f7-328b967c5b",
+   "relativePath": "testcases/afw4f7/328b967c5b544b48f7acd8e42f2f05d355501f2a.html",
+   "meta": {
+    "regra": "afw4f7",
+    "nomeRegra": "Text has minimum contrast",
+    "caso": "Inapplicable Example 6",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/328b967c5b544b48f7acd8e42f2f05d355501f2a.html"
+   }
+  },
+  {
+   "id": "afw4f7-7c7d6412da",
+   "relativePath": "testcases/afw4f7/7c7d6412dae7381d90517a6f3c0a30104d63062a.html",
+   "meta": {
+    "regra": "afw4f7",
+    "nomeRegra": "Text has minimum contrast",
+    "caso": "Inapplicable Example 7",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/7c7d6412dae7381d90517a6f3c0a30104d63062a.html"
+   }
+  },
+  {
+   "id": "afw4f7-53386f6832",
+   "relativePath": "testcases/afw4f7/53386f68326a53798e776b48e81b32659424d6d3.html",
+   "meta": {
+    "regra": "afw4f7",
+    "nomeRegra": "Text has minimum contrast",
+    "caso": "Inapplicable Example 8",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/53386f68326a53798e776b48e81b32659424d6d3.html"
+   }
+  },
+  {
+   "id": "afw4f7-9e3383a60a",
+   "relativePath": "testcases/afw4f7/9e3383a60ab67d5988ac2144fec58a34677c52b2.html",
+   "meta": {
+    "regra": "afw4f7",
+    "nomeRegra": "Text has minimum contrast",
+    "caso": "Inapplicable Example 9",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/9e3383a60ab67d5988ac2144fec58a34677c52b2.html"
+   }
+  },
+  {
+   "id": "afw4f7-b4fcc1ea76",
+   "relativePath": "testcases/afw4f7/b4fcc1ea76d19ae86033ed687613f78297ee6069.html",
+   "meta": {
+    "regra": "afw4f7",
+    "nomeRegra": "Text has minimum contrast",
+    "caso": "Inapplicable Example 10",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/b4fcc1ea76d19ae86033ed687613f78297ee6069.html"
+   }
+  },
+  {
+   "id": "afw4f7-6b811d065f",
+   "relativePath": "testcases/afw4f7/6b811d065fc243c2c94002f315891791e181d518.html",
+   "meta": {
+    "regra": "afw4f7",
+    "nomeRegra": "Text has minimum contrast",
+    "caso": "Inapplicable Example 11",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/6b811d065fc243c2c94002f315891791e181d518.html"
+   }
+  },
+  {
+   "id": "4e8ab6-eadf2a087a",
+   "relativePath": "testcases/4e8ab6/eadf2a087a82575bcdf9f9158e698a576e9627c8.html",
+   "meta": {
+    "regra": "4e8ab6",
+    "nomeRegra": "Element with role attribute has required states and properties",
+    "caso": "Passed Example 1",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/4e8ab6/eadf2a087a82575bcdf9f9158e698a576e9627c8.html"
+   }
+  },
+  {
+   "id": "4e8ab6-5b39aa3700",
+   "relativePath": "testcases/4e8ab6/5b39aa37000933c7b9a766970b829ce5fada62d6.html",
+   "meta": {
+    "regra": "4e8ab6",
+    "nomeRegra": "Element with role attribute has required states and properties",
+    "caso": "Passed Example 2",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/4e8ab6/5b39aa37000933c7b9a766970b829ce5fada62d6.html"
+   }
+  },
+  {
+   "id": "4e8ab6-11c5321c05",
+   "relativePath": "testcases/4e8ab6/11c5321c05c7b83b8707eee76574a94bd44033fe.html",
+   "meta": {
+    "regra": "4e8ab6",
+    "nomeRegra": "Element with role attribute has required states and properties",
+    "caso": "Passed Example 3",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/4e8ab6/11c5321c05c7b83b8707eee76574a94bd44033fe.html"
+   }
+  },
+  {
+   "id": "4e8ab6-3da0918b07",
+   "relativePath": "testcases/4e8ab6/3da0918b07e5736d55b4b405a22860d889931c15.html",
+   "meta": {
+    "regra": "4e8ab6",
+    "nomeRegra": "Element with role attribute has required states and properties",
+    "caso": "Passed Example 4",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/4e8ab6/3da0918b07e5736d55b4b405a22860d889931c15.html"
+   }
+  },
+  {
+   "id": "4e8ab6-58a35afd29",
+   "relativePath": "testcases/4e8ab6/58a35afd2998bb6f9c670cb74fa7b550e80897b4.html",
+   "meta": {
+    "regra": "4e8ab6",
+    "nomeRegra": "Element with role attribute has required states and properties",
+    "caso": "Passed Example 5",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/4e8ab6/58a35afd2998bb6f9c670cb74fa7b550e80897b4.html"
+   }
+  },
+  {
+   "id": "4e8ab6-986038d854",
+   "relativePath": "testcases/4e8ab6/986038d85467255cef4ed7d72c231442427ece23.html",
+   "meta": {
+    "regra": "4e8ab6",
+    "nomeRegra": "Element with role attribute has required states and properties",
+    "caso": "Passed Example 6",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/4e8ab6/986038d85467255cef4ed7d72c231442427ece23.html"
+   }
+  },
+  {
+   "id": "4e8ab6-80462b7b8c",
+   "relativePath": "testcases/4e8ab6/80462b7b8c490305d1de7e3136c0bcfaef31789f.html",
+   "meta": {
+    "regra": "4e8ab6",
+    "nomeRegra": "Element with role attribute has required states and properties",
+    "caso": "Failed Example 1",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/4e8ab6/80462b7b8c490305d1de7e3136c0bcfaef31789f.html"
+   }
+  },
+  {
+   "id": "4e8ab6-907f05aed2",
+   "relativePath": "testcases/4e8ab6/907f05aed287f7407d5f95e7d39bfc1435ec0812.html",
+   "meta": {
+    "regra": "4e8ab6",
+    "nomeRegra": "Element with role attribute has required states and properties",
+    "caso": "Failed Example 2",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/4e8ab6/907f05aed287f7407d5f95e7d39bfc1435ec0812.html"
+   }
+  },
+  {
+   "id": "4e8ab6-9bb1bdb3e9",
+   "relativePath": "testcases/4e8ab6/9bb1bdb3e95aa9b895fc4f32b0c2cfc917a07a72.html",
+   "meta": {
+    "regra": "4e8ab6",
+    "nomeRegra": "Element with role attribute has required states and properties",
+    "caso": "Failed Example 3",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/4e8ab6/9bb1bdb3e95aa9b895fc4f32b0c2cfc917a07a72.html"
+   }
+  },
+  {
+   "id": "4e8ab6-43af91df52",
+   "relativePath": "testcases/4e8ab6/43af91df529613e51429e18d43ce3df99b189c0f.html",
+   "meta": {
+    "regra": "4e8ab6",
+    "nomeRegra": "Element with role attribute has required states and properties",
+    "caso": "Failed Example 4",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/4e8ab6/43af91df529613e51429e18d43ce3df99b189c0f.html"
+   }
+  },
+  {
+   "id": "4e8ab6-7a1942d2d5",
+   "relativePath": "testcases/4e8ab6/7a1942d2d52f50c5df458877a0ee18dc5a22b0c3.html",
+   "meta": {
+    "regra": "4e8ab6",
+    "nomeRegra": "Element with role attribute has required states and properties",
+    "caso": "Failed Example 5",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/4e8ab6/7a1942d2d52f50c5df458877a0ee18dc5a22b0c3.html"
+   }
+  },
+  {
+   "id": "4e8ab6-9d80b71ad3",
+   "relativePath": "testcases/4e8ab6/9d80b71ad39b258fb75db804867f189d76ecdab8.html",
+   "meta": {
+    "regra": "4e8ab6",
+    "nomeRegra": "Element with role attribute has required states and properties",
+    "caso": "Inapplicable Example 1",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/4e8ab6/9d80b71ad39b258fb75db804867f189d76ecdab8.html"
+   }
+  },
+  {
+   "id": "4e8ab6-c43c967907",
+   "relativePath": "testcases/4e8ab6/c43c9679072e95ce85f8a7cb7581e991e73124c7.html",
+   "meta": {
+    "regra": "4e8ab6",
+    "nomeRegra": "Element with role attribute has required states and properties",
+    "caso": "Inapplicable Example 2",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/4e8ab6/c43c9679072e95ce85f8a7cb7581e991e73124c7.html"
+   }
+  },
+  {
+   "id": "4e8ab6-f473186fa3",
+   "relativePath": "testcases/4e8ab6/f473186fa351637a3c034b2df567239a39a8139c.html",
+   "meta": {
+    "regra": "4e8ab6",
+    "nomeRegra": "Element with role attribute has required states and properties",
+    "caso": "Inapplicable Example 3",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/4e8ab6/f473186fa351637a3c034b2df567239a39a8139c.html"
+   }
+  },
+  {
+   "id": "5f99a7-287a728608",
+   "relativePath": "testcases/5f99a7/287a72860814f903d561dc3e7765f507ca041624.html",
+   "meta": {
+    "regra": "5f99a7",
+    "nomeRegra": "ARIA attribute is defined in WAI-ARIA",
+    "caso": "Passed Example 2",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/5f99a7/287a72860814f903d561dc3e7765f507ca041624.html"
+   }
+  },
+  {
+   "id": "e086e5-cfb1790405",
+   "relativePath": "testcases/e086e5/cfb1790405bb1ff793ed15a73372d53e79d2d7e0.html",
+   "meta": {
+    "regra": "e086e5",
+    "nomeRegra": "Form field has non-empty accessible name",
+    "caso": "Passed Example 8",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/e086e5/cfb1790405bb1ff793ed15a73372d53e79d2d7e0.html"
+   }
+  },
+  {
+   "id": "e086e5-2243d6e9d1",
+   "relativePath": "testcases/e086e5/2243d6e9d1eb6938aff03536125ebc582440fbe7.html",
+   "meta": {
+    "regra": "e086e5",
+    "nomeRegra": "Form field has non-empty accessible name",
+    "caso": "Passed Example 9",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/e086e5/2243d6e9d1eb6938aff03536125ebc582440fbe7.html"
+   }
+  },
+  {
+   "id": "e086e5-1d9a4d0eba",
+   "relativePath": "testcases/e086e5/1d9a4d0eba21c8bb02580c46142ec75842bd3557.html",
+   "meta": {
+    "regra": "e086e5",
+    "nomeRegra": "Form field has non-empty accessible name",
+    "caso": "Failed Example 9",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/e086e5/1d9a4d0eba21c8bb02580c46142ec75842bd3557.html"
+   }
+  },
+  {
+   "id": "2779a5-94ff404844",
+   "relativePath": "testcases/2779a5/94ff40484422832c2910086d4387163aa2d9dd7d.html",
+   "meta": {
+    "regra": "2779a5",
+    "nomeRegra": "HTML page has non-empty title",
+    "caso": "Passed Example 2",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/2779a5/94ff40484422832c2910086d4387163aa2d9dd7d.html"
+   }
+  },
+  {
+   "id": "2779a5-9c5eeb5351",
+   "relativePath": "testcases/2779a5/9c5eeb535181f3709e13b548a04b9d0054532cdd.html",
+   "meta": {
+    "regra": "2779a5",
+    "nomeRegra": "HTML page has non-empty title",
+    "caso": "Failed Example 6",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/2779a5/9c5eeb535181f3709e13b548a04b9d0054532cdd.html"
+   }
+  },
+  {
+   "id": "b4f0c3-08e8943b84",
+   "relativePath": "testcases/b4f0c3/08e8943b849762eb7f18654c7f9e479ad33b2840.html",
+   "meta": {
+    "regra": "b4f0c3",
+    "nomeRegra": "Meta viewport allows for zoom",
+    "caso": "Passed Example 2",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/b4f0c3/08e8943b849762eb7f18654c7f9e479ad33b2840.html"
+   }
+  },
+  {
+   "id": "b4f0c3-30b40365b4",
+   "relativePath": "testcases/b4f0c3/30b40365b4e59aa103ff04c369f31658fa6e2790.html",
+   "meta": {
+    "regra": "b4f0c3",
+    "nomeRegra": "Meta viewport allows for zoom",
+    "caso": "Passed Example 5",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/b4f0c3/30b40365b4e59aa103ff04c369f31658fa6e2790.html"
+   }
+  },
+  {
+   "id": "b4f0c3-8735b02e59",
+   "relativePath": "testcases/b4f0c3/8735b02e59dd802a5a9e9a7ea1934a106d2963eb.html",
+   "meta": {
+    "regra": "b4f0c3",
+    "nomeRegra": "Meta viewport allows for zoom",
+    "caso": "Failed Example 2",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/b4f0c3/8735b02e59dd802a5a9e9a7ea1934a106d2963eb.html"
+   }
+  },
+  {
+   "id": "b4f0c3-c94a59f8c3",
+   "relativePath": "testcases/b4f0c3/c94a59f8c3b17d722781af36da3556ff4b418776.html",
+   "meta": {
+    "regra": "b4f0c3",
+    "nomeRegra": "Meta viewport allows for zoom",
+    "caso": "Failed Example 3",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/b4f0c3/c94a59f8c3b17d722781af36da3556ff4b418776.html"
+   }
+  },
+  {
+   "id": "b4f0c3-9f288c284d",
+   "relativePath": "testcases/b4f0c3/9f288c284df9ade53aa33e50ec50c879d5aba4ef.html",
+   "meta": {
+    "regra": "b4f0c3",
+    "nomeRegra": "Meta viewport allows for zoom",
+    "caso": "Failed Example 7",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/b4f0c3/9f288c284df9ade53aa33e50ec50c879d5aba4ef.html"
+   }
+  },
+  {
+   "id": "674b10-bd56be0bc9",
+   "relativePath": "testcases/674b10/bd56be0bc987f29ac92355ed781fe06ae8e57176.html",
+   "meta": {
+    "regra": "674b10",
+    "nomeRegra": "Role attribute has valid value",
+    "caso": "Inapplicable Example 4",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/674b10/bd56be0bc987f29ac92355ed781fe06ae8e57176.html"
+   }
+  },
+  {
+   "id": "4e8ab6-8122ef64b8",
+   "relativePath": "testcases/4e8ab6/8122ef64b86fcd30dadeea664029af028382d1b4.html",
+   "meta": {
+    "regra": "4e8ab6",
+    "nomeRegra": "Element with role attribute has required states and properties",
+    "caso": "Passed Example 6",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/4e8ab6/8122ef64b86fcd30dadeea664029af028382d1b4.html"
+   }
+  },
+  {
+   "id": "4e8ab6-cde160492f",
+   "relativePath": "testcases/4e8ab6/cde160492f9d0a309b4f8624e51d3380b318b046.html",
+   "meta": {
+    "regra": "4e8ab6",
+    "nomeRegra": "Element with role attribute has required states and properties",
+    "caso": "Inapplicable Example 2",
+    "esperado": "inapplicable",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/4e8ab6/cde160492f9d0a309b4f8624e51d3380b318b046.html"
+   }
+  },
+  {
+   "id": "afw4f7-eb4bfbbeba",
+   "relativePath": "testcases/afw4f7/eb4bfbbeba4e803fef10ebad17427f32e306ae82.html",
+   "meta": {
+    "regra": "afw4f7",
+    "nomeRegra": "Text has minimum contrast",
+    "caso": "Passed Example 7",
+    "esperado": "passed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/eb4bfbbeba4e803fef10ebad17427f32e306ae82.html"
+   }
+  },
+  {
+   "id": "afw4f7-8c33a0af47",
+   "relativePath": "testcases/afw4f7/8c33a0af471cc3c1abbb9f709afa6629b13daf3a.html",
+   "meta": {
+    "regra": "afw4f7",
+    "nomeRegra": "Text has minimum contrast",
+    "caso": "Failed Example 11",
+    "esperado": "failed",
+    "urlW3C": "https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afw4f7/8c33a0af471cc3c1abbb9f709afa6629b13daf3a.html"
+   }
+  }
+ ],
+ "bad": [
+  {
+   "id": "bad-home",
+   "url": "https://www.w3.org/WAI/demos/bad/before/home.html",
+   "meta": {
+    "pagina": "home"
+   }
+  },
+  {
+   "id": "bad-news",
+   "url": "https://www.w3.org/WAI/demos/bad/before/news.html",
+   "meta": {
+    "pagina": "news"
+   }
+  },
+  {
+   "id": "bad-tickets",
+   "url": "https://www.w3.org/WAI/demos/bad/before/tickets.html",
+   "meta": {
+    "pagina": "tickets"
+   }
+  },
+  {
+   "id": "bad-survey",
+   "url": "https://www.w3.org/WAI/demos/bad/before/survey.html",
+   "meta": {
+    "pagina": "survey"
+   }
+  }
+ ],
+ "sites": [
+  {
+   "id": "discourse",
+   "url": "https://meta.discourse.org/",
+   "meta": {
+    "descricao": "Fórum (Discourse, código aberto)",
+    "origem": "internacional"
+   }
+  },
+  {
+   "id": "openlibrary",
+   "url": "https://openlibrary.org/",
+   "meta": {
+    "descricao": "Biblioteca digital (Open Library, código aberto)",
+    "origem": "internacional"
+   }
+  },
+  {
+   "id": "mastodon",
+   "url": "https://mastodon.social/explore",
+   "meta": {
+    "descricao": "Rede social (Mastodon, código aberto)",
+    "origem": "internacional"
+   }
+  },
+  {
+   "id": "wikipedia",
+   "url": "https://pt.wikipedia.org/wiki/Acessibilidade",
+   "meta": {
+    "descricao": "Enciclopédia (Wikipédia, MediaWiki)",
+    "origem": "brasileiro/lusófono"
+   }
+  },
+  {
+   "id": "govbr",
+   "url": "https://www.gov.br/pt-br",
+   "meta": {
+    "descricao": "Portal do governo federal",
+    "origem": "brasileiro"
+   }
+  },
+  {
+   "id": "bcb",
+   "url": "https://www.bcb.gov.br/",
+   "meta": {
+    "descricao": "Banco Central do Brasil",
+    "origem": "brasileiro",
+    "substitui": "ibge (bloqueado por verificação anti-robô da Cloudflare em 23/11/2026)"
+   }
+  },
+  {
+   "id": "ufam",
+   "url": "https://ufam.edu.br/",
+   "meta": {
+    "descricao": "Universidade Federal do Amazonas",
+    "origem": "brasileiro"
+   }
+  },
+  {
+   "id": "camara",
+   "url": "https://www.camara.leg.br/",
+   "meta": {
+    "descricao": "Câmara dos Deputados",
+    "origem": "brasileiro"
+   }
+  },
+  {
+   "id": "g1",
+   "url": "https://g1.globo.com/",
+   "meta": {
+    "descricao": "Portal de notícias",
+    "origem": "brasileiro"
+   }
+  },
+  {
+   "id": "americanas",
+   "url": "https://www.americanas.com.br/",
+   "meta": {
+    "descricao": "Comércio eletrônico (Americanas)",
+    "origem": "brasileiro",
+    "substitui": "mercadolivre (devolveu página de erro ao navegador automatizado em 23/11/2026)"
+   }
+  }
+ ]
+}
